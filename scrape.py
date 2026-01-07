@@ -1,172 +1,214 @@
 import json
 import os
 import time
-from datetime import datetime, timedelta
+import re
+from datetime import datetime, timedelta, timezone
 from playwright.sync_api import sync_playwright
 
-# Konfigurasi
+# --- KONFIGURASI ---
 OUTPUT_DIR = "data"
-OUTPUT_FILE = os.path.join(OUTPUT_DIR, "jadwal_bola.json")
+OUTPUT_FILE = os.path.join(OUTPUT_DIR, "jadwal_bola_hd.json")
 
-def get_matches_for_date(page, target_date_str):
+# Zona Waktu Indonesia Barat (UTC+7)
+WIB = timezone(timedelta(hours=7))
+
+def get_high_res_image(url):
+    """Mengubah URL gambar thumbnail OneFootball menjadi HD."""
+    if not url:
+        return ""
+    # Ganti ukuran w=22/h=22 menjadi w=128 (atau lebih besar)
+    # Hapus parameter dpr untuk mendapatkan gambar murni atau set dpr=2
+    # Contoh: https://image-service...transform?w=22... -> w=128
+    
+    # Cara regex aman: ganti parameter w=... dengan w=128
+    new_url = re.sub(r'w=\d+', 'w=128', url)
+    new_url = re.sub(r'h=\d+', 'h=128', new_url)
+    return new_url
+
+def parse_iso_date_to_wib(iso_date_str):
     """
-    Fungsi untuk scrape satu halaman tanggal tertentu.
-    target_date_str format: YYYY-MM-DD
+    Mengubah format ISO UTC (2026-01-07T17:30:00Z) 
+    menjadi Format Tanggal & Jam WIB.
     """
-    url = f"https://onefootball.com/id/pertandingan?date={target_date_str}"
-    print(f"\n--- Mengakses jadwal tanggal: {target_date_str} ---")
+    try:
+        # Hapus 'Z' ubah jadi +00:00 biar dikenali sebagai UTC
+        clean_iso = iso_date_str.replace("Z", "+00:00")
+        dt_utc = datetime.fromisoformat(clean_iso)
+        
+        # Konversi ke WIB
+        dt_wib = dt_utc.astimezone(WIB)
+        
+        # Return object dictionary biar gampang dipakai
+        return {
+            "full_datetime": dt_wib.isoformat(),
+            "date_display": dt_wib.strftime("%Y-%m-%d"), # Tanggal Lokal (Bisa beda dgn tanggal scrape)
+            "time_display": dt_wib.strftime("%H:%M")     # Jam Lokal (WIB)
+        }
+    except Exception as e:
+        return {"full_datetime": iso_date_str, "date_display": "N/A", "time_display": "N/A"}
+
+def scrape_matches_by_date(page, date_str):
+    """Scrape data pertandingan berdasarkan tanggal URL."""
+    url = f"https://onefootball.com/id/pertandingan?date={date_str}"
+    print(f"\n--- ⏳ Sedang scrape jadwal URL tanggal: {date_str} ---")
     
     page.goto(url, wait_until="networkidle", timeout=60000)
     
-    # Scroll ke bawah berulang kali untuk memicu lazy load semua liga
-    for _ in range(5):
-        page.mouse.wheel(0, 1500)
-        time.sleep(1)
+    # Scroll perlahan agar gambar ter-load (penting!)
+    for _ in range(7):
+        page.mouse.wheel(0, 1000)
+        time.sleep(1) # Delay biar script JS website jalan dulu
     
-    # Tunggu sebentar agar DOM stabil
-    time.sleep(2)
+    matches_list = []
 
-    daily_matches = []
+    # OneFootball membagi per kompetisi. 
+    # Kita cari elemen kontainer yang membungkus Header Liga + List Match
+    
+    # Selector ini mencari blok pembungkus list kartu pertandingan
+    # Biasanya struktur: 
+    # <div> -> <div class="SectionHeader...">LIGA</div> -> <ul class="MatchCardsList...">MATCHES</ul>
+    
+    # Kita cari semua container list pertandingan
+    # Selector class MatchCardsList_matches...
+    match_lists_ul = page.locator("ul[class*='MatchCardsList_matches']").all()
+    
+    print(f"   Ditemukan {len(match_lists_ul)} grup kompetisi/liga.")
 
-    # 1. Cari Container per Kompetisi (Liga)
-    # Di OneFootball, setiap liga dibungkus dalam div yang mengandung 'matchCardsList'
-    league_containers = page.locator("div[class*='matchCardsList']").all()
-
-    print(f"Ditemukan {len(league_containers)} kompetisi/liga pada tanggal ini.")
-
-    for container in league_containers:
+    for ul_element in match_lists_ul:
         try:
-            # A. Ambil Nama Liga
-            # Biasanya ada di dalam SectionHeader h2 atau a href kompetisi
-            league_header = container.locator("h2[class*='Title_leftAlign']").first
+            # 1. CARI JUDUL LIGA
+            # Logika: Judul liga biasanya ada di "atas" elemen UL ini (previous sibling atau parent search)
+            # Kita coba cari elemen SectionHeader terdekat di dalam parent yang sama
             
-            if league_header.count() == 0:
-                # Fallback jika struktur h2 beda
-                league_header = container.locator("a[href*='/kompetisi/']").first
-
-            league_name = league_header.text_content().strip() if league_header.count() > 0 else "Kompetisi Lainnya"
+            # Naik ke parent div pembungkus
+            parent_container = ul_element.locator("xpath=..") 
             
-            # Ambil Logo Liga (Opsional)
-            league_logo_loc = container.locator("img[class*='EntityLogo_entityLogoImage']").first
-            league_logo = league_logo_loc.get_attribute("src") if league_logo_loc.count() > 0 else ""
+            # Cari Header Liga di dalam parent tersebut
+            league_header = parent_container.locator("a[class*='SectionHeader_link']").first
+            
+            league_name = "Unknown League"
+            league_logo_hd = ""
 
-            # B. Ambil List Pertandingan di Liga Tersebut
-            match_cards = container.locator("li a[class*='MatchCard_matchCard']").all()
+            if league_header.count() > 0:
+                # Ambil nama liga dari h2 di dalam header
+                h2_title = parent_container.locator("h2[class*='Title_leftAlign']").first
+                if h2_title.count() > 0:
+                    league_name = h2_title.text_content().strip()
+                
+                # Ambil Logo Liga
+                img_league = league_header.locator("img").first
+                if img_league.count() > 0:
+                    src = img_league.get_attribute("src")
+                    league_logo_hd = get_high_res_image(src)
 
-            for card in match_cards:
+            # 2. ITERASI PERTANDINGAN DI DALAM LIST INI
+            cards = ul_element.locator("li a[class*='MatchCard_matchCard']").all()
+            
+            for card in cards:
                 try:
-                    # Link Match
-                    link = "https://onefootball.com" + card.get_attribute("href")
-
-                    # Ambil Nama Tim (Home & Away)
+                    match_link = "https://onefootball.com" + card.get_attribute("href")
+                    
+                    # Ambil Nama Tim
                     team_names_loc = card.locator("span[class*='SimpleMatchCardTeam_simpleMatchCardTeam__name']")
-                    team_names = team_names_loc.all_text_contents()
-
-                    # Ambil Logo Tim
-                    logos_loc = card.locator("img[class*='ImageWithSets_of-image__img']")
-                    logos = [img.get_attribute("src") for img in logos_loc.all()]
-
-                    # Ambil Waktu Mentah (ISO format dari tag <time>)
-                    time_loc = card.locator("time").first
-                    raw_time = ""
-                    readable_time = "TBD"
+                    all_teams = team_names_loc.all_text_contents()
                     
-                    if time_loc.count() > 0:
-                        raw_time = time_loc.get_attribute("datetime") # ex: 2026-01-07T17:30:00Z
+                    if len(all_teams) < 2:
+                        continue # Skip kalau data gak lengkap
                         
-                        # Format ulang jam menjadi HH:MM
-                        try:
-                            # Parse ISO format sederhana
-                            dt_obj = datetime.fromisoformat(raw_time.replace('Z', '+00:00'))
-                            # Sesuaikan ke WIB (UTC+7) jika perlu, atau ambil jamnya saja
-                            # Di sini kita ambil jamnya saja dari string ISO agar aman
-                            readable_time = dt_obj.strftime("%H:%M")
-                        except:
-                            readable_time = time_loc.text_content().strip()
+                    home_name = all_teams[0].strip()
+                    away_name = all_teams[1].strip()
+
+                    # Ambil Logo Tim & HD-kan
+                    logos_loc = card.locator("img[class*='ImageWithSets_of-image__img']")
+                    home_logo_raw = logos_loc.nth(0).get_attribute("src") if logos_loc.count() > 0 else ""
+                    away_logo_raw = logos_loc.nth(1).get_attribute("src") if logos_loc.count() > 1 else ""
                     
-                    # Ambil Skor (Jika sedang main/selesai)
+                    home_logo_hd = get_high_res_image(home_logo_raw)
+                    away_logo_hd = get_high_res_image(away_logo_raw)
+
+                    # Ambil Waktu & Tanggal
+                    # Penting: Ambil atribut datetime, bukan teks "Besok"/"Hari ini"
+                    time_elem = card.locator("time").first
+                    iso_time = ""
+                    wib_info = {"date_display": date_str, "time_display": "TBD"} # Default
+                    
+                    if time_elem.count() > 0:
+                        iso_time = time_elem.get_attribute("datetime") # Format: 2026-01-07T17:30:00Z
+                        if iso_time:
+                            wib_info = parse_iso_date_to_wib(iso_time)
+
+                    # Ambil Skor (Jika live/selesai)
                     scores_loc = card.locator("span[class*='SimpleMatchCardTeam_simpleMatchCardTeam__score']")
                     scores = scores_loc.all_text_contents()
-                    home_score = scores[0] if len(scores) > 0 else ""
-                    away_score = scores[1] if len(scores) > 1 else ""
+                    home_score = scores[0] if len(scores) > 0 else "-"
+                    away_score = scores[1] if len(scores) > 1 else "-"
+                    
+                    # Cek Status
+                    status = "Jadwal"
+                    if home_score != "-" and away_score != "-":
+                        status = "Selesai/Live"
 
-                    # Validasi minimal data
-                    if len(team_names) >= 2:
-                        home_team = team_names[0].strip()
-                        away_team = team_names[1].strip()
-                    else:
-                        continue
-
-                    home_logo = logos[0] if len(logos) >= 1 else ""
-                    away_logo = logos[1] if len(logos) >= 2 else ""
-
-                    # Susun Data
+                    # Simpan Data
                     match_data = {
-                        "date": target_date_str,
-                        "time": readable_time,
-                        "league": league_name,
-                        "league_logo": league_logo,
-                        "match_title": f"{home_team} vs {away_team}",
-                        "home_team": {
-                            "name": home_team,
-                            "logo": home_logo,
-                            "score": home_score
-                        },
-                        "away_team": {
-                            "name": away_team,
-                            "logo": away_logo,
-                            "score": away_score
-                        },
-                        "status": "Finished" if home_score != "" else "Scheduled",
-                        "link": link
+                        "league_name": league_name,
+                        "league_logo": league_logo_hd,
+                        "match_date": wib_info['date_display'], # Tanggal sesuai WIB
+                        "match_time": wib_info['time_display'], # Jam sesuai WIB
+                        "home_team": home_name,
+                        "home_logo": home_logo_hd,
+                        "home_score": home_score,
+                        "away_team": away_name,
+                        "away_logo": away_logo_hd,
+                        "away_score": away_score,
+                        "link": match_link
                     }
                     
-                    daily_matches.append(match_data)
-
+                    matches_list.append(match_data)
+                    
                 except Exception as e:
-                    continue # Skip kartu rusak
+                    print(f"Error parsing kartu match: {e}")
+                    continue
 
         except Exception as e:
-            print(f"Error parsing league container: {e}")
+            print(f"Error parsing grup liga: {e}")
             continue
-            
-    return daily_matches
+
+    return matches_list
 
 def run():
     with sync_playwright() as p:
+        # Setup Browser
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
-            viewport={"width": 1280, "height": 800},
+            viewport={"width": 1400, "height": 1000}, # Layar lebar biar layout desktop
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         )
         page = context.new_page()
 
-        all_matches_3_days = []
+        all_matches = []
         
-        # Loop untuk 3 hari (Hari ini, Besok, Lusa)
-        start_date = datetime.now()
+        # --- LOGIKA LOOPING 3 HARI ---
+        today = datetime.now()
         
         for i in range(3):
-            # Hitung tanggal
-            current_date = start_date + timedelta(days=i)
-            date_str = current_date.strftime("%Y-%m-%d") # Format YYYY-MM-DD untuk URL
+            # i=0 (Hari ini), i=1 (Besok), i=2 (Lusa)
+            current_check_date = today + timedelta(days=i)
+            date_url_format = current_check_date.strftime("%Y-%m-%d")
             
-            # Scrape
-            matches = get_matches_for_date(page, date_str)
-            all_matches_3_days.extend(matches)
+            # Jalankan scrape
+            daily_data = scrape_matches_by_date(page, date_url_format)
+            all_matches.extend(daily_data)
+            
+            print(f"   ✅ Berhasil ambil {len(daily_data)} pertandingan untuk tanggal URL {date_url_format}")
 
-        # Simpan ke JSON
+        # Simpan JSON
         if not os.path.exists(OUTPUT_DIR):
             os.makedirs(OUTPUT_DIR)
 
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(all_matches_3_days, f, indent=2, ensure_ascii=False)
+            json.dump(all_matches, f, indent=2, ensure_ascii=False)
 
-        print(f"\n==========================================")
-        print(f"Total jadwal tersimpan: {len(all_matches_3_days)}")
-        print(f"Data disimpan di: {OUTPUT_FILE}")
-        print(f"==========================================")
-        
+        print(f"\n🎉 SELESAI! Total {len(all_matches)} pertandingan disimpan di {OUTPUT_FILE}")
         browser.close()
 
 if __name__ == "__main__":
