@@ -4,14 +4,12 @@
   "description": "Scrape OneFootball and generate match posters",
   "main": "scripts/scrape-onefootball.js",
   "scripts": {
-    "scrape": "node scripts/scrape-onefootball.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "scrape": "node scripts/scrape-onefootball.js"
   },
   "dependencies": {
     "axios": "^1.6.0",
     "canvas": "^2.11.2",
-    "cheerio": "^1.0.0-rc.12",
-    "puppeteer": "^21.0.0"
+    "cheerio": "^1.0.0-rc.12"
   },
   "engines": {
     "node": ">=18.0.0"
