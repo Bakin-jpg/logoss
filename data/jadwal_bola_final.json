@@ -5,6 +5,20 @@
     "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/140.png",
     "match_date": "2026-01-07",
     "match_time": "18:00",
+    "home_team": "Antalyaspor",
+    "home_logo": "https://images.onefootball.com/icons/teams/164/236.png",
+    "home_score": "1",
+    "away_team": "Ümraniye",
+    "away_logo": "https://images.onefootball.com/icons/teams/164/3971.png",
+    "away_score": "2",
+    "link": "https://onefootball.com/id/match/2659768"
+  },
+  {
+    "league_name": "Laga Persahabatan Klub",
+    "league_round": "",
+    "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/140.png",
+    "match_date": "2026-01-07",
+    "match_time": "18:00",
     "home_team": "Thun",
     "home_logo": "https://images.onefootball.com/icons/teams/164/547.png",
     "home_score": "",
@@ -21,10 +35,10 @@
     "match_time": "18:30",
     "home_team": "Jepang U23",
     "home_logo": "https://images.onefootball.com/icons/teams/164/1115.png",
-    "home_score": "",
+    "home_score": "2",
     "away_team": "Syria Under 23",
     "away_logo": "https://images.onefootball.com/icons/teams/164/30922.png",
-    "away_score": "",
+    "away_score": "0",
     "link": "https://onefootball.com/id/match/2641415"
   },
   {
@@ -35,10 +49,10 @@
     "match_time": "18:30",
     "home_team": "Korea Selatan U23",
     "home_logo": "https://images.onefootball.com/icons/teams/164/1119.png",
-    "home_score": "",
+    "home_score": "0",
     "away_team": "Iran Under 23",
     "away_logo": "https://images.onefootball.com/icons/teams/164/23878.png",
-    "away_score": "",
+    "away_score": "0",
     "link": "https://onefootball.com/id/match/2641416"
   },
   {
@@ -63,10 +77,10 @@
     "match_time": "19:00",
     "home_team": "Alanyaspor",
     "home_logo": "https://images.onefootball.com/icons/teams/164/2145.png",
-    "home_score": "",
+    "home_score": "0",
     "away_team": "Metaloglobus",
     "away_logo": "https://images.onefootball.com/icons/teams/164/8483.png",
-    "away_score": "",
+    "away_score": "0",
     "link": "https://onefootball.com/id/match/2659370"
   },
   {
@@ -173,6 +187,20 @@
     "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/140.png",
     "match_date": "2026-01-07",
     "match_time": "21:00",
+    "home_team": "Greuther Furth",
+    "home_logo": "https://images.onefootball.com/icons/teams/164/165.png",
+    "home_score": "",
+    "away_team": "1. FC Schweinfurt 05",
+    "away_logo": "https://images.onefootball.com/icons/teams/164/1910.png",
+    "away_score": "",
+    "link": "https://onefootball.com/id/match/2657824"
+  },
+  {
+    "league_name": "Laga Persahabatan Klub",
+    "league_round": "",
+    "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/140.png",
+    "match_date": "2026-01-07",
+    "match_time": "21:00",
     "home_team": "BSC Young Boys",
     "home_logo": "https://images.onefootball.com/icons/teams/164/347.png",
     "home_score": "",
@@ -208,20 +236,6 @@
     "away_logo": "https://images.onefootball.com/icons/teams/164/2253.png",
     "away_score": "",
     "link": "https://onefootball.com/id/match/2657821"
-  },
-  {
-    "league_name": "Laga Persahabatan Klub",
-    "league_round": "",
-    "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/140.png",
-    "match_date": "2026-01-07",
-    "match_time": "21:00",
-    "home_team": "Greuther Furth",
-    "home_logo": "https://images.onefootball.com/icons/teams/164/165.png",
-    "home_score": "",
-    "away_team": "1. FC Schweinfurt 05",
-    "away_logo": "https://images.onefootball.com/icons/teams/164/1910.png",
-    "away_score": "",
-    "link": "https://onefootball.com/id/match/2657824"
   },
   {
     "league_name": "Laga Persahabatan Klub",
@@ -495,20 +509,6 @@
     "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/13.png",
     "match_date": "2026-01-08",
     "match_time": "00:30",
-    "home_team": "Bologna",
-    "home_logo": "https://images.onefootball.com/icons/teams/164/183.png",
-    "home_score": "",
-    "away_team": "Atalanta",
-    "away_logo": "https://images.onefootball.com/icons/teams/164/248.png",
-    "away_score": "",
-    "link": "https://onefootball.com/id/match/2591687"
-  },
-  {
-    "league_name": "Serie A",
-    "league_round": "Pertandingan 19",
-    "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/13.png",
-    "match_date": "2026-01-08",
-    "match_time": "00:30",
     "home_team": "Napoli",
     "home_logo": "https://images.onefootball.com/icons/teams/164/191.png",
     "home_score": "",
@@ -516,6 +516,20 @@
     "away_logo": "https://images.onefootball.com/icons/teams/164/409.png",
     "away_score": "",
     "link": "https://onefootball.com/id/match/2591685"
+  },
+  {
+    "league_name": "Serie A",
+    "league_round": "Pertandingan 19",
+    "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/13.png",
+    "match_date": "2026-01-08",
+    "match_time": "00:30",
+    "home_team": "Bologna",
+    "home_logo": "https://images.onefootball.com/icons/teams/164/183.png",
+    "home_score": "",
+    "away_team": "Atalanta",
+    "away_logo": "https://images.onefootball.com/icons/teams/164/248.png",
+    "away_score": "",
+    "link": "https://onefootball.com/id/match/2591687"
   },
   {
     "league_name": "São Paulo Youth Cup",
@@ -581,25 +595,11 @@
     "match_time": "01:30",
     "home_team": "Sportfreunde Lotte",
     "home_logo": "https://images.onefootball.com/icons/teams/164/833.png",
-    "home_score": "",
+    "home_score": "0",
     "away_team": "Hiltrup",
     "away_logo": "https://images.onefootball.com/icons/teams/164/14362.png",
-    "away_score": "",
+    "away_score": "0",
     "link": "https://onefootball.com/id/match/2657828"
-  },
-  {
-    "league_name": "Maltese Premier League",
-    "league_round": "Pertandingan 15",
-    "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/2877.png",
-    "match_date": "2026-01-08",
-    "match_time": "01:30",
-    "home_team": "Floriana",
-    "home_logo": "https://images.onefootball.com/icons/teams/164/928.png",
-    "home_score": "",
-    "away_team": "Hamrun Spartans",
-    "away_logo": "https://images.onefootball.com/icons/teams/164/45571.png",
-    "away_score": "",
-    "link": "https://onefootball.com/id/match/2645666"
   },
   {
     "league_name": "Maltese Premier League",
@@ -616,6 +616,20 @@
     "link": "https://onefootball.com/id/match/2645667"
   },
   {
+    "league_name": "Maltese Premier League",
+    "league_round": "Pertandingan 15",
+    "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/2877.png",
+    "match_date": "2026-01-08",
+    "match_time": "01:30",
+    "home_team": "Floriana",
+    "home_logo": "https://images.onefootball.com/icons/teams/164/928.png",
+    "home_score": "",
+    "away_team": "Hamrun Spartans",
+    "away_logo": "https://images.onefootball.com/icons/teams/164/45571.png",
+    "away_score": "",
+    "link": "https://onefootball.com/id/match/2645666"
+  },
+  {
     "league_name": "Supercopa de España",
     "league_round": "Semifinal",
     "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/63.png",
@@ -628,20 +642,6 @@
     "away_logo": "https://images.onefootball.com/icons/teams/164/213.png",
     "away_score": "",
     "link": "https://onefootball.com/id/match/2605732"
-  },
-  {
-    "league_name": "Premier League",
-    "league_round": "Pertandingan 21",
-    "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/9.png",
-    "match_date": "2026-01-08",
-    "match_time": "02:30",
-    "home_team": "Everton",
-    "home_logo": "https://images.onefootball.com/icons/teams/164/197.png",
-    "home_score": "",
-    "away_team": "Wolverhampton Wanderers",
-    "away_logo": "https://images.onefootball.com/icons/teams/164/203.png",
-    "away_score": "",
-    "link": "https://onefootball.com/id/match/2595761"
   },
   {
     "league_name": "Premier League",
@@ -714,18 +714,18 @@
     "link": "https://onefootball.com/id/match/2595763"
   },
   {
-    "league_name": "Serie A",
-    "league_round": "Pertandingan 19",
-    "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/13.png",
+    "league_name": "Premier League",
+    "league_round": "Pertandingan 21",
+    "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/9.png",
     "match_date": "2026-01-08",
-    "match_time": "02:45",
-    "home_team": "Lazio",
-    "home_logo": "https://images.onefootball.com/icons/teams/164/139.png",
+    "match_time": "02:30",
+    "home_team": "Everton",
+    "home_logo": "https://images.onefootball.com/icons/teams/164/197.png",
     "home_score": "",
-    "away_team": "Fiorentina",
-    "away_logo": "https://images.onefootball.com/icons/teams/164/15.png",
+    "away_team": "Wolverhampton Wanderers",
+    "away_logo": "https://images.onefootball.com/icons/teams/164/203.png",
     "away_score": "",
-    "link": "https://onefootball.com/id/match/2591689"
+    "link": "https://onefootball.com/id/match/2595761"
   },
   {
     "league_name": "Serie A",
@@ -740,6 +740,20 @@
     "away_logo": "https://images.onefootball.com/icons/teams/164/195.png",
     "away_score": "",
     "link": "https://onefootball.com/id/match/2591686"
+  },
+  {
+    "league_name": "Serie A",
+    "league_round": "Pertandingan 19",
+    "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/13.png",
+    "match_date": "2026-01-08",
+    "match_time": "02:45",
+    "home_team": "Lazio",
+    "home_logo": "https://images.onefootball.com/icons/teams/164/139.png",
+    "home_score": "",
+    "away_team": "Fiorentina",
+    "away_logo": "https://images.onefootball.com/icons/teams/164/15.png",
+    "away_score": "",
+    "link": "https://onefootball.com/id/match/2591689"
   },
   {
     "league_name": "Serie A",
@@ -775,20 +789,6 @@
     "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/9.png",
     "match_date": "2026-01-08",
     "match_time": "03:15",
-    "home_team": "Burnley",
-    "home_logo": "https://images.onefootball.com/icons/teams/164/275.png",
-    "home_score": "",
-    "away_team": "Manchester United",
-    "away_logo": "https://images.onefootball.com/icons/teams/164/21.png",
-    "away_score": "",
-    "link": "https://onefootball.com/id/match/2595764"
-  },
-  {
-    "league_name": "Premier League",
-    "league_round": "Pertandingan 21",
-    "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/9.png",
-    "match_date": "2026-01-08",
-    "match_time": "03:15",
     "home_team": "Newcastle United",
     "home_logo": "https://images.onefootball.com/icons/teams/164/207.png",
     "home_score": "",
@@ -796,6 +796,20 @@
     "away_logo": "https://images.onefootball.com/icons/teams/164/571.png",
     "away_score": "",
     "link": "https://onefootball.com/id/match/2595769"
+  },
+  {
+    "league_name": "Premier League",
+    "league_round": "Pertandingan 21",
+    "league_logo": "https://images.onefootball.com/icons/leagueColoredCompetition/128/9.png",
+    "match_date": "2026-01-08",
+    "match_time": "03:15",
+    "home_team": "Burnley",
+    "home_logo": "https://images.onefootball.com/icons/teams/164/275.png",
+    "home_score": "",
+    "away_team": "Manchester United",
+    "away_logo": "https://images.onefootball.com/icons/teams/164/21.png",
+    "away_score": "",
+    "link": "https://onefootball.com/id/match/2595764"
   },
   {
     "league_name": "São Paulo Youth Cup",
