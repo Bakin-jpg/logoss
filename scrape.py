@@ -1,20 +1,18 @@
 import json
 import os
-import re
 from datetime import datetime, timedelta, timezone
 from playwright.sync_api import sync_playwright
 
 # --- KONFIGURASI ---
 OUTPUT_DIR = "data"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "jadwal_bola_final.json")
-# Set Timezone WIB (UTC+7)
 WIB = timezone(timedelta(hours=7))
 
 def get_high_res_image(url):
     """Mengubah URL thumbnail menjadi HD (128px)."""
     if not url: return ""
     try:
-        # Ganti ukuran w=... menjadi w=128
+        import re
         new_url = re.sub(r'w=\d+', 'w=128', url)
         new_url = re.sub(r'h=\d+', 'h=128', new_url)
         return new_url
@@ -22,98 +20,58 @@ def get_high_res_image(url):
         return url
 
 def parse_iso_date_to_wib(iso_date_str):
-    """Ubah waktu ISO UTC ke format Tanggal & Jam WIB."""
+    """Ubah waktu ISO UTC ke WIB."""
     try:
-        if not iso_date_str: return {"date": "TBD", "time": "TBD"}
-        
-        # Bersihkan string ISO
+        if not iso_date_str: return {"date": "TBD", "time": "TBD", "ts": 0}
         clean_iso = iso_date_str.replace("Z", "+00:00")
         dt_utc = datetime.fromisoformat(clean_iso)
-        
-        # Konversi ke WIB
         dt_wib = dt_utc.astimezone(WIB)
-        
         return {
             "date": dt_wib.strftime("%Y-%m-%d"),
             "time": dt_wib.strftime("%H:%M"),
-            "timestamp": dt_wib.timestamp() # Untuk sorting
+            "ts": dt_wib.timestamp()
         }
     except:
-        return {"date": "TBD", "time": "TBD", "timestamp": 0}
+        return {"date": "TBD", "time": "TBD", "ts": 0}
 
-def extract_matches_recursively(data):
+def find_matches_in_json(data, matches_found):
     """
-    Fungsi 'Sapu Jagat': Mencari objek 'matchCards' di kedalaman JSON manapun.
-    Ini menjamin data Lecce vs Roma pasti ketemu di mana pun dia sembunyi.
+    Fungsi Rekursif: Mencari objek pertandingan di kedalaman JSON manapun.
+    Mendeteksi pola: objek yang punya 'homeTeam' DAN 'kickoff'.
     """
-    extracted_matches = []
-
     if isinstance(data, dict):
-        # Cek apakah dictionary ini adalah container Match Cards
-        if 'matchCards' in data and isinstance(data['matchCards'], list):
-            # Kita menemukan "Sarang" Pertandingan!
-            
-            # 1. Ambil Info Liga dari Header di level yang sama
+        # Cek apakah ini adalah sebuah pertandingan (Match Object)
+        if 'homeTeam' in data and 'awayTeam' in data and 'kickoff' in data:
+            matches_found.append(data)
+        
+        # Cek apakah ini container yang punya list matchCards
+        elif 'matchCards' in data and isinstance(data['matchCards'], list):
+            # Kita simpan info liganya di setiap match card anak-anaknya agar tidak hilang
             header = data.get('sectionHeader', {})
-            league_name = header.get('title', 'Unknown League')
-            league_round = header.get('subtitle', '') # Matchday/Round
+            league_info = {
+                'name': header.get('title', ''),
+                'round': header.get('subtitle', ''),
+                'logo': header.get('entityLogo', {}).get('path', '')
+            }
             
-            # Ambil Logo Liga
-            league_logo_obj = header.get('entityLogo', {}) or {}
-            league_logo = get_high_res_image(league_logo_obj.get('path', ''))
-
-            # 2. Loop setiap kartu pertandingan
             for card in data['matchCards']:
-                try:
-                    # Pastikan ini kartu pertandingan (ada homeTeam)
-                    if 'homeTeam' not in card:
-                        continue
-                        
-                    # Parse Waktu
-                    kickoff = card.get('kickoff')
-                    wib_info = parse_iso_date_to_wib(kickoff)
+                if isinstance(card, dict):
+                    # Suntikkan info liga ke dalam card agar terbawa
+                    if 'league_info' not in card: 
+                        card['league_info'] = league_info
+                    find_matches_in_json(card, matches_found)
 
-                    # Parse Tim Home
-                    home = card.get('homeTeam', {})
-                    home_img = home.get('imageObject', {}) or {}
-                    
-                    # Parse Tim Away
-                    away = card.get('awayTeam', {})
-                    away_img = away.get('imageObject', {}) or {}
-
-                    match_item = {
-                        "league_name": league_name,
-                        "league_round": league_round,
-                        "league_logo": league_logo,
-                        "match_date": wib_info['date'],
-                        "match_time": wib_info['time'],
-                        "timestamp_sort": wib_info['timestamp'],
-                        "home_team": home.get('name', ''),
-                        "home_logo": get_high_res_image(home_img.get('path', '')),
-                        "home_score": home.get('score', ''),
-                        "away_team": away.get('name', ''),
-                        "away_logo": get_high_res_image(away_img.get('path', '')),
-                        "away_score": away.get('score', ''),
-                        "link": "https://onefootball.com" + card.get('link', '')
-                    }
-                    extracted_matches.append(match_item)
-                except Exception as e:
-                    continue 
-
-        # Jika bukan container match, cari terus ke anak-anaknya
-        for key, value in data.items():
-            extracted_matches.extend(extract_matches_recursively(value))
-
+        # Lanjutkan pencarian ke anak-anaknya
+        for k, v in data.items():
+            find_matches_in_json(v, matches_found)
+            
     elif isinstance(data, list):
-        # Jika list, iterasi setiap item
         for item in data:
-            extracted_matches.extend(extract_matches_recursively(item))
-
-    return extracted_matches
+            find_matches_in_json(item, matches_found)
 
 def run():
     with sync_playwright() as p:
-        print("🚀 Memulai Scraper OneFootball (Metode: Window Object Injection)...")
+        print("🚀 Memulai Scraper OneFootball (Metode Deep Search)...")
         
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
@@ -121,62 +79,95 @@ def run():
         )
         page = context.new_page()
 
-        # 1. Buka Halaman
-        url = "https://onefootball.com/id/pertandingan"
         try:
-            # Kita pakai domcontentloaded, cukup sampai struktur HTML siap
-            page.goto(url, wait_until="domcontentloaded", timeout=60000)
-        except Exception as e:
-            print(f"❌ Error loading page: {e}")
-            browser.close()
-            return
-
-        # 2. AMBIL DATA JSON LANGSUNG DARI MEMORI BROWSER
-        # Ini adalah kunci keberhasilan. Kita ambil objek __NEXT_DATA__
-        print("📦 Mengambil data internal Next.js...")
-        
-        try:
-            # Eksekusi script di browser untuk mengambil data JSON
-            raw_json_data = page.evaluate("() => window.__NEXT_DATA__")
+            page.goto("https://onefootball.com/id/pertandingan", wait_until="domcontentloaded", timeout=60000)
             
-            if not raw_json_data:
-                # Fallback: Coba ambil dari text script tag jika window object null
-                print("⚠️ Window object kosong, mencoba ambil dari tag script...")
-                json_str = page.locator("#__NEXT_DATA__").text_content()
-                raw_json_data = json.loads(json_str)
+            # Ambil data JSON __NEXT_DATA__
+            print("📦 Mengekstrak data internal...")
+            json_str = page.locator("#__NEXT_DATA__").text_content()
+            
+            if json_str:
+                raw_data = json.loads(json_str)
+                raw_matches = []
+                
+                # JALANKAN PENCARIAN REKURSIF
+                find_matches_in_json(raw_data, raw_matches)
+                print(f"🔍 Ditemukan total {len(raw_matches)} objek pertandingan mentah.")
 
-            if raw_json_data:
-                # 3. Ekstrak Data Menggunakan Fungsi Rekursif
-                print("🔍 Membongkar struktur JSON...")
-                all_matches = extract_matches_recursively(raw_json_data)
-                
-                # Filter data kosong/invalid (misal iklan yang menyerupai match)
-                valid_matches = [m for m in all_matches if m['home_team'] and m['away_team']]
-                
-                # 4. Sorting
-                # Urutkan berdasarkan Waktu (Timestamp) lalu Nama Liga
-                valid_matches.sort(key=lambda x: (x['match_date'], x['match_time'], x['league_name']))
-                
-                # Hapus key timestamp_sort sebelum disimpan agar JSON bersih
-                for m in valid_matches:
-                    del m['timestamp_sort']
+                clean_matches = []
+                seen_links = set()
 
-                # 5. Simpan
+                for m in raw_matches:
+                    try:
+                        # Filter Duplikat
+                        link = "https://onefootball.com" + m.get('link', '')
+                        if link in seen_links: continue
+                        seen_links.add(link)
+
+                        # Parse Waktu
+                        kickoff = m.get('kickoff', '')
+                        wib = parse_iso_date_to_wib(kickoff)
+
+                        # Ambil Info Liga (jika ada yang disuntikkan tadi)
+                        # Jika tidak ada (misal dari matchScore), pakai default atau cari di objek parent
+                        league_meta = m.get('league_info', {})
+                        league_name = league_meta.get('name', 'Unknown/Highlight')
+                        # Coba fallback ambil competitionName dari match object langsung
+                        if not league_name or league_name == 'Unknown/Highlight':
+                             league_name = m.get('competitionName', 'Kompetisi Lain')
+
+                        league_round = league_meta.get('round', '')
+                        league_logo = get_high_res_image(league_meta.get('logo', ''))
+                        
+                        # Jika logo liga kosong, coba cari ikon kompetisi default
+                        if not league_logo:
+                             league_logo = "https://images.onefootball.com/icons/leagueColoredCompetition/128/13.png" # Placeholder/Default
+
+                        # Parse Tim
+                        home = m.get('homeTeam', {})
+                        away = m.get('awayTeam', {})
+                        
+                        item = {
+                            "league_name": league_name,
+                            "league_round": league_round,
+                            "league_logo": league_logo,
+                            "match_date": wib['date'],
+                            "match_time": wib['time'],
+                            "sort_ts": wib['ts'], # Helper untuk sorting
+                            "home_team": home.get('name', ''),
+                            "home_logo": get_high_res_image(home.get('imageObject', {}).get('path', '')),
+                            "home_score": home.get('score', ''),
+                            "away_team": away.get('name', ''),
+                            "away_logo": get_high_res_image(away.get('imageObject', {}).get('path', '')),
+                            "away_score": away.get('score', ''),
+                            "link": link
+                        }
+                        clean_matches.append(item)
+                    except Exception as e:
+                        continue
+
+                # Sorting Final: Tanggal -> Jam -> Liga
+                clean_matches.sort(key=lambda x: (x['match_date'], x['match_time'], x['league_name']))
+                
+                # Hapus helper sorting
+                for match in clean_matches:
+                    del match['sort_ts']
+
+                # Simpan
                 if not os.path.exists(OUTPUT_DIR):
                     os.makedirs(OUTPUT_DIR)
-
+                    
                 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-                    json.dump(valid_matches, f, indent=2, ensure_ascii=False)
-
-                print(f"\n✅ SUKSES! {len(valid_matches)} pertandingan ditemukan dan disimpan.")
-                print(f"📁 File tersimpan di: {OUTPUT_FILE}")
+                    json.dump(clean_matches, f, indent=2, ensure_ascii=False)
+                    
+                print(f"✅ BERHASIL! {len(clean_matches)} pertandingan valid tersimpan.")
                 
             else:
-                print("❌ Gagal mendapatkan data JSON dari website.")
+                print("❌ Gagal: Tag __NEXT_DATA__ tidak ditemukan.")
 
         except Exception as e:
-            print(f"❌ Terjadi kesalahan fatal saat ekstraksi: {e}")
-
+            print(f"❌ Error: {e}")
+        
         browser.close()
 
 if __name__ == "__main__":
