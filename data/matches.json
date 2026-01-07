@@ -1,20 +1,650 @@
 [
   {
-    "match_time": "Kemarin",
-    "home_team": "Unknown",
-    "home_logo": "",
-    "away_team": "Unknown",
-    "away_logo": "",
-    "match_link": "https://onefootball.com/id/pertandingan/yesterday",
-    "scraped_at": "2026-01-07T08:28:27.046524"
+    "home_team": "Napoli",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F191.png",
+    "away_team": "Hellas Verona",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F409.png",
+    "status_or_time": "2026-01-07T17:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2591685",
+    "scraped_at": "2026-01-07T08:32:19.183226"
   },
   {
-    "match_time": "Besok",
-    "home_team": "Unknown",
-    "home_logo": "",
-    "away_team": "Unknown",
-    "away_logo": "",
-    "match_link": "https://onefootball.com/id/pertandingan/tomorrow",
-    "scraped_at": "2026-01-07T08:28:27.060046"
+    "home_team": "Bologna",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F183.png",
+    "away_team": "Atalanta",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F248.png",
+    "status_or_time": "2026-01-07T17:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2591687",
+    "scraped_at": "2026-01-07T08:32:19.213542"
+  },
+  {
+    "home_team": "Lazio",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F139.png",
+    "away_team": "Fiorentina",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F15.png",
+    "status_or_time": "2026-01-07T19:45:00Z",
+    "match_link": "https://onefootball.com/id/match/2591689",
+    "scraped_at": "2026-01-07T08:32:19.240380"
+  },
+  {
+    "home_team": "Torino",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F722.png",
+    "away_team": "Udinese",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F195.png",
+    "status_or_time": "2026-01-07T19:45:00Z",
+    "match_link": "https://onefootball.com/id/match/2591686",
+    "scraped_at": "2026-01-07T08:32:19.267110"
+  },
+  {
+    "home_team": "Parma",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F193.png",
+    "away_team": "Internazionale",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F16.png",
+    "status_or_time": "2026-01-07T19:45:00Z",
+    "match_link": "https://onefootball.com/id/match/2591684",
+    "scraped_at": "2026-01-07T08:32:19.292983"
+  },
+  {
+    "home_team": "Jepang U23",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F1115.png",
+    "away_team": "Syria Under 23",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F30922.png",
+    "status_or_time": "2026-01-07T11:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2641415",
+    "scraped_at": "2026-01-07T08:32:19.317569"
+  },
+  {
+    "home_team": "Korea Selatan U23",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F1119.png",
+    "away_team": "Iran Under 23",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F23878.png",
+    "status_or_time": "2026-01-07T11:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2641416",
+    "scraped_at": "2026-01-07T08:32:19.344293"
+  },
+  {
+    "home_team": "Uzbekistan U23",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F28844.png",
+    "away_team": "Lebanon Under 23",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F35806.png",
+    "status_or_time": "2026-01-07T14:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2641417",
+    "scraped_at": "2026-01-07T08:32:19.368187"
+  },
+  {
+    "home_team": "Qatar U23",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F25490.png",
+    "away_team": "UAE U23",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F1117.png",
+    "status_or_time": "2026-01-07T16:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2641414",
+    "scraped_at": "2026-01-07T08:32:19.391895"
+  },
+  {
+    "home_team": "MARCILIO DIAS SC",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F9037.png",
+    "away_team": "Criciúma",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F1860.png",
+    "status_or_time": "2026-01-07T22:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2646845",
+    "scraped_at": "2026-01-07T08:32:19.417827"
+  },
+  {
+    "home_team": "Joinville",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F4963.png",
+    "away_team": "Figueirense",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F1803.png",
+    "status_or_time": "2026-01-07T23:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2646846",
+    "scraped_at": "2026-01-07T08:32:19.441500"
+  },
+  {
+    "home_team": "Avaí",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F4964.png",
+    "away_team": "Barra",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F9035.png",
+    "status_or_time": "2026-01-08T00:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2646844",
+    "scraped_at": "2026-01-07T08:32:19.466888"
+  },
+  {
+    "home_team": "Horizonte",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F2691.png",
+    "away_team": "Quixadá",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F9054.png",
+    "status_or_time": "2026-01-07T22:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2645620",
+    "scraped_at": "2026-01-07T08:32:19.491318"
+  },
+  {
+    "home_team": "Tirol",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F21113.png",
+    "away_team": "Floresta CE",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F9046.png",
+    "status_or_time": "2026-01-07T22:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2645621",
+    "scraped_at": "2026-01-07T08:32:19.515443"
+  },
+  {
+    "home_team": "Pafos FC",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F54261.png",
+    "away_team": "Akritas Chlorakas",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F14514.png",
+    "status_or_time": "2026-01-07T15:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2647617",
+    "scraped_at": "2026-01-07T08:32:19.540088"
+  },
+  {
+    "home_team": "Apoel Nicosie",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F1.png",
+    "away_team": "APEA Akrotiríou",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F29754.png",
+    "status_or_time": "2026-01-07T15:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2647615",
+    "scraped_at": "2026-01-07T08:32:19.563930"
+  },
+  {
+    "home_team": "Ethnikos Achna",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F11011.png",
+    "away_team": "Enosis",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F5523.png",
+    "status_or_time": "2026-01-07T15:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2647616",
+    "scraped_at": "2026-01-07T08:32:19.587506"
+  },
+  {
+    "home_team": "OFI Crète",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F1273.png",
+    "away_team": "Asteras Tripolis",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F1102.png",
+    "status_or_time": "2026-01-07T15:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2653888",
+    "scraped_at": "2026-01-07T08:32:19.611486"
+  },
+  {
+    "home_team": "Olimpia",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F6193.png",
+    "away_team": "Marathón",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F12380.png",
+    "status_or_time": "2026-01-08T01:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2657704",
+    "scraped_at": "2026-01-07T08:32:19.636192"
+  },
+  {
+    "home_team": "CHI (KWC Nations)",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F59777.png",
+    "away_team": "MAR (KWC Nations)",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F56608.png",
+    "status_or_time": "2026-01-07T21:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2651845",
+    "scraped_at": "2026-01-07T08:32:19.659461"
+  },
+  {
+    "home_team": "ARG (KWC Nations)",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F56598.png",
+    "away_team": "JPN (KWC Nations)",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F59779.png",
+    "status_or_time": "2026-01-07T22:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2651846",
+    "scraped_at": "2026-01-07T08:32:19.683504"
+  },
+  {
+    "home_team": "Slaven Belupo",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F2942.png",
+    "away_team": "Primorje",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F18054.png",
+    "status_or_time": "2026-01-07T10:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2659455",
+    "scraped_at": "2026-01-07T08:32:19.708361"
+  },
+  {
+    "home_team": "Thun",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F547.png",
+    "away_team": "Rapperswil",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F6862.png",
+    "status_or_time": "2026-01-07T11:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2659667",
+    "scraped_at": "2026-01-07T08:32:19.731611"
+  },
+  {
+    "home_team": "Nyíregyháza Spartacus",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F4399.png",
+    "away_team": "Fk Csikszereda Miercurea Ciuc",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F10609.png",
+    "status_or_time": "2026-01-07T12:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2659024",
+    "scraped_at": "2026-01-07T08:32:19.755106"
+  },
+  {
+    "home_team": "ENERGIE COTTBUS",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F179.png",
+    "away_team": "VSG ALTGLIENICKE",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F6355.png",
+    "status_or_time": "2026-01-07T12:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2657822",
+    "scraped_at": "2026-01-07T08:32:19.778653"
+  },
+  {
+    "home_team": "SK Sigma Olomouc",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F4235.png",
+    "away_team": "Pl Bytom",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F48636.png",
+    "status_or_time": "2026-01-07T13:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2657823",
+    "scraped_at": "2026-01-07T08:32:19.804890"
+  },
+  {
+    "home_team": "Alanyaspor",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F2145.png",
+    "away_team": "Metaloglobus",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F8483.png",
+    "status_or_time": "2026-01-07T13:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2659370",
+    "scraped_at": "2026-01-07T08:32:19.830816"
+  },
+  {
+    "home_team": "St. Gallen",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F546.png",
+    "away_team": "RSC ANDERLECHT",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F369.png",
+    "status_or_time": "2026-01-07T13:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2659026",
+    "scraped_at": "2026-01-07T08:32:19.854905"
+  },
+  {
+    "home_team": "BSC Young Boys",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F347.png",
+    "away_team": "FC Dinamo Bucuresti 1948",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F520.png",
+    "status_or_time": "2026-01-07T14:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2657825",
+    "scraped_at": "2026-01-07T08:32:19.878905"
+  },
+  {
+    "home_team": "Greuther Furth",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F165.png",
+    "away_team": "1. FC Schweinfurt 05",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F1910.png",
+    "status_or_time": "2026-01-07T14:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2657824",
+    "scraped_at": "2026-01-07T08:32:19.903843"
+  },
+  {
+    "home_team": "Regensburg",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F284.png",
+    "away_team": "WSG Tirol",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F1173.png",
+    "status_or_time": "2026-01-07T14:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2657826",
+    "scraped_at": "2026-01-07T08:32:19.926528"
+  },
+  {
+    "home_team": "Kasimpasa",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F227.png",
+    "away_team": "Kocaelispor",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F1765.png",
+    "status_or_time": "2026-01-07T14:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2657827",
+    "scraped_at": "2026-01-07T08:32:19.950764"
+  },
+  {
+    "home_team": "Konyaspor",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F274.png",
+    "away_team": "U Craiova 1948 CS",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F2253.png",
+    "status_or_time": "2026-01-07T14:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2657821",
+    "scraped_at": "2026-01-07T08:32:19.974296"
+  },
+  {
+    "home_team": "Holstein Kiel",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F339.png",
+    "away_team": "Servette FC",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F888.png",
+    "status_or_time": "2026-01-07T14:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2659145",
+    "scraped_at": "2026-01-07T08:32:19.997383"
+  },
+  {
+    "home_team": "Chiclana CF",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F51029.png",
+    "away_team": "Saarbrücken",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F292.png",
+    "status_or_time": "2026-01-07T15:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2659123",
+    "scraped_at": "2026-01-07T08:32:20.021041"
+  },
+  {
+    "home_team": "Sportfreunde Lotte",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F833.png",
+    "away_team": "Hiltrup",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F14362.png",
+    "status_or_time": "2026-01-07T18:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2657828",
+    "scraped_at": "2026-01-07T08:32:20.045898"
+  },
+  {
+    "home_team": "Valletta",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F460.png",
+    "away_team": "Birkirkara",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F345.png",
+    "status_or_time": "2026-01-07T18:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2645667",
+    "scraped_at": "2026-01-07T08:32:20.071602"
+  },
+  {
+    "home_team": "Floriana",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F928.png",
+    "away_team": "Hamrun Spartans",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F45571.png",
+    "status_or_time": "2026-01-07T18:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2645666",
+    "scraped_at": "2026-01-07T08:32:20.097286"
+  },
+  {
+    "home_team": "Londrina",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F2681.png",
+    "away_team": "CE Uniãƒo PR",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F6572.png",
+    "status_or_time": "2026-01-07T22:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2646880",
+    "scraped_at": "2026-01-07T08:32:20.120540"
+  },
+  {
+    "home_team": "Cianorte",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F7605.png",
+    "away_team": "Maringa FC PR",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F4879.png",
+    "status_or_time": "2026-01-07T23:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2646882",
+    "scraped_at": "2026-01-07T08:32:20.144026"
+  },
+  {
+    "home_team": "Coritiba",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F1796.png",
+    "away_team": "Foz Iguaçu",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F7492.png",
+    "status_or_time": "2026-01-07T23:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2646883",
+    "scraped_at": "2026-01-07T08:32:20.167708"
+  },
+  {
+    "home_team": "Benfica",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F147.png",
+    "away_team": "Braga",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F382.png",
+    "status_or_time": "2026-01-07T20:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2599019",
+    "scraped_at": "2026-01-07T08:32:20.191069"
+  },
+  {
+    "home_team": "Manchester City",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F209.png",
+    "away_team": "Brighton & Hove Albion",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F670.png",
+    "status_or_time": "2026-01-07T19:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2595768",
+    "scraped_at": "2026-01-07T08:32:20.213961"
+  },
+  {
+    "home_team": "Fulham",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F211.png",
+    "away_team": "Chelsea",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F9.png",
+    "status_or_time": "2026-01-07T19:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2595767",
+    "scraped_at": "2026-01-07T08:32:20.237049"
+  },
+  {
+    "home_team": "AFC Bournemouth",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F622.png",
+    "away_team": "Tottenham Hotspur",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F202.png",
+    "status_or_time": "2026-01-07T19:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2595766",
+    "scraped_at": "2026-01-07T08:32:20.261652"
+  },
+  {
+    "home_team": "Crystal Palace",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F567.png",
+    "away_team": "Aston Villa",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F199.png",
+    "status_or_time": "2026-01-07T19:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2595765",
+    "scraped_at": "2026-01-07T08:32:20.285328"
+  },
+  {
+    "home_team": "Everton",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F197.png",
+    "away_team": "Wolverhampton Wanderers",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F203.png",
+    "status_or_time": "2026-01-07T19:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2595761",
+    "scraped_at": "2026-01-07T08:32:20.310607"
+  },
+  {
+    "home_team": "Brentford",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F671.png",
+    "away_team": "Sunderland",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F208.png",
+    "status_or_time": "2026-01-07T19:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2595763",
+    "scraped_at": "2026-01-07T08:32:20.333950"
+  },
+  {
+    "home_team": "Newcastle United",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F207.png",
+    "away_team": "Leeds United",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F571.png",
+    "status_or_time": "2026-01-07T20:15:00Z",
+    "match_link": "https://onefootball.com/id/match/2595769",
+    "scraped_at": "2026-01-07T08:32:20.356884"
+  },
+  {
+    "home_team": "Burnley",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F275.png",
+    "away_team": "Manchester United",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F21.png",
+    "status_or_time": "2026-01-07T20:15:00Z",
+    "match_link": "https://onefootball.com/id/match/2595764",
+    "scraped_at": "2026-01-07T08:32:20.380113"
+  },
+  {
+    "home_team": "Al Ahli Doha",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F3478.png",
+    "away_team": "Al-Shamal",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F4468.png",
+    "status_or_time": "2026-01-07T14:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2651022",
+    "scraped_at": "2026-01-07T08:32:20.403179"
+  },
+  {
+    "home_team": "Al-Wakrah",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F4458.png",
+    "away_team": "Al-Arabi Doha",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F4455.png",
+    "status_or_time": "2026-01-07T16:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2651021",
+    "scraped_at": "2026-01-07T08:32:20.425880"
+  },
+  {
+    "home_team": "Enna",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F55477.png",
+    "away_team": "CastrumFavara",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F55304.png",
+    "status_or_time": "2026-01-07T13:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2630775",
+    "scraped_at": "2026-01-07T08:32:20.457235"
+  },
+  {
+    "home_team": "Barcelona",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F5.png",
+    "away_team": "Athletic Bilbao",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F213.png",
+    "status_or_time": "2026-01-07T19:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2605732",
+    "scraped_at": "2026-01-07T08:32:20.482950"
+  },
+  {
+    "home_team": "Nacional SP U20",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F9411.png",
+    "away_team": "Portuguesa Santista U20",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F20682.png",
+    "status_or_time": "2026-01-07T11:45:00Z",
+    "match_link": "https://onefootball.com/id/match/2654645",
+    "scraped_at": "2026-01-07T08:32:20.505630"
+  },
+  {
+    "home_team": "CSE U20",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F20710.png",
+    "away_team": "Internacional RS U20",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F9004.png",
+    "status_or_time": "2026-01-07T14:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2654646",
+    "scraped_at": "2026-01-07T08:32:20.529906"
+  },
+  {
+    "home_team": "Ibrachina U20",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F20699.png",
+    "away_team": "Santo André U20",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F9434.png",
+    "status_or_time": "2026-01-07T14:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2654651",
+    "scraped_at": "2026-01-07T08:32:20.554081"
+  },
+  {
+    "home_team": "Comercial de Tietê U20",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F52770.png",
+    "away_team": "XV de Piracicaba U20",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F9437.png",
+    "status_or_time": "2026-01-07T16:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2654648",
+    "scraped_at": "2026-01-07T08:32:20.576662"
+  },
+  {
+    "home_team": "AC Guaratinguetá U20",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F43729.png",
+    "away_team": "São José EC U20",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F20691.png",
+    "status_or_time": "2026-01-07T16:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2654649",
+    "scraped_at": "2026-01-07T08:32:20.603977"
+  },
+  {
+    "home_team": "Referência U20",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F56509.png",
+    "away_team": "Ituano FC U20",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F9415.png",
+    "status_or_time": "2026-01-07T16:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2654650",
+    "scraped_at": "2026-01-07T08:32:20.630027"
+  },
+  {
+    "home_team": "Ferroviário U20",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F56507.png",
+    "away_team": "Bangu U20",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F52806.png",
+    "status_or_time": "2026-01-07T16:15:00Z",
+    "match_link": "https://onefootball.com/id/match/2654656",
+    "scraped_at": "2026-01-07T08:32:20.653109"
+  },
+  {
+    "home_team": "Ferroviária U20",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F9370.png",
+    "away_team": "América RJ U20",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F16984.png",
+    "status_or_time": "2026-01-07T17:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2654652",
+    "scraped_at": "2026-01-07T08:32:20.676623"
+  },
+  {
+    "home_team": "Canaã EC U20",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F16988.png",
+    "away_team": "Criciuma U20",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F9140.png",
+    "status_or_time": "2026-01-07T18:15:00Z",
+    "match_link": "https://onefootball.com/id/match/2654653",
+    "scraped_at": "2026-01-07T08:32:20.701157"
+  },
+  {
+    "home_team": "Nacional AM U20",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F16975.png",
+    "away_team": "Juventude U20",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F9443.png",
+    "status_or_time": "2026-01-07T18:15:00Z",
+    "match_link": "https://onefootball.com/id/match/2654644",
+    "scraped_at": "2026-01-07T08:32:20.725824"
+  },
+  {
+    "home_team": "Operário PR U20",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F16981.png",
+    "away_team": "Vila Nova U20",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F9145.png",
+    "status_or_time": "2026-01-07T18:15:00Z",
+    "match_link": "https://onefootball.com/id/match/2654654",
+    "scraped_at": "2026-01-07T08:32:20.748957"
+  },
+  {
+    "home_team": "Confiança PB U20",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F16991.png",
+    "away_team": "Fortaleza U20",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F9372.png",
+    "status_or_time": "2026-01-07T18:15:00Z",
+    "match_link": "https://onefootball.com/id/match/2654655",
+    "scraped_at": "2026-01-07T08:32:20.771716"
+  },
+  {
+    "home_team": "Grêmio São-Carlense U20",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F20681.png",
+    "away_team": "Real Brasília U20",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F20708.png",
+    "status_or_time": "2026-01-07T20:15:00Z",
+    "match_link": "https://onefootball.com/id/match/2654657",
+    "scraped_at": "2026-01-07T08:32:20.794741"
+  },
+  {
+    "home_team": "Osasco Audax U20",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F13308.png",
+    "away_team": "União MT U20",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F9429.png",
+    "status_or_time": "2026-01-07T21:45:00Z",
+    "match_link": "https://onefootball.com/id/match/2654658",
+    "scraped_at": "2026-01-07T08:32:20.817425"
+  },
+  {
+    "home_team": "Taubaté U20",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F9454.png",
+    "away_team": "Águia de Marabá FC U20",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F53571.png",
+    "status_or_time": "2026-01-07T22:15:00Z",
+    "match_link": "https://onefootball.com/id/match/2654659",
+    "scraped_at": "2026-01-07T08:32:20.839722"
+  },
+  {
+    "home_team": "Estrela de Março U20",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F56518.png",
+    "away_team": "Botafogo RJ U20",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F8990.png",
+    "status_or_time": "2026-01-08T00:30:00Z",
+    "match_link": "https://onefootball.com/id/match/2654661",
+    "scraped_at": "2026-01-07T08:32:20.862708"
+  },
+  {
+    "home_team": "Kalba",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F4475.png",
+    "away_team": "Al Wasl",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F4477.png",
+    "status_or_time": "2026-01-07T13:00:00Z",
+    "match_link": "https://onefootball.com/id/match/2645001",
+    "scraped_at": "2026-01-07T08:32:20.885361"
+  },
+  {
+    "home_team": "Al Bataeh",
+    "home_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F21779.png",
+    "away_team": "Shabab Al Ahli Dubai Club",
+    "away_logo": "https://image-service.onefootball.com/transform?w=22&h=22&dpr=2&image=https%253A%252F%252Fimages.onefootball.com%252Ficons%252Fteams%252F164%252F8375.png",
+    "status_or_time": "2026-01-07T15:45:00Z",
+    "match_link": "https://onefootball.com/id/match/2645000",
+    "scraped_at": "2026-01-07T08:32:20.909206"
   }
 ]
