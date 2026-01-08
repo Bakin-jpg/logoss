@@ -5,16 +5,17 @@ on:
     branches:
       - main
   schedule:
-    # Jalan otomatis setiap 6 jam (sesuaikan kebutuhan)
     - cron: '0 */6 * * *'
-  workflow_dispatch: # Supaya bisa dijalankan manual tombol "Run workflow"
+  workflow_dispatch:
 
 permissions:
-  contents: write # Izin untuk commit/push hasil scrape
+  contents: write
 
 jobs:
   scrape:
-    runs-on: ubuntu-latest
+    # PERUBAHAN PENTING DI SINI:
+    # Menggunakan ubuntu-22.04 agar kompatibel dengan Playwright 1.41.0
+    runs-on: ubuntu-22.04
 
     steps:
       - name: Checkout repository
@@ -24,7 +25,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-          cache: 'pip' # Cache pip agar install lebih cepat
+          cache: 'pip'
 
       - name: Install Python Dependencies
         run: |
@@ -32,7 +33,6 @@ jobs:
 
       - name: Install Playwright Browsers
         run: |
-          # Install hanya Chromium (hemat waktu & kuota) dan dependensi OS
           playwright install chromium
           playwright install-deps
 
@@ -44,11 +44,10 @@ jobs:
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
           
-          # Cek status git, hanya commit jika ada perubahan file
           if [[ -n $(git status -s data/jadwal_bola_final.json) ]]; then
             git add data/jadwal_bola_final.json
             git commit -m "Update jadwal bola: $(date)"
             git push
           else
-            print("Tidak ada perubahan data.")
+            echo "Tidak ada perubahan data."
           fi
