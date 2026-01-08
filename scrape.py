@@ -42,7 +42,9 @@ def find_key_in_json(data, target_key):
 
 def run():
     with sync_playwright() as p:
-        print("🚀 Memulai Scraper Goal.com (3 Hari: Hari ini, Besok, Lusa)...")
+        # TOTAL HARI: 1 (Hari ini) + 5 (Hari ke depan) = 6 Hari
+        TOTAL_DAYS = 6 
+        print(f"🚀 Memulai Scraper Goal.com ({TOTAL_DAYS} Hari)...")
         
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
@@ -51,31 +53,30 @@ def run():
         page = context.new_page()
 
         all_clean_matches = []
-        
-        # Ambil waktu sekarang di WIB
         today_wib = datetime.now(WIB)
 
-        # Loop untuk 3 hari (0=Hari ini, 1=Besok, 2=Lusa)
-        for i in range(3):
+        # Loop dari 0 sampai 5 (Total 6 putaran)
+        for i in range(TOTAL_DAYS):
             target_date = today_wib + timedelta(days=i)
             date_str = target_date.strftime("%Y-%m-%d")
             
             # --- LOGIKA URL ---
             if i == 0:
-                # Jika hari ini, pakai URL livescore
+                # Hari ke-0 = Hari ini (Livescore)
                 url = "https://www.goal.com/id/livescore"
-                label_hari = "HARI INI"
+                label_hari = f"HARI INI ({date_str})"
             else:
-                # Jika besok/lusa, pakai URL jadwal tanggal
+                # Hari ke-1 s/d 5 = Jadwal Tanggal
                 url = f"https://www.goal.com/id/jadwal/{date_str}"
-                label_hari = f"TANGGAL {date_str}"
+                label_hari = f"HARI +{i} ({date_str})"
 
             print(f"\n🌍 [{label_hari}] Mengakses {url}...")
 
             try:
+                # Timeout diset 60 detik per halaman
                 page.goto(url, wait_until="domcontentloaded", timeout=60000)
                 
-                # Sedikit delay agar tidak dianggap bot spamming
+                # Delay 2 detik agar transisi halaman aman
                 time.sleep(2) 
 
                 try:
@@ -164,10 +165,10 @@ def run():
         browser.close()
 
         if all_clean_matches:
-            # Sorting Final berdasarkan Tanggal -> Jam -> Nama Liga
+            # Sorting: Tanggal -> Jam -> Nama Liga
             all_clean_matches.sort(key=lambda x: (x['match_date'], x['match_time'], x['league_name']))
             
-            # Hapus key helper sort_ts sebelum save
+            # Hapus helper sort_ts
             for match in all_clean_matches:
                 del match['sort_ts']
 
@@ -177,7 +178,7 @@ def run():
             with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
                 json.dump(all_clean_matches, f, indent=2, ensure_ascii=False)
             
-            print(f"\n✅ SUKSES BESAR! Total {len(all_clean_matches)} pertandingan dari 3 hari tersimpan.")
+            print(f"\n✅ SUKSES BESAR! Total {len(all_clean_matches)} pertandingan dari {TOTAL_DAYS} hari tersimpan.")
             print(f"📂 File tersimpan di: {OUTPUT_FILE}")
         else:
             print("\n⚠️ Tidak ada data pertandingan yang berhasil diambil.")
