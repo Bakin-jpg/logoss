@@ -1,40 +1,54 @@
-name: Scrape OneFootball
+name: Scrape Jadwal Bola
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    # Jalan setiap 6 jam (sesuaikan dengan kebutuhan)
-    - cron: "0 */6 * * *"
-  workflow_dispatch: # Bisa dijalankan manual lewat tombol di GitHub
+    # Jalan otomatis setiap 6 jam (sesuaikan kebutuhan)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Supaya bisa dijalankan manual tombol "Run workflow"
+
+permissions:
+  contents: write # Izin untuk commit/push hasil scrape
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # Izin untuk commit code kembali ke repo
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+          cache: 'pip' # Cache pip agar install lebih cepat
 
-      - name: Install dependencies
+      - name: Install Python Dependencies
         run: |
-          python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Install Playwright Browsers
         run: |
+          # Install hanya Chromium (hemat waktu & kuota) dan dependensi OS
           playwright install chromium
+          playwright install-deps
 
-      - name: Run Scraper
+      - name: Jalankan Scraper
         run: python scrape.py
 
-      - name: Commit and Push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Update match schedule data [skip ci]"
-          file_pattern: data/*.json
+      - name: Commit dan Push Hasil
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          
+          # Cek status git, hanya commit jika ada perubahan file
+          if [[ -n $(git status -s data/jadwal_bola_final.json) ]]; then
+            git add data/jadwal_bola_final.json
+            git commit -m "Update jadwal bola: $(date)"
+            git push
+          else
+            print("Tidak ada perubahan data.")
+          fi
