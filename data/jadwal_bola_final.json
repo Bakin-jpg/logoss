@@ -4,10 +4,10 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/6kd6webenogylfgwt2aa9l6vx.png",
     "match_date": "2026-01-15",
     "match_time": "17:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Erzurumspor FK",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Xg_JBfL7SiH5Yem7_hGYQ.png",
-    "home_score": 0,
+    "home_score": 2,
     "away_team": "Rizespor",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WuCfTZvyxLz1buGAln1xD.png",
     "away_score": 0
@@ -17,20 +17,20 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-01-15",
     "match_time": "19:00",
-    "status": "Jadwal",
+    "status": "Live 45'",
     "home_team": "Hobro",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HInwhghTdfCKp_MgETWYE.png",
     "home_score": 0,
     "away_team": "AGF",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/X7qNAFLAw9SwNHGPGnIda.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Albania - Kategoria Superiore",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/17zsm8shejejls2on1ffil3op.png",
     "match_date": "2026-01-15",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 27'",
     "home_team": "Partizani",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nSLcFw_pdMd8SJbetDulm.png",
     "home_score": 0,
@@ -43,7 +43,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/6kd6webenogylfgwt2aa9l6vx.png",
     "match_date": "2026-01-15",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 26'",
     "home_team": "Eyupspor",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EIQAcwTIX-5gO0FNa3fNO.png",
     "home_score": 0,
@@ -62,6 +62,19 @@
     "home_score": 0,
     "away_team": "Ferencvaros",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zgjphisfq_3nRpSdLtg-Q.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "International - Club Friendlies",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-01-15",
+    "match_time": "20:00",
+    "status": "Jadwal",
+    "home_team": "OB",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qZHrgl7Uhm6gWjhrmqb9h.png",
+    "home_score": 0,
+    "away_team": "Skive",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/U0Nc3JDmCQX1xS_YPgZa7.png",
     "away_score": 0
   },
   {
@@ -109,19 +122,6 @@
     "match_date": "2026-01-15",
     "match_time": "21:00",
     "status": "Jadwal",
-    "home_team": "OB",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qZHrgl7Uhm6gWjhrmqb9h.png",
-    "home_score": 0,
-    "away_team": "Skive",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/U0Nc3JDmCQX1xS_YPgZa7.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "International - Club Friendlies",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
-    "match_date": "2026-01-15",
-    "match_time": "21:00",
-    "status": "Jadwal",
     "home_team": "Salzburg",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-PWqo_lcDVwCd2-FuHu94.png",
     "home_score": 0,
@@ -143,19 +143,6 @@
     "away_score": 0
   },
   {
-    "league_name": "Nigeria - NPFL",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/63pvdwrsiq5b07mzi8igqei9p.png",
-    "match_date": "2026-01-15",
-    "match_time": "21:30",
-    "status": "Jadwal",
-    "home_team": "Katsina United",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cOxhOguZDKIPXp9pYSYZT.png",
-    "home_score": 0,
-    "away_team": "Kun Khalifat",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
-    "away_score": 0
-  },
-  {
     "league_name": "Qatar - Stars League",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1evdpix889bnpu5wgh6ae7kng.png",
     "match_date": "2026-01-15",
@@ -166,6 +153,19 @@
     "home_score": 0,
     "away_team": "Al-Duhail SC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OJUP3Oyhf-01pcRVufOuS.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Nigeria - NPFL",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/63pvdwrsiq5b07mzi8igqei9p.png",
+    "match_date": "2026-01-15",
+    "match_time": "22:00",
+    "status": "Jadwal",
+    "home_team": "Katsina United",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cOxhOguZDKIPXp9pYSYZT.png",
+    "home_score": 0,
+    "away_team": "Kun Khalifat",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "away_score": 0
   },
   {
@@ -803,6 +803,19 @@
     "home_score": 0,
     "away_team": "Bandari",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7p5d32tvcr8ii0gdecpstkqs.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Mesir - 2. Division",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/42vt7mha0thcwd0ihw3p29x5i.png",
+    "match_date": "2026-01-16",
+    "match_time": "19:30",
+    "status": "Jadwal",
+    "home_team": "Aswan FC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4mCQa8h8egUjYcFDxir8y.png",
+    "home_score": 0,
+    "away_team": "Proxy",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KXiHUSk4pm0enS0C6p6da.png",
     "away_score": 0
   },
   {
@@ -3468,19 +3481,6 @@
     "home_score": 0,
     "away_team": "Malavan",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d7io73pn8o8unrln9piyixl6l.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Siprus - 2. Division",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/3om8cj5nhmq1rzzkykubm5icj.png",
-    "match_date": "2026-01-17",
-    "match_time": "19:30",
-    "status": "Jadwal",
-    "home_team": "Omonia 29 Maiou",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/r77ZjrM1bFgeFOE85C_ss.png",
-    "home_score": 0,
-    "away_team": "Ayia Napa",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0DDTH_wbpizlh_fOSgftv.png",
     "away_score": 0
   },
   {
@@ -6575,6 +6575,19 @@
     "home_score": 0,
     "away_team": "Cosmos",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mVzgt4RtBmsLLi5xpNkk3.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Siprus - 2. Division",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/3om8cj5nhmq1rzzkykubm5icj.png",
+    "match_date": "2026-01-17",
+    "match_time": "22:00",
+    "status": "Jadwal",
+    "home_team": "Omonia 29 Maiou",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/r77ZjrM1bFgeFOE85C_ss.png",
+    "home_score": 0,
+    "away_team": "Ayia Napa",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0DDTH_wbpizlh_fOSgftv.png",
     "away_score": 0
   },
   {
@@ -15678,6 +15691,19 @@
     "away_score": 0
   },
   {
+    "league_name": "Inggris Raya - Irish Cup",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/5euslv7jutsauoqt3o2lj9bvi.png",
+    "match_date": "2026-01-21",
+    "match_time": "02:45",
+    "status": "Jadwal",
+    "home_team": "Loughgall",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/z7tmIZj3u-hyfOLeCUXiR.png",
+    "home_score": 0,
+    "away_team": "Knockbreda",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dlygxym5thqtgo45t4yc8zm5q.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Inggris Raya - League One",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/3frp1zxrqulrlrnk503n6l4l.png",
     "match_date": "2026-01-21",
@@ -15721,7 +15747,7 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/bgen5kjer2ytfp7lo9949t72g.png",
     "match_date": "2026-01-21",
     "match_time": "02:45",
-    "status": "Jadwal",
+    "status": "POSTPONED",
     "home_team": "Grimsby Town",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gbf0HLFMKGn3dsLXXc3pR.png",
     "home_score": 0,
@@ -15812,7 +15838,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png",
     "match_date": "2026-01-21",
     "match_time": "02:45",
-    "status": "Jadwal",
+    "status": "POSTPONED",
     "home_team": "AFC Telford United",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/54dgxb23AfyetJmxwxZ-j.png",
     "home_score": 0,
@@ -15825,7 +15851,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png",
     "match_date": "2026-01-21",
     "match_time": "02:45",
-    "status": "Jadwal",
+    "status": "POSTPONED",
     "home_team": "Hereford",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WmUZCjuPccVVmwOLwQs3h.png",
     "home_score": 0,
