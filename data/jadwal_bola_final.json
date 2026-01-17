@@ -1,44 +1,5 @@
 [
   {
-    "league_name": "Australia - A-League Women",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/u5ieemi69z72c3bgczyy68lo.png",
-    "match_date": "2026-01-17",
-    "match_time": "12:50",
-    "status": "Live 45'",
-    "home_team": "Adelaide United",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3phukn9kv66wop52orze7x414.png",
-    "home_score": 1,
-    "away_team": "Melbourne Victory",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nSQ0y0hpLCnnmlULNg5bq.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Australia - A-League Men",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/u5ieemi69z72c3bgczyy68lo.png",
-    "match_date": "2026-01-17",
-    "match_time": "13:00",
-    "status": "Live 37'",
-    "home_team": "Western Sydney Wanderers FC",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aXWR0MHYRvz7unqMLkly_.png",
-    "home_score": 0,
-    "away_team": "Newcastle Jets",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sNhjwNfG8L5dVTq2mWROg.png",
-    "away_score": 1
-  },
-  {
-    "league_name": "Australia - A-League Women",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/u5ieemi69z72c3bgczyy68lo.png",
-    "match_date": "2026-01-17",
-    "match_time": "13:30",
-    "status": "Live 8'",
-    "home_team": "Canberra United FC",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jyVnvtG7EaGbanzt6iv9D.png",
-    "home_score": 0,
-    "away_team": "Wellington Phoenix",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5RfmU-zfMhqkplVaYcEb.png",
-    "away_score": 0
-  },
-  {
     "league_name": "Australia - A-League Men",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/u5ieemi69z72c3bgczyy68lo.png",
     "match_date": "2026-01-17",
@@ -56,23 +17,23 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/u5ieemi69z72c3bgczyy68lo.png",
     "match_date": "2026-01-17",
     "match_time": "15:35",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Adelaide United",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VIiUeuZSC-x3UdU1S5sHp.png",
-    "home_score": 0,
+    "home_score": 2,
     "away_team": "Melbourne Victory",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N3_FSrlundmPvfSI0L6cH.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "International - Club Friendlies",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-01-17",
     "match_time": "17:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Silkeborg",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MTZMn95GyQ8NpTTE-tHVW.png",
-    "home_score": 0,
+    "home_score": 6,
     "away_team": "Thisted",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SMEk8n_ANpd40ChgoD0qw.png",
     "away_score": 0
@@ -82,111 +43,111 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/6kd6webenogylfgwt2aa9l6vx.png",
     "match_date": "2026-01-17",
     "match_time": "17:30",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Bandirmaspor",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gQoUFeuGaXqU-ALz64wYs.png",
-    "home_score": 0,
+    "home_score": 4,
     "away_team": "Pendikspor",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lmoAW5L6IbRuIinHxHOfN.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Turki - 1. Lig",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/6kd6webenogylfgwt2aa9l6vx.png",
     "match_date": "2026-01-17",
     "match_time": "17:30",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Hatayspor",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3-1eD4OV6SDzW_H682WAn.png",
-    "home_score": 0,
+    "home_score": 2,
     "away_team": "Manisa Futbol Kulubu",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/g-dwRVJIEZyVISuhNOZIl.png",
-    "away_score": 0
+    "away_score": 2
   },
   {
     "league_name": "Inggris Raya - Premier League U18",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png",
     "match_date": "2026-01-17",
     "match_time": "18:00",
-    "status": "Jadwal",
+    "status": "Live 87'",
     "home_team": "Crystal Palace U18",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6I8yEc5CsdmyPtvspTvdN.png",
     "home_score": 0,
     "away_team": "West Bromwich Albion U18",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gb2yVKYle7D26d8Akpj4I.png",
-    "away_score": 0
+    "away_score": 3
   },
   {
     "league_name": "Inggris Raya - Premier League U18",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png",
     "match_date": "2026-01-17",
     "match_time": "18:00",
-    "status": "Jadwal",
+    "status": "Live 90'",
     "home_team": "Fulham U18",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jwzbHQzRQoBSuBvu37GKl.png",
-    "home_score": 0,
+    "home_score": 2,
     "away_team": "Brighton & Hove Albion U18",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bprEaTsHUwR5vKJnkBXWB.png",
-    "away_score": 0
+    "away_score": 3
   },
   {
     "league_name": "Inggris Raya - Premier League U18",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png",
     "match_date": "2026-01-17",
     "match_time": "18:00",
-    "status": "Jadwal",
+    "status": "Live 89'",
     "home_team": "Newcastle United U18",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oRmrhoEo1GrkhvhONQnc3.png",
     "home_score": 0,
     "away_team": "Liverpool U18",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sV0VVIosy1mDDNGDmRW_K.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Inggris Raya - Premier League U18",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png",
     "match_date": "2026-01-17",
     "match_time": "18:00",
-    "status": "Jadwal",
+    "status": "Live 89'",
     "home_team": "Stoke City U18",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iqtOOlB0iwM4sVLvyRrNS.png",
     "home_score": 0,
     "away_team": "Blackburn Rovers U18",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HdmXjQ5UDYFf0ZPAQPoT4.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "International - Club Friendlies",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-01-17",
     "match_time": "18:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Randers FC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xYG8qBN81zXlggv7dDw26.png",
-    "home_score": 0,
+    "home_score": 2,
     "away_team": "AaB",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kO2nOt_e09uPqYWld7pB7.png",
-    "away_score": 0
+    "away_score": 3
   },
   {
     "league_name": "International - Club Friendlies",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-01-17",
     "match_time": "18:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Vejle Boldklub",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/tZ9aCyhJzenzI5wqXOZQ8.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Viborg",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/twxOXxobIcTwylJxo3bnG.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Portugal - Liga Portugal 2",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1nbm5i9a0403zzvltn17lxinc.png",
     "match_date": "2026-01-17",
     "match_time": "18:00",
-    "status": "Jadwal",
+    "status": "Live 88'",
     "home_team": "Farense",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bx0qSxViSnnkSmhz8ia_7.png",
     "home_score": 0,
@@ -199,36 +160,36 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1nbm5i9a0403zzvltn17lxinc.png",
     "match_date": "2026-01-17",
     "match_time": "18:00",
-    "status": "Jadwal",
+    "status": "Live 88'",
     "home_team": "Felgueiras 1932",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Sjuiz_HoGfAuZL_jSmcg9.png",
     "home_score": 0,
     "away_team": "Leixoes",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vHkNX7ElQYb363Phjak0E.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Rumania - Superliga",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/17oj2qrzqlkhdjvazum10sx2i.png",
     "match_date": "2026-01-17",
     "match_time": "18:00",
-    "status": "Jadwal",
+    "status": "Live 90'",
     "home_team": "FC Unirea Slobozia",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VATWsQ0THYbZ5UI7hmmEP.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "UTA Arad",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KTqud3KKvCqGgOa10Qblo.png",
-    "away_score": 0
+    "away_score": 3
   },
   {
     "league_name": "Spanyol - Liga F",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/49ih1pwv3ahshdf8uzrimi54c.png",
     "match_date": "2026-01-17",
     "match_time": "18:00",
-    "status": "Jadwal",
+    "status": "Live 88'",
     "home_team": "Granada Femenino",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dp1P76OzivOWL_mZi1FHG.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Logrono",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/A7FfbhLMypnVWvgPjvuFQ.png",
     "away_score": 0
@@ -238,33 +199,33 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/49ih1pwv3ahshdf8uzrimi54c.png",
     "match_date": "2026-01-17",
     "match_time": "18:00",
-    "status": "Jadwal",
+    "status": "Live 87'",
     "home_team": "Levante",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8-9CT85a8XzSFG0WN_Fl0.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Real Madrid Femenino",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vTjdaLWCnszhzCrGtCOlr.png",
-    "away_score": 0
+    "away_score": 2
   },
   {
     "league_name": "Thailand - Thai League",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/71wqq15l0mvpl4lneayzzh44g.png",
     "match_date": "2026-01-17",
     "match_time": "18:00",
-    "status": "Jadwal",
+    "status": "Live 90'",
     "home_team": "Ayutthaya United FC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cC6dbn_wm5hdv9mavo4Op.png",
     "home_score": 0,
     "away_team": "Uthai Thani FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/P6sCExIKxrZl6vYyP_tKV.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Italia - Serie A Femminile",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/25f2cmb2r8mk5rj92tzer6kvv.png",
     "match_date": "2026-01-17",
     "match_time": "18:30",
-    "status": "Jadwal",
+    "status": "Live 60'",
     "home_team": "Parma Calcio 1913",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1E8A95J7x_wH3sv2dYsdf.png",
     "home_score": 0,
@@ -277,10 +238,10 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/i5ym1phxb6fliphj1xd6pydv.png",
     "match_date": "2026-01-17",
     "match_time": "18:30",
-    "status": "Jadwal",
+    "status": "Live 54'",
     "home_team": "Albirex Niigata FC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ftwzG7jMOxbc4APDfyO9J.png",
-    "home_score": 0,
+    "home_score": 2,
     "away_team": "Tanjong Pagar United FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JAMBCpsIpjeqemZSOAohQ.png",
     "away_score": 0
@@ -290,7 +251,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/71wqq15l0mvpl4lneayzzh44g.png",
     "match_date": "2026-01-17",
     "match_time": "18:30",
-    "status": "Jadwal",
+    "status": "Live 62'",
     "home_team": "Chonburi FC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VLdatEqTccLihq4-InxKI.png",
     "home_score": 0,
@@ -303,10 +264,10 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png",
     "match_date": "2026-01-17",
     "match_time": "19:00",
-    "status": "Jadwal",
+    "status": "Live 45'",
     "home_team": "Birmingham City U18",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ys7sqKab1h8ZAqleDSWpG.png",
-    "home_score": 0,
+    "home_score": 2,
     "away_team": "Southampton U18",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kS2M018TiKP18EC0K7x3N.png",
     "away_score": 0
@@ -316,23 +277,23 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png",
     "match_date": "2026-01-17",
     "match_time": "19:00",
-    "status": "Jadwal",
+    "status": "Live 45'",
     "home_team": "Leicester City U18",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/90fE-cr7glWw0wKTBMjIG.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Chelsea U18",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8h2wqbwldachf4qpviz2prw0q.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Inggris Raya - Premier League U18",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png",
     "match_date": "2026-01-17",
     "match_time": "19:00",
-    "status": "Jadwal",
+    "status": "Live 45'",
     "home_team": "Nottingham Forest U18",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aMNMshRp8wYlymeJDKVsN.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Middlesbrough U18",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ToNjCn3w0Zgdw_x0JhhS8.png",
     "away_score": 0
@@ -342,7 +303,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1uzblzx1s42jn6zk6hivjzby8.png",
     "match_date": "2026-01-17",
     "match_time": "19:00",
-    "status": "Jadwal",
+    "status": "Live 45'",
     "home_team": "Al Zawraa",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2NSsaSXqT7sI7hg8MgBmJ.png",
     "home_score": 0,
@@ -355,25 +316,12 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/e53g9hr2d3kasm34uumbg8r4.png",
     "match_date": "2026-01-17",
     "match_time": "19:00",
-    "status": "Jadwal",
-    "home_team": "Aluminium Arak",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3CNDaHFlly1Yk355n8Prq.png",
+    "status": "Live 24'",
+    "home_team": "Sepahan",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Zh-IYUQjQYSCwvppEkyyQ.png",
     "home_score": 0,
-    "away_team": "Gol Gohar",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GA0rIa4Cd5cVEqDuiqyz2.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Iran - Persian Gulf Pro League",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/e53g9hr2d3kasm34uumbg8r4.png",
-    "match_date": "2026-01-17",
-    "match_time": "19:00",
-    "status": "Jadwal",
-    "home_team": "Shams Azar Qazvin",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NOJG33q_uQMRgWjKdzvOV.png",
-    "home_score": 0,
-    "away_team": "Esteghlal Khuzestan",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jH9EBX2CXK9piEG3jhTyd.png",
+    "away_team": "Malavan",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d7io73pn8o8unrln9piyixl6l.png",
     "away_score": 0
   },
   {
@@ -381,10 +329,10 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/36min0qztu8eydwvpv8t1is0m.png",
     "match_date": "2026-01-17",
     "match_time": "19:00",
-    "status": "Jadwal",
+    "status": "Live 45'",
     "home_team": "Dynamo Dresden",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sFRn6xi9ANomoHl1IoJpk.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Greuther Fuerth",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EIgE0U3GuG5-V4l0TxwmT.png",
     "away_score": 0
@@ -394,20 +342,20 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/36min0qztu8eydwvpv8t1is0m.png",
     "match_date": "2026-01-17",
     "match_time": "19:00",
-    "status": "Jadwal",
+    "status": "Live 45'",
     "home_team": "Nuernberg",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lgFXKgYZbVTKM8mTS5K9P.png",
     "home_score": 0,
     "away_team": "Elversberg",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iLZSMG8Oc30AomkBDV7fp.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Jerman - 2. Bundesliga",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/36min0qztu8eydwvpv8t1is0m.png",
     "match_date": "2026-01-17",
     "match_time": "19:00",
-    "status": "Jadwal",
+    "status": "Live 45'",
     "home_team": "Preussen Muenster",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hu9b8kdMfxoyBLk6UUBqU.png",
     "home_score": 0,
@@ -420,7 +368,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/71wqq15l0mvpl4lneayzzh44g.png",
     "match_date": "2026-01-17",
     "match_time": "19:00",
-    "status": "Jadwal",
+    "status": "Live 45'",
     "home_team": "Sukhothai FC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BIxAZyrGgc3WwrzLJrOU8.png",
     "home_score": 0,
@@ -433,7 +381,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png",
     "match_date": "2026-01-17",
     "match_time": "19:15",
-    "status": "Jadwal",
+    "status": "Live 34'",
     "home_team": "Sunderland AFC Ladies",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BV8BGabmTLZoQ8tfqeJkl.png",
     "home_score": 0,
@@ -446,23 +394,23 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/7ntvbsyq31jnzoqoa8850b9b8.png",
     "match_date": "2026-01-17",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 20'",
     "home_team": "Coventry City",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/W59RF9GwRrQAX4YSSlzQQ.png",
     "home_score": 0,
     "away_team": "Leicester City",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vuqH4gZ-voBw0W7kmlw61.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Inggris Raya - Championship",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/7ntvbsyq31jnzoqoa8850b9b8.png",
     "match_date": "2026-01-17",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 21'",
     "home_team": "Ipswich Town",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zrA_YgKgSHz-G7qbhWYG-.png",
-    "home_score": 0,
+    "home_score": 2,
     "away_team": "Blackburn Rovers",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/u7Gp7D-Cijc3qF4FHHeEt.png",
     "away_score": 0
@@ -472,7 +420,7 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/7ntvbsyq31jnzoqoa8850b9b8.png",
     "match_date": "2026-01-17",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 20'",
     "home_team": "Watford",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_vTwjktByU9cZi4WIJfwe.png",
     "home_score": 0,
@@ -485,10 +433,10 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png",
     "match_date": "2026-01-17",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 20'",
     "home_team": "Chelsea FC Women",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/r9ST2EP3KpVaYzKrbS3eI.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Crystal Palace FC Women",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LzaW12a_y1e2QhREW89oe.png",
     "away_score": 0
@@ -498,7 +446,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1xf68d0a8lnnq30hnnn8kr6ut.png",
     "match_date": "2026-01-17",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 19'",
     "home_team": "Dunfermline Athletic",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/f19-aPCTZmT53W1a0yHDB.png",
     "home_score": 0,
@@ -511,20 +459,20 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/3frp1zxrqulrlrnk503n6l4l.png",
     "match_date": "2026-01-17",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 20'",
     "home_team": "Bradford City",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/imtze9OQsbptCSnxcopIq.png",
     "home_score": 0,
     "away_team": "Cardiff City",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7IaE2jrCIBwqe_o_j9OJq.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Inggris Raya - League One",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/3frp1zxrqulrlrnk503n6l4l.png",
     "match_date": "2026-01-17",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 20'",
     "home_team": "Wigan Athletic",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aSPfhTR3NONaoRuCI1vBC.png",
     "home_score": 0,
@@ -537,7 +485,7 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/bgen5kjer2ytfp7lo9949t72g.png",
     "match_date": "2026-01-17",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 20'",
     "home_team": "Chesterfield",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SIQfy2ryQc8ZHLPv79QVX.png",
     "home_score": 0,
@@ -550,7 +498,7 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/bgen5kjer2ytfp7lo9949t72g.png",
     "match_date": "2026-01-17",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 20'",
     "home_team": "Tranmere Rovers",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rZ93jC7QgbR7m_yyZSLZP.png",
     "home_score": 0,
@@ -563,7 +511,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png",
     "match_date": "2026-01-17",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 20'",
     "home_team": "Hartlepool United",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iTnPF0YXiPxwZMknHJR1R.png",
     "home_score": 0,
@@ -576,7 +524,7 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/2kwbbcootiqqgmrzs6o5inle5.png",
     "match_date": "2026-01-17",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 21'",
     "home_team": "Manchester United",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png",
     "home_score": 0,
@@ -589,46 +537,33 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-01-17",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 22'",
     "home_team": "Broendby IF",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MIaToS5wmmu_7P8qHQXLw.png",
     "home_score": 0,
     "away_team": "Piast Gliwice",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0U2ZBQnvBPIJUvIK4LcTK.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Iran - Persian Gulf Pro League",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/e53g9hr2d3kasm34uumbg8r4.png",
-    "match_date": "2026-01-17",
-    "match_time": "19:30",
-    "status": "Jadwal",
-    "home_team": "Sepahan",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Zh-IYUQjQYSCwvppEkyyQ.png",
-    "home_score": 0,
-    "away_team": "Malavan",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d7io73pn8o8unrln9piyixl6l.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Siprus - 2. Division",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/3om8cj5nhmq1rzzkykubm5icj.png",
     "match_date": "2026-01-17",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 18'",
     "home_team": "PAEEK",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ShYzIykxK0ekomhaDqPeW.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "ASIL Lysi",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7M-dRNyeDZVPwSQ-h1UCt.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Siprus - 2. Division",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/3om8cj5nhmq1rzzkykubm5icj.png",
     "match_date": "2026-01-17",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 18'",
     "home_team": "APEA Akrotiri",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "home_score": 0,
@@ -641,10 +576,10 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/3om8cj5nhmq1rzzkykubm5icj.png",
     "match_date": "2026-01-17",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 18'",
     "home_team": "Chalkanoras Idaliou",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6InALFZIfYaHR5uLcQtu-.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Ethnikos Latsion",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "away_score": 0
@@ -654,20 +589,20 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/3om8cj5nhmq1rzzkykubm5icj.png",
     "match_date": "2026-01-17",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 21'",
     "home_team": "Spartakos Kitiou",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "home_score": 0,
     "away_team": "Iraklis Gerolakkou",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Thailand - Thai League",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/71wqq15l0mvpl4lneayzzh44g.png",
     "match_date": "2026-01-17",
     "match_time": "19:30",
-    "status": "Jadwal",
+    "status": "Live 20'",
     "home_team": "Kanchanaburi Power",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "home_score": 0,
@@ -972,19 +907,6 @@
     "home_score": 0,
     "away_team": "Al-Nasr SC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kdd_InckkX3873sEVXA4E.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Iran - Persian Gulf Pro League",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/e53g9hr2d3kasm34uumbg8r4.png",
-    "match_date": "2026-01-17",
-    "match_time": "20:15",
-    "status": "Jadwal",
-    "home_team": "Esteghlal",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Z_eOnLaUjxLfM3AZnUIQv.png",
-    "home_score": 0,
-    "away_team": "Tractor",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2F6Cq4AYn-zvO0b8-7RlB.png",
     "away_score": 0
   },
   {
@@ -1297,6 +1219,19 @@
     "home_score": 0,
     "away_team": "Portimonense",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/L0vaMUtXHBHvnSU1LasFR.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Prancis - Premiere Ligue",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7gww28djs405rfga69smki84o.png",
+    "match_date": "2026-01-17",
+    "match_time": "21:00",
+    "status": "Jadwal",
+    "home_team": "Saint-Etienne",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dsHvSFGH31NDkiSshf-g3.png",
+    "home_score": 0,
+    "away_team": "Nantes",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oVG1a1OBpe2IPIU7ZZzcz.png",
     "away_score": 0
   },
   {
@@ -1746,7 +1681,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1xf68d0a8lnnq30hnnn8kr6ut.png",
     "match_date": "2026-01-17",
     "match_time": "22:00",
-    "status": "Jadwal",
+    "status": "POSTPONED",
     "home_team": "Stranraer",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SQZ7HrkYK4_IdVf_uQDof.png",
     "home_score": 0,
@@ -3185,19 +3120,6 @@
     "away_score": 0
   },
   {
-    "league_name": "Nigeria - NPFL",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/63pvdwrsiq5b07mzi8igqei9p.png",
-    "match_date": "2026-01-17",
-    "match_time": "22:00",
-    "status": "Jadwal",
-    "home_team": "Bendel Insurance",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iWS6NdO8DD5mceiURCYtJ.png",
-    "home_score": 0,
-    "away_team": "El Kanemi Warriors",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/M3_QWDy0vPucwy1VTq5g-.png",
-    "away_score": 0
-  },
-  {
     "league_name": "Portugal - Liga 3",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1nbm5i9a0403zzvltn17lxinc.png",
     "match_date": "2026-01-17",
@@ -3533,19 +3455,6 @@
     "home_score": 0,
     "away_team": "Dijon Foot",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jXyzQHHFXJlF5ypHKeeyM.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Prancis - Premiere Ligue",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7gww28djs405rfga69smki84o.png",
-    "match_date": "2026-01-17",
-    "match_time": "23:00",
-    "status": "Jadwal",
-    "home_team": "Saint-Etienne",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dsHvSFGH31NDkiSshf-g3.png",
-    "home_score": 0,
-    "away_team": "Nantes",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oVG1a1OBpe2IPIU7ZZzcz.png",
     "away_score": 0
   },
   {
@@ -4992,6 +4901,45 @@
     "away_score": 0
   },
   {
+    "league_name": "Iran - Persian Gulf Pro League",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/e53g9hr2d3kasm34uumbg8r4.png",
+    "match_date": "2026-01-18",
+    "match_time": "17:30",
+    "status": "Jadwal",
+    "home_team": "Aluminium Arak",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3CNDaHFlly1Yk355n8Prq.png",
+    "home_score": 0,
+    "away_team": "Gol Gohar",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GA0rIa4Cd5cVEqDuiqyz2.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Iran - Persian Gulf Pro League",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/e53g9hr2d3kasm34uumbg8r4.png",
+    "match_date": "2026-01-18",
+    "match_time": "17:30",
+    "status": "Jadwal",
+    "home_team": "Fajr Sepasi",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zISBeHk9pPsrKTJkMhI_x.png",
+    "home_score": 0,
+    "away_team": "Persepolis",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JHwgIkOARAY5mvREkYSfC.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Iran - Persian Gulf Pro League",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/e53g9hr2d3kasm34uumbg8r4.png",
+    "match_date": "2026-01-18",
+    "match_time": "17:30",
+    "status": "Jadwal",
+    "home_team": "Shams Azar Qazvin",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NOJG33q_uQMRgWjKdzvOV.png",
+    "home_score": 0,
+    "away_team": "Esteghlal Khuzestan",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jH9EBX2CXK9piEG3jhTyd.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Spanyol - Segunda Federacion",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/49ih1pwv3ahshdf8uzrimi54c.png",
     "match_date": "2026-01-18",
@@ -5759,6 +5707,19 @@
     "away_score": 0
   },
   {
+    "league_name": "Iran - Persian Gulf Pro League",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/e53g9hr2d3kasm34uumbg8r4.png",
+    "match_date": "2026-01-18",
+    "match_time": "19:30",
+    "status": "Jadwal",
+    "home_team": "Esteghlal",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Z_eOnLaUjxLfM3AZnUIQv.png",
+    "home_score": 0,
+    "away_team": "Tractor",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2F6Cq4AYn-zvO0b8-7RlB.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Jerman - 2. Bundesliga",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/36min0qztu8eydwvpv8t1is0m.png",
     "match_date": "2026-01-18",
@@ -6032,6 +5993,19 @@
     "away_score": 0
   },
   {
+    "league_name": "Tanzania - Premier League",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/3rramsla3ovuhxks28wq1kirb.png",
+    "match_date": "2026-01-18",
+    "match_time": "20:00",
+    "status": "Jadwal",
+    "home_team": "Simba SC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/wup70m8O635ZdWH7ktH92.png",
+    "home_score": 0,
+    "away_team": "Mtibwa Sugar",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8AR5CeJMkplm_S_bBJXHD.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Turki - 1. Lig",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/6kd6webenogylfgwt2aa9l6vx.png",
     "match_date": "2026-01-18",
@@ -6120,19 +6094,6 @@
     "home_score": 0,
     "away_team": "Al Bataeh",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JQ7mko6ljLxGHuzRFIe2b.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Iran - Persian Gulf Pro League",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/e53g9hr2d3kasm34uumbg8r4.png",
-    "match_date": "2026-01-18",
-    "match_time": "20:15",
-    "status": "Jadwal",
-    "home_team": "Fajr Sepasi",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zISBeHk9pPsrKTJkMhI_x.png",
-    "home_score": 0,
-    "away_team": "Persepolis",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JHwgIkOARAY5mvREkYSfC.png",
     "away_score": 0
   },
   {
@@ -7830,6 +7791,19 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/63pvdwrsiq5b07mzi8igqei9p.png",
     "match_date": "2026-01-18",
     "match_time": "22:00",
+    "status": "Jadwal",
+    "home_team": "Bendel Insurance",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iWS6NdO8DD5mceiURCYtJ.png",
+    "home_score": 0,
+    "away_team": "El Kanemi Warriors",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/M3_QWDy0vPucwy1VTq5g-.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Nigeria - NPFL",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/63pvdwrsiq5b07mzi8igqei9p.png",
+    "match_date": "2026-01-18",
+    "match_time": "22:00",
     "status": "POSTPONED",
     "home_team": "El Kanemi Warriors",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/M3_QWDy0vPucwy1VTq5g-.png",
@@ -7862,19 +7836,6 @@
     "home_score": 0,
     "away_team": "Kwara United",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/O1OHo3FCvHPD3Ikxq8FP3.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Nigeria - NPFL",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/63pvdwrsiq5b07mzi8igqei9p.png",
-    "match_date": "2026-01-18",
-    "match_time": "22:00",
-    "status": "Jadwal",
-    "home_team": "Kun Khalifat",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
-    "home_score": 0,
-    "away_team": "Enugu Rangers",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ziGSdAZKzjf95RM_sf5HX.png",
     "away_score": 0
   },
   {
@@ -8996,6 +8957,32 @@
     "away_score": 0
   },
   {
+    "league_name": "Brasil - Paulista A1",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
+    "match_date": "2026-01-19",
+    "match_time": "01:00",
+    "status": "Jadwal",
+    "home_team": "Sao Bernardo",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BjAoAwPMcyUy6CBRwE4Ue.png",
+    "home_score": 0,
+    "away_team": "Noroeste",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7ptbvpvw2qNsRtnKVYmXn.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Brasil - Pernambucano",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
+    "match_date": "2026-01-19",
+    "match_time": "01:00",
+    "status": "Jadwal",
+    "home_team": "Maguary",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-YY1TXb8WCs_nh5QnFqzA.png",
+    "home_score": 0,
+    "away_team": "Retro FC",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AcSp9C2yvEdcmBPBt4Qhr.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Meksiko - Liga MX",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/5trdr3jf42i20zj1hnkvcytr6.png",
     "match_date": "2026-01-19",
@@ -9243,19 +9230,6 @@
     "away_score": 0
   },
   {
-    "league_name": "Brasil - Pernambucano",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
-    "match_date": "2026-01-19",
-    "match_time": "02:00",
-    "status": "Jadwal",
-    "home_team": "Maguary",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-YY1TXb8WCs_nh5QnFqzA.png",
-    "home_score": 0,
-    "away_team": "Retro FC",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AcSp9C2yvEdcmBPBt4Qhr.png",
-    "away_score": 0
-  },
-  {
     "league_name": "Brasil - Potiguar",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
     "match_date": "2026-01-19",
@@ -9451,19 +9425,6 @@
     "away_score": 0
   },
   {
-    "league_name": "Brasil - Paulista A1",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
-    "match_date": "2026-01-19",
-    "match_time": "03:00",
-    "status": "Jadwal",
-    "home_team": "Sao Bernardo",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BjAoAwPMcyUy6CBRwE4Ue.png",
-    "home_score": 0,
-    "away_team": "Noroeste",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7ptbvpvw2qNsRtnKVYmXn.png",
-    "away_score": 0
-  },
-  {
     "league_name": "Brasil - Piauiense",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
     "match_date": "2026-01-19",
@@ -9521,19 +9482,6 @@
     "match_date": "2026-01-19",
     "match_time": "03:00",
     "status": "Jadwal",
-    "home_team": "Molynes United",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Dvcy5-1uzXE0oqY6q9MEJ.png",
-    "home_score": 0,
-    "away_team": "Tivoli Gardens",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/K0Ke7DYiDzPlua6UQ20o8.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Jamaika - Premier League",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/gimxu1vjwoa2xrecyd9gtyoc.png",
-    "match_date": "2026-01-19",
-    "match_time": "03:00",
-    "status": "Jadwal",
     "home_team": "Montego Bay United FC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/foaAxfhkr9Ak9rZoO19IJ.png",
     "home_score": 0,
@@ -9546,25 +9494,12 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/gimxu1vjwoa2xrecyd9gtyoc.png",
     "match_date": "2026-01-19",
     "match_time": "03:00",
-    "status": "Jadwal",
+    "status": "POSTPONED",
     "home_team": "Mount Pleasant",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cjA8_dMsdlfufKpWj8HXH.png",
     "home_score": 0,
     "away_team": "Harbour View",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Pi2atZ9Gswsbj7P_fmVYQ.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Jamaika - Premier League",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/gimxu1vjwoa2xrecyd9gtyoc.png",
-    "match_date": "2026-01-19",
-    "match_time": "03:00",
-    "status": "Jadwal",
-    "home_team": "Racing United",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EQr7no7z0xVZbQXQg6ep4.png",
-    "home_score": 0,
-    "away_team": "Dunbeholden",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MG-gQeq6lTxDMPPY1t_RS.png",
     "away_score": 0
   },
   {
@@ -9585,25 +9520,12 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/gimxu1vjwoa2xrecyd9gtyoc.png",
     "match_date": "2026-01-19",
     "match_time": "03:00",
-    "status": "Jadwal",
+    "status": "POSTPONED",
     "home_team": "Treasure Beach",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CGn12GhxVY7JVxMN5kXpo.png",
     "home_score": 0,
     "away_team": "Cavalier SC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DXpJCzJzMLjC9OLTa3ots.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Jamaika - Premier League",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/gimxu1vjwoa2xrecyd9gtyoc.png",
-    "match_date": "2026-01-19",
-    "match_time": "03:00",
-    "status": "Jadwal",
-    "home_team": "Waterhouse FC",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PfUgcZptDeLFP1TK5bjOq.png",
-    "home_score": 0,
-    "away_team": "Arnett Gardens",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qk7LIDzvnjXZr7EUt1y9D.png",
     "away_score": 0
   },
   {
@@ -9789,6 +9711,19 @@
     "away_score": 0
   },
   {
+    "league_name": "International - Friendlies",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-01-19",
+    "match_time": "04:00",
+    "status": "Jadwal",
+    "home_team": "Grenada",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PxiXJJD-xhRCGKEzTeYdS.png",
+    "home_score": 0,
+    "away_team": "Jamaica",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3yp99faoQ8_dUvIVhoi1V.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Kosta Rika - Liga de Ascenso",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/48emauy3fucokp86skcs5alh8.png",
     "match_date": "2026-01-19",
@@ -9955,6 +9890,19 @@
     "home_score": 0,
     "away_team": "Marcilio Dias",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zhwYIWcHAqEWsD-TTgOBC.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Jamaika - Premier League",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/gimxu1vjwoa2xrecyd9gtyoc.png",
+    "match_date": "2026-01-19",
+    "match_time": "05:30",
+    "status": "Jadwal",
+    "home_team": "Racing United",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EQr7no7z0xVZbQXQg6ep4.png",
+    "home_score": 0,
+    "away_team": "Dunbeholden",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MG-gQeq6lTxDMPPY1t_RS.png",
     "away_score": 0
   },
   {
@@ -10218,6 +10166,19 @@
     "away_score": 0
   },
   {
+    "league_name": "Tanzania - Premier League",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/3rramsla3ovuhxks28wq1kirb.png",
+    "match_date": "2026-01-19",
+    "match_time": "20:00",
+    "status": "Jadwal",
+    "home_team": "Young Africans",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lXMJlP9DGCANVcdaidabd.png",
+    "home_score": 0,
+    "away_team": "Mashujaa",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0v0vk71e-o14N6CP4sJJF.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Tunisia - Ligue I",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2um1icx6ftp1auliaxyw0ou6y.png",
     "match_date": "2026-01-19",
@@ -10309,16 +10270,16 @@
     "away_score": 0
   },
   {
-    "league_name": "Mesir - Premier League",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/QAVZntka3TacZRXIJFV4p.png",
+    "league_name": "Nigeria - NPFL",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/63pvdwrsiq5b07mzi8igqei9p.png",
     "match_date": "2026-01-19",
     "match_time": "22:00",
     "status": "Jadwal",
-    "home_team": "Tala'ea El Gaish",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/64yLy__ORjqwK6u3IQL9t.png",
+    "home_team": "Kun Khalifat",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "home_score": 0,
-    "away_team": "Al Ahly SC",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/o0K-aXi0FsiLx9BJ3AgTv.png",
+    "away_team": "Enugu Rangers",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ziGSdAZKzjf95RM_sf5HX.png",
     "away_score": 0
   },
   {
@@ -10436,19 +10397,6 @@
     "home_score": 0,
     "away_team": "Hellas Verona",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MNrOpq2eSb9bZqK3gwP2J.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Mesir - Premier League",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/QAVZntka3TacZRXIJFV4p.png",
-    "match_date": "2026-01-20",
-    "match_time": "01:00",
-    "status": "Jadwal",
-    "home_team": "National Bank",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JWW7CvCe5hMfY9EyPWGku.png",
-    "home_score": 0,
-    "away_team": "Pyramids FC",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JTf73VVwEf8AlNOdmNtN5.png",
     "away_score": 0
   },
   {
@@ -10699,6 +10647,19 @@
     "away_score": 0
   },
   {
+    "league_name": "Jamaika - Premier League",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/gimxu1vjwoa2xrecyd9gtyoc.png",
+    "match_date": "2026-01-20",
+    "match_time": "05:30",
+    "status": "Jadwal",
+    "home_team": "Molynes United",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Dvcy5-1uzXE0oqY6q9MEJ.png",
+    "home_score": 0,
+    "away_team": "Tivoli Gardens",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/K0Ke7DYiDzPlua6UQ20o8.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Kosta Rika - Liga de Ascenso",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/48emauy3fucokp86skcs5alh8.png",
     "match_date": "2026-01-20",
@@ -10722,6 +10683,19 @@
     "home_score": 0,
     "away_team": "Ituzaingo",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lUkMO3fQ8hM-_Sn4sj725.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Jamaika - Premier League",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/gimxu1vjwoa2xrecyd9gtyoc.png",
+    "match_date": "2026-01-20",
+    "match_time": "07:30",
+    "status": "Jadwal",
+    "home_team": "Waterhouse FC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PfUgcZptDeLFP1TK5bjOq.png",
+    "home_score": 0,
+    "away_team": "Arnett Gardens",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qk7LIDzvnjXZr7EUt1y9D.png",
     "away_score": 0
   },
   {
@@ -10933,16 +10907,16 @@
     "away_score": 0
   },
   {
-    "league_name": "Tunisia - Ligue I",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2um1icx6ftp1auliaxyw0ou6y.png",
+    "league_name": "Tanzania - Premier League",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/3rramsla3ovuhxks28wq1kirb.png",
     "match_date": "2026-01-20",
     "match_time": "20:00",
     "status": "Jadwal",
-    "home_team": "AS Gabes",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fQKMDQ8gsS5QQrlCIZsWh.png",
+    "home_team": "Azam FC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pO7P3RPI5iZxtKXAd882C.png",
     "home_score": 0,
-    "away_team": "Olympique de Beja",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/v34txn3XqTmlz-QxT9t_R.png",
+    "away_team": "Fountain Gate FC",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-9YLAyjvQ-XMgXjNUZ6Un.png",
     "away_score": 0
   },
   {
@@ -10956,19 +10930,6 @@
     "home_score": 0,
     "away_team": "Stade Tunisien",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PLZdq_BT41EA7qsPf33XZ.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Tunisia - Ligue I",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2um1icx6ftp1auliaxyw0ou6y.png",
-    "match_date": "2026-01-20",
-    "match_time": "20:00",
-    "status": "Jadwal",
-    "home_team": "JS Omrane",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
-    "home_score": 0,
-    "away_team": "Zarzis",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_nGjWP92VjRu9JF250VsH.png",
     "away_score": 0
   },
   {
@@ -11011,19 +10972,6 @@
     "away_score": 1
   },
   {
-    "league_name": "Mesir - Premier League",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/QAVZntka3TacZRXIJFV4p.png",
-    "match_date": "2026-01-20",
-    "match_time": "22:00",
-    "status": "Jadwal",
-    "home_team": "El Gouna FC",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fKhtCS6yK--zfnA9a-bz3.png",
-    "home_score": 0,
-    "away_team": "Al Masry SC",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ISuy-eoshHOyLG5mU_Pgn.png",
-    "away_score": 0
-  },
-  {
     "league_name": "Yordania - 1. Division",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/5067agkwm6luzilwyfwth1dic.png",
     "match_date": "2026-01-20",
@@ -11060,6 +11008,19 @@
     "home_score": 0,
     "away_team": "Club Brugge",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/P7IMTnd7DyvKabTxDNOdQ.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Tanzania - Premier League",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/3rramsla3ovuhxks28wq1kirb.png",
+    "match_date": "2026-01-20",
+    "match_time": "23:00",
+    "status": "Jadwal",
+    "home_team": "Singida Black Stars",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xcTA1ujdlt6LVRuAIvK_Z.png",
+    "home_score": 0,
+    "away_team": "JKT Tanzania",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1eoruh64ejha8gldurn5w73oq.png",
     "away_score": 0
   },
   {
@@ -11177,19 +11138,6 @@
     "home_score": 0,
     "away_team": "Manchester City",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Mesir - Premier League",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/QAVZntka3TacZRXIJFV4p.png",
-    "match_date": "2026-01-21",
-    "match_time": "01:00",
-    "status": "Jadwal",
-    "home_team": "ENPPI",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5xPmFysmpvO-CKasFAT1y.png",
-    "home_score": 0,
-    "away_team": "Zamalek SC",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/l22L9qjeS-jOBuS_QnBv5.png",
     "away_score": 0
   },
   {
@@ -11778,6 +11726,19 @@
     "away_score": 0
   },
   {
+    "league_name": "Brasil - Matogrossense",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
+    "match_date": "2026-01-21",
+    "match_time": "03:00",
+    "status": "Jadwal",
+    "home_team": "Varzea Grande",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
+    "home_score": 0,
+    "away_team": "Uniao Rondonopolis",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rcYbDBTdvKC2sH2pSlg_S.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Inggris Raya - Championship",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/7ntvbsyq31jnzoqoa8850b9b8.png",
     "match_date": "2026-01-21",
@@ -11970,19 +11931,6 @@
     "home_score": 0,
     "away_team": "Barcelona de Ilheus",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Rcczz5Uxc2an6kGuPsMFh.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Brasil - Matogrossense",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
-    "match_date": "2026-01-21",
-    "match_time": "06:00",
-    "status": "Jadwal",
-    "home_team": "Varzea Grande",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
-    "home_score": 0,
-    "away_team": "Uniao Rondonopolis",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rcYbDBTdvKC2sH2pSlg_S.png",
     "away_score": 0
   },
   {
@@ -12246,6 +12194,45 @@
     "away_score": 0
   },
   {
+    "league_name": "Tunisia - Ligue I",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2um1icx6ftp1auliaxyw0ou6y.png",
+    "match_date": "2026-01-21",
+    "match_time": "20:00",
+    "status": "Jadwal",
+    "home_team": "AS Gabes",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fQKMDQ8gsS5QQrlCIZsWh.png",
+    "home_score": 0,
+    "away_team": "Olympique de Beja",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/v34txn3XqTmlz-QxT9t_R.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Tunisia - Ligue I",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2um1icx6ftp1auliaxyw0ou6y.png",
+    "match_date": "2026-01-21",
+    "match_time": "20:00",
+    "status": "Jadwal",
+    "home_team": "CS Sfaxien",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/O5JjBEgiFehqxg6UGakc4.png",
+    "home_score": 0,
+    "away_team": "CA Bizertin",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Kx1VSnKsab4GvNxkGV-ez.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Tunisia - Ligue I",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2um1icx6ftp1auliaxyw0ou6y.png",
+    "match_date": "2026-01-21",
+    "match_time": "20:00",
+    "status": "Jadwal",
+    "home_team": "JS Omrane",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
+    "home_score": 0,
+    "away_team": "Zarzis",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_nGjWP92VjRu9JF250VsH.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Italia - Serie D",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/25f2cmb2r8mk5rj92tzer6kvv.png",
     "match_date": "2026-01-21",
@@ -12303,11 +12290,11 @@
     "match_date": "2026-01-21",
     "match_time": "22:00",
     "status": "Jadwal",
-    "home_team": "ZED FC",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ef9WfeZeEJtMHcjRy98D6.png",
+    "home_team": "Ceramica Cleopatra",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lNZ8e6VCerzL440JquYBG.png",
     "home_score": 0,
-    "away_team": "Modern Sport FC",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/04HM4cw9TEvfPz20QVCyI.png",
+    "away_team": "Al Ittihad Alexandria",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pLMXEK0kpdKtg60w3rhBU.png",
     "away_score": 0
   },
   {
@@ -12524,19 +12511,6 @@
     "match_date": "2026-01-22",
     "match_time": "01:00",
     "status": "Jadwal",
-    "home_team": "Ceramica Cleopatra",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lNZ8e6VCerzL440JquYBG.png",
-    "home_score": 0,
-    "away_team": "Al Ittihad Alexandria",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pLMXEK0kpdKtg60w3rhBU.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Mesir - Premier League",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/QAVZntka3TacZRXIJFV4p.png",
-    "match_date": "2026-01-22",
-    "match_time": "01:00",
-    "status": "Jadwal",
     "home_team": "Smouha SC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OQ23C2z-h-NuAxg_XzwUb.png",
     "home_score": 0,
@@ -12581,6 +12555,19 @@
     "home_score": 0,
     "away_team": "Sobradinho EC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SEVK_aHAKZNmI8TnLEdET.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Brasil - Maranhense",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
+    "match_date": "2026-01-22",
+    "match_time": "02:00",
+    "status": "Jadwal",
+    "home_team": "Tuntum SC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5ncqhVRUGHRSFqccd4NJl.png",
+    "home_score": 0,
+    "away_team": "Imperatriz",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kW_IfavDeDZMYd-HmqvhY.png",
     "away_score": 0
   },
   {
@@ -13260,19 +13247,6 @@
     "away_score": 0
   },
   {
-    "league_name": "Brasil - Maranhense",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
-    "match_date": "2026-01-22",
-    "match_time": "05:00",
-    "status": "Jadwal",
-    "home_team": "Tuntum SC",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5ncqhVRUGHRSFqccd4NJl.png",
-    "home_score": 0,
-    "away_team": "Imperatriz",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kW_IfavDeDZMYd-HmqvhY.png",
-    "away_score": 0
-  },
-  {
     "league_name": "Brasil - Mineiro",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
     "match_date": "2026-01-22",
@@ -13335,19 +13309,6 @@
     "home_score": 0,
     "away_team": "Decisao",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5v7PcCnloox77AEfxpsCY.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Brasil - Piauiense",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
-    "match_date": "2026-01-22",
-    "match_time": "05:00",
-    "status": "Jadwal",
-    "home_team": "Teresina Esporte Clube",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
-    "home_score": 0,
-    "away_team": "Oeirense",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zFfzRkiuU9uv37E2HqPwa.png",
     "away_score": 0
   },
   {
@@ -14292,19 +14253,6 @@
     "match_date": "2026-01-22",
     "match_time": "20:00",
     "status": "Jadwal",
-    "home_team": "CS Sfaxien",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/O5JjBEgiFehqxg6UGakc4.png",
-    "home_score": 0,
-    "away_team": "CA Bizertin",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Kx1VSnKsab4GvNxkGV-ez.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Tunisia - Ligue I",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2um1icx6ftp1auliaxyw0ou6y.png",
-    "match_date": "2026-01-22",
-    "match_time": "20:00",
-    "status": "Jadwal",
     "home_team": "Etoile Metlaoui",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HeE0oTpTxu4rWT32KUrVu.png",
     "home_score": 0,
@@ -14401,6 +14349,19 @@
     "home_score": 0,
     "away_team": "Real Salt Lake",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VuH5_ELAgPDNeGoVUhYOr.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Mesir - Premier League",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/QAVZntka3TacZRXIJFV4p.png",
+    "match_date": "2026-01-22",
+    "match_time": "22:00",
+    "status": "Jadwal",
+    "home_team": "Haras El Hodoud",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5HstJiWHbZzO7JGij0c9V.png",
+    "home_score": 0,
+    "away_team": "Kahrbaa Ismailia",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xCrlCi-qDYJbsaZLuzZRz.png",
     "away_score": 0
   },
   {
@@ -14617,19 +14578,6 @@
     "match_date": "2026-01-23",
     "match_time": "01:00",
     "status": "Jadwal",
-    "home_team": "Haras El Hodoud",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5HstJiWHbZzO7JGij0c9V.png",
-    "home_score": 0,
-    "away_team": "Kahrbaa Ismailia",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xCrlCi-qDYJbsaZLuzZRz.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Mesir - Premier League",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/QAVZntka3TacZRXIJFV4p.png",
-    "match_date": "2026-01-23",
-    "match_time": "01:00",
-    "status": "Jadwal",
     "home_team": "Ismaily SC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/e3-vYPAlPJ4GyQUoDlS6j.png",
     "home_score": 0,
@@ -14794,16 +14742,29 @@
     "away_score": 0
   },
   {
-    "league_name": "Brasil - Goiano",
+    "league_name": "Brasil - Sergipano",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
+    "match_date": "2026-01-23",
+    "match_time": "04:00",
+    "status": "Jadwal",
+    "home_team": "Desportiva Aracaju",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
+    "home_score": 0,
+    "away_team": "Dorense",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LNTjoyvXDXJoLm9F3xtat.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Brasil - Mineiro",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
     "match_date": "2026-01-23",
     "match_time": "04:30",
     "status": "Jadwal",
-    "home_team": "Inhumas",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Udn15ceUM3Efaoj8I5w56.png",
+    "home_team": "Cruzeiro",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XWpoDYSatQQBJ3RFATK1V.png",
     "home_score": 0,
-    "away_team": "Anapolis FC",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ZYfdaZ_so8wX83bEEzaWi.png",
+    "away_team": "Democrata GV",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fGRzqX7HYZAR8pbaSXl0E.png",
     "away_score": 0
   },
   {
@@ -14856,6 +14817,19 @@
     "home_score": 0,
     "away_team": "Porto SC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Brasil - Goiano",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
+    "match_date": "2026-01-23",
+    "match_time": "05:30",
+    "status": "Jadwal",
+    "home_team": "Inhumas",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Udn15ceUM3Efaoj8I5w56.png",
+    "home_score": 0,
+    "away_team": "Anapolis FC",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ZYfdaZ_so8wX83bEEzaWi.png",
     "away_score": 0
   },
   {
@@ -14963,19 +14937,6 @@
     "away_score": 0
   },
   {
-    "league_name": "Brasil - Sergipano",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
-    "match_date": "2026-01-23",
-    "match_time": "06:00",
-    "status": "Jadwal",
-    "home_team": "Desportiva Aracaju",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
-    "home_score": 0,
-    "away_team": "Dorense",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LNTjoyvXDXJoLm9F3xtat.png",
-    "away_score": 0
-  },
-  {
     "league_name": "Brasil - Catarinense",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
     "match_date": "2026-01-23",
@@ -15025,19 +14986,6 @@
     "home_score": 0,
     "away_team": "Aparecidense",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/l30RJMiFAGj9eRC2pZ0xB.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Brasil - Mineiro",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
-    "match_date": "2026-01-23",
-    "match_time": "07:00",
-    "status": "Jadwal",
-    "home_team": "Cruzeiro",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XWpoDYSatQQBJ3RFATK1V.png",
-    "home_score": 0,
-    "away_team": "Democrata GV",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fGRzqX7HYZAR8pbaSXl0E.png",
     "away_score": 0
   },
   {
