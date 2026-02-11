@@ -1,18 +1,5 @@
 [
   {
-    "league_name": "International - Club Friendlies",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
-    "match_date": "2026-02-10",
-    "match_time": "14:00",
-    "status": "FT",
-    "home_team": "Zenit St. Petersburg",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EWoPw4Ld9hie9Z5-_OZVu.png",
-    "home_score": 2,
-    "away_team": "CSKA Moskow",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zHb54OOXSUT6oXQV66fNq.png",
-    "away_score": 2
-  },
-  {
     "league_name": "International - AFC Champions League Elite",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/1fedahp0rws09tj451onten8r.png",
     "match_date": "2026-02-10",
@@ -1512,7 +1499,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-02-11",
     "match_time": "08:00",
-    "status": "Live 87'",
+    "status": "FT",
     "home_team": "Club Universidad Nacional",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WADXj2kHuQqOFq7UCPQgq.png",
     "home_score": 1,
@@ -1525,33 +1512,33 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/5trdr3jf42i20zj1hnkvcytr6.png",
     "match_date": "2026-02-11",
     "match_time": "08:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Atletico de San Luis",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eGgkBdNuTps8rUYh_fKXB.png",
     "home_score": 0,
     "away_team": "Pachuca",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yhIq8zEnaRqDBSCvu3ATu.png",
-    "away_score": 0
+    "away_score": 3
   },
   {
     "league_name": "Meksiko - Liga MX Femenil",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/5trdr3jf42i20zj1hnkvcytr6.png",
     "match_date": "2026-02-11",
     "match_time": "08:06",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Santos Laguna",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kRfHvwkhs9K5wpRmzCRCc.png",
-    "home_score": 0,
+    "home_score": 2,
     "away_team": "Club Tijuana",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ntIaNUK19UUxD1zgK9l0m.png",
-    "away_score": 0
+    "away_score": 2
   },
   {
     "league_name": "Kolombia - Primera A",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/6kby8rq1p01fg5ds38ckkrcs5.png",
     "match_date": "2026-02-11",
     "match_time": "08:30",
-    "status": "Live 59'",
+    "status": "FT",
     "home_team": "Bucaramanga",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2zzvy4VTLwmfOyiB7zvW9.png",
     "home_score": 0,
@@ -1564,13 +1551,13 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-02-11",
     "match_time": "10:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Tigres",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4VNj66ARvtZ3EaYh3vNRu.png",
-    "home_score": 0,
+    "home_score": 4,
     "away_team": "Forge FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_m00w4JdyyO42LAreNjz2.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "International - AFC Champions League Two",
