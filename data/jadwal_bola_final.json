@@ -641,7 +641,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-02-13",
     "match_time": "08:00",
-    "status": "Live 77'",
+    "status": "FT",
     "home_team": "Cruz Azul",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HmlaI8DFGQtfcisy86Lob.png",
     "home_score": 5,
@@ -654,23 +654,23 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/56ftnqeq3x3j77uone8qm5ow6.png",
     "match_date": "2026-02-13",
     "match_time": "08:30",
-    "status": "Live 56'",
+    "status": "FT",
     "home_team": "CD Marathon",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pR7BKgDNAlFk02CrD5joc.png",
     "home_score": 2,
     "away_team": "Platense FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HtW0gc6JwmsWrt7hcJGKq.png",
-    "away_score": 1
+    "away_score": 2
   },
   {
     "league_name": "Kolombia - Primera A",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/6kby8rq1p01fg5ds38ckkrcs5.png",
     "match_date": "2026-02-13",
     "match_time": "08:30",
-    "status": "Live 53'",
+    "status": "FT",
     "home_team": "Atletico Nacional",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hT3H3W3qxjbif8c5l-IC8.png",
-    "home_score": 2,
+    "home_score": 4,
     "away_team": "Fortaleza FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WWYGzghtcL-M4YXdbJG6o.png",
     "away_score": 1
@@ -680,10 +680,10 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/u5ieemi69z72c3bgczyy68lo.png",
     "match_date": "2026-02-13",
     "match_time": "12:50",
-    "status": "Jadwal",
+    "status": "Live 53'",
     "home_team": "Western Sydney Wanderers FC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/loj22mimups3h7xbyfjtwsi9.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Newcastle Jets",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gZlAbQrCnCn3wzmspWLPs.png",
     "away_score": 0
@@ -19084,6 +19084,19 @@
     "away_score": 0
   },
   {
+    "league_name": "International - Copa Libertadores Qualification",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-02-18",
+    "match_time": "07:30",
+    "status": "Jadwal",
+    "home_team": "2 de Mayo",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lLgER7lJKSXT3WoSWPKeh.png",
+    "home_score": 0,
+    "away_team": "Sporting Cristal",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2A2C7iGs7CbVES6hwHYas.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Argentina - Copa Argentina",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vovxa97k7v7ofa85dah2xktb.png",
     "match_date": "2026-02-18",
@@ -19180,11 +19193,11 @@
     "match_date": "2026-02-18",
     "match_time": "17:00",
     "status": "Jadwal",
-    "home_team": "Kahramanmaras Istiklalspor",
+    "home_team": "Mardin 1969 Spor",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "home_score": 0,
-    "away_team": "1461 Trabzon FK",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TaJJ7W6xXkFd2tbleWRDs.png",
+    "away_team": "Soma Spor Dernegi",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YkhT161K1JBqX45ysmP1m.png",
     "away_score": 0
   },
   {
@@ -19193,11 +19206,11 @@
     "match_date": "2026-02-18",
     "match_time": "17:00",
     "status": "Jadwal",
-    "home_team": "Mardin 1969 Spor",
+    "home_team": "Kahramanmaras Istiklalspor",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "home_score": 0,
-    "away_team": "Soma Spor Dernegi",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YkhT161K1JBqX45ysmP1m.png",
+    "away_team": "1461 Trabzon FK",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TaJJ7W6xXkFd2tbleWRDs.png",
     "away_score": 0
   },
   {
@@ -19887,19 +19900,6 @@
     "home_score": 0,
     "away_team": "CSD Municipal",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7hjwXo1OQ2tqQBEBGVFjO.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "International - Copa Libertadores Qualification",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
-    "match_date": "2026-02-19",
-    "match_time": "04:00",
-    "status": "Jadwal",
-    "home_team": "2 de Mayo",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lLgER7lJKSXT3WoSWPKeh.png",
-    "home_score": 0,
-    "away_team": "Sporting Cristal",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2A2C7iGs7CbVES6hwHYas.png",
     "away_score": 0
   },
   {
