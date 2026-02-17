@@ -953,33 +953,33 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/5trdr3jf42i20zj1hnkvcytr6.png",
     "match_date": "2026-02-17",
     "match_time": "08:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Atletico de San Luis",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eGgkBdNuTps8rUYh_fKXB.png",
-    "home_score": 0,
+    "home_score": 4,
     "away_team": "Queretaro",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ZcbBbhdk5U3pQyaNusE0a.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Meksiko - Liga MX Femenil",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/5trdr3jf42i20zj1hnkvcytr6.png",
     "match_date": "2026-02-17",
     "match_time": "08:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "CD Guadalajara Chivas",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/s4wb-QOQEjkzlnpvfE9Jx.png",
-    "home_score": 0,
+    "home_score": 4,
     "away_team": "Atlas",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8sQVROG0-R5kHJN3HzC_e.png",
-    "away_score": 0
+    "away_score": 2
   },
   {
     "league_name": "Meksiko - Liga MX Femenil",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/5trdr3jf42i20zj1hnkvcytr6.png",
     "match_date": "2026-02-17",
     "match_time": "10:10",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Mazatlan FC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WofQDtZGrXSNABerZ3lBH.png",
     "home_score": 0,
@@ -7176,6 +7176,32 @@
     "away_score": 0
   },
   {
+    "league_name": "Afrika Selatan - Cup",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1kiwby3xmt97m3ejw76qs4i6k.png",
+    "match_date": "2026-02-21",
+    "match_time": "20:00",
+    "status": "Jadwal",
+    "home_team": "TS Galaxy",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pBWsnQ8xzHucmZ862Kjmq.png",
+    "home_score": 0,
+    "away_team": "Mamelodi Sundowns FC",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kfdXAFPbKdkR9O_DFH5EK.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Afrika Selatan - Cup",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1kiwby3xmt97m3ejw76qs4i6k.png",
+    "match_date": "2026-02-21",
+    "match_time": "20:00",
+    "status": "Jadwal",
+    "home_team": "Upington City",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mq712WfOvmo-Mhr1qAL3n.png",
+    "home_score": 0,
+    "away_team": "Durban City",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Rx_NJKrTmkrwwEDa0C12Z.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Bulgaria - First Professional League",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/5a1vsxg8tbnsk65iefq1q8tlt.png",
     "match_date": "2026-02-21",
@@ -11593,6 +11619,32 @@
     "home_score": 0,
     "away_team": "Nacional",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/X1K_e1GqSn7e-9TO2-Jbj.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Afrika Selatan - Cup",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1kiwby3xmt97m3ejw76qs4i6k.png",
+    "match_date": "2026-02-21",
+    "match_time": "23:00",
+    "status": "Jadwal",
+    "home_team": "Lamontville Golden Arrows",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/s7xf6mvsygysn88hs5bx1vzj.png",
+    "home_score": 0,
+    "away_team": "Stellenbosch FC",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/43z7XF_RxKzztKC8dPznH.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Afrika Selatan - Cup",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1kiwby3xmt97m3ejw76qs4i6k.png",
+    "match_date": "2026-02-21",
+    "match_time": "23:00",
+    "status": "Jadwal",
+    "home_team": "Orlando Pirates",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2mt4sm2H6GE45dtr2emV8.png",
+    "home_score": 0,
+    "away_team": "Casric Stars FC",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FfGnc4cJ1yjibfGEAYZ__.png",
     "away_score": 0
   },
   {
@@ -16598,6 +16650,45 @@
     "home_score": 0,
     "away_team": "Montevideo City Torque",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WqxeZiTwyI0VHfbaQfax-.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Afrika Selatan - Cup",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1kiwby3xmt97m3ejw76qs4i6k.png",
+    "match_date": "2026-02-22",
+    "match_time": "20:00",
+    "status": "Jadwal",
+    "home_team": "Jacksa Spears",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
+    "home_score": 0,
+    "away_team": "CR Vasco da Gama",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Afrika Selatan - Cup",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1kiwby3xmt97m3ejw76qs4i6k.png",
+    "match_date": "2026-02-22",
+    "match_time": "20:00",
+    "status": "Jadwal",
+    "home_team": "Milford FC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-uBF9eI7fTlQU_9ZvEUXa.png",
+    "home_score": 0,
+    "away_team": "Mkhambathi",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AFZidGxsoDa2oPXrSpUrg.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Afrika Selatan - Cup",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1kiwby3xmt97m3ejw76qs4i6k.png",
+    "match_date": "2026-02-22",
+    "match_time": "20:00",
+    "status": "Jadwal",
+    "home_team": "University of Pretoria",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IqlsPLpnSStZgL2iWLW5U.png",
+    "home_score": 0,
+    "away_team": "Sekhukhune United",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YakSrfcgQUxg-CijWXbXi.png",
     "away_score": 0
   },
   {
