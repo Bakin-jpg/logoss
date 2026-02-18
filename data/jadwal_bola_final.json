@@ -1304,10 +1304,10 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vovxa97k7v7ofa85dah2xktb.png",
     "match_date": "2026-02-18",
     "match_time": "08:00",
-    "status": "Live 81'",
+    "status": "FT",
     "home_team": "River Plate",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yvkxIVK_5-HduWzkkaru_.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Ciudad de Bolivar",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QKXLX949bZmdu-NG526Tt.png",
     "away_score": 0
@@ -1317,52 +1317,39 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-02-18",
     "match_time": "08:00",
-    "status": "Live 78'",
+    "status": "FT",
     "home_team": "Atletico Ottawa",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EnUITHahenc3w63z1BiKX.png",
     "home_score": 0,
     "away_team": "Nashville SC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/51-yaPSg49J2mbX7TTX1D.png",
-    "away_score": 1
+    "away_score": 2
   },
   {
     "league_name": "Kolombia - Primera B",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/6kby8rq1p01fg5ds38ckkrcs5.png",
     "match_date": "2026-02-18",
     "match_time": "08:10",
-    "status": "Live 72'",
+    "status": "FT",
     "home_team": "Boca Juniors de Cali",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jQcjwJvHoOTyKR3kaqfu9.png",
     "home_score": 2,
     "away_team": "Orsomarso",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sN1TsmK3pFPKCNYiTR5yi.png",
-    "away_score": 1
+    "away_score": 2
   },
   {
     "league_name": "International - CONCACAF Champions Cup",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-02-18",
     "match_time": "10:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Real Espana",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/saIHX0fussCRa4EUNv5AJ.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Los Angeles FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wv0w3tqrAN4Pm9g0Rymzf.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "International - AFC Champions League Two",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
-    "match_date": "2026-02-19",
-    "match_time": "14:45",
-    "status": "Jadwal",
-    "home_team": "Macarthur FC",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/O_2y76kFJBEYrC9KQPaoq.png",
-    "home_score": 0,
-    "away_team": "Bangkok United",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NX3wMm-P66dGh3aY0Cr-M.png",
-    "away_score": 0
+    "away_score": 6
   },
   {
     "league_name": "Australia - NPL",
