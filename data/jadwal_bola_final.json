@@ -1161,19 +1161,6 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png",
     "match_date": "2026-02-25",
     "match_time": "02:45",
-    "status": "POSTPONED",
-    "home_team": "Kettering Town FC",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x9-VGXsKxSwcJdO0hVO1I.png",
-    "home_score": 0,
-    "away_team": "AFC Sudbury",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aCxoHpO42KIpvRh0UXlAf.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Inggris Raya - Northern Premier League",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1fk5l4hkqk12i7zske6mcqju6.png",
-    "match_date": "2026-02-25",
-    "match_time": "02:45",
     "status": "FT",
     "home_team": "Hanwell Town",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WKquZDM25lyqcIDJpN6bR.png",
@@ -1447,7 +1434,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-02-25",
     "match_time": "07:30",
-    "status": "Live 90'",
+    "status": "FT",
     "home_team": "Sporting Cristal",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2A2C7iGs7CbVES6hwHYas.png",
     "home_score": 0,
@@ -1460,7 +1447,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vovxa97k7v7ofa85dah2xktb.png",
     "match_date": "2026-02-25",
     "match_time": "08:00",
-    "status": "Live 80'",
+    "status": "FT",
     "home_team": "Gimnasia Mendoza",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4XBcHr5N7e1ZMlloVg6wa.png",
     "home_score": 1,
@@ -1473,23 +1460,23 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/56ftnqeq3x3j77uone8qm5ow6.png",
     "match_date": "2026-02-25",
     "match_time": "08:00",
-    "status": "Live 80'",
+    "status": "FT",
     "home_team": "CD Victoria",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/A9Ch47Lw2Ct2IvGimrgoN.png",
     "home_score": 2,
     "away_team": "Olancho FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1cBj_H1WqpwAsZFJ9WyJy.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "International - CONCACAF Champions Cup",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-02-25",
     "match_time": "08:00",
-    "status": "Live 75'",
+    "status": "FT",
     "home_team": "Nashville SC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/51-yaPSg49J2mbX7TTX1D.png",
-    "home_score": 4,
+    "home_score": 5,
     "away_team": "Atletico Ottawa",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uiplEZNoebEdfd8E72V7m.png",
     "away_score": 0
@@ -1499,10 +1486,10 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/6bw57gk867vfrep8b5e4ykh24.png",
     "match_date": "2026-02-25",
     "match_time": "09:00",
-    "status": "Live 36'",
+    "status": "FT",
     "home_team": "Antigua Guatemala",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FAXCzSY-uwvWsp19ymd27.png",
-    "home_score": 0,
+    "home_score": 2,
     "away_team": "Guastatoya",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VrBL_7jTay74Bp-SqKHMT.png",
     "away_score": 0
@@ -1512,10 +1499,10 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-02-25",
     "match_time": "10:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Los Angeles FC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wv0w3tqrAN4Pm9g0Rymzf.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Real Espana",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/saIHX0fussCRa4EUNv5AJ.png",
     "away_score": 0
@@ -1687,19 +1674,6 @@
     "home_score": 0,
     "away_team": "Stabaek",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oNudCm34wBBgCFeUrgsUw.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Kamerun - Elite One",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/4eb9feio6u267dd1jcwaf38mt.png",
-    "match_date": "2026-02-26",
-    "match_time": "22:00",
-    "status": "Jadwal",
-    "home_team": "Fauve Azur",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5OKinp8mqADJKZYb94Puc.png",
-    "home_score": 0,
-    "away_team": "Stade Renard",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/wN18sk70oIpTrhGRKeWtW.png",
     "away_score": 0
   },
   {
@@ -24895,6 +24869,19 @@
     "away_score": 0
   },
   {
+    "league_name": "Brasil - Gaucho Trofeu Farroupilha",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
+    "match_date": "2026-03-03",
+    "match_time": "05:00",
+    "status": "Jadwal",
+    "home_team": "Sao Luiz",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TO-S-ezvN1sVXE8B9q7vi.png",
+    "home_score": 0,
+    "away_team": "Novo Hamburgo",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/y82P1jkmu_TYH3L2FiFFS.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Brasil - Piauiense",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2vufyvpoxd9lfl9f6vpp7tz6y.png",
     "match_date": "2026-03-03",
@@ -25113,6 +25100,19 @@
     "home_score": 0,
     "away_team": "Uzbekistan",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w_oNYzTevXuEAGkgBm9Yr.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "International - AFC Champions League Elite",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/1fedahp0rws09tj451onten8r.png",
+    "match_date": "2026-03-03",
+    "match_time": "14:45",
+    "status": "Jadwal",
+    "home_team": "Melbourne City FC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CKAsoCDJb6kUAKQePJ_no.png",
+    "home_score": 0,
+    "away_team": "Buriram United",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1ZHieulyDebhbtW1RtwzV.png",
     "away_score": 0
   }
 ]
