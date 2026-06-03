@@ -4,10 +4,10 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1kiwby3xmt97m3ejw76qs4i6k.png",
     "match_date": "2026-06-03",
     "match_time": "20:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Milford FC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-uBF9eI7fTlQU_9ZvEUXa.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Magesi FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/UqmrX3LLqdtwZYIbJhINV.png",
     "away_score": 0
@@ -17,46 +17,46 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-06-03",
     "match_time": "20:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Japan U20",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_sKFYSZ2LK35o48sal2nW.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Portugal U20",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/O0uPmAJjfea_ki3rCD0OV.png",
-    "away_score": 0
+    "away_score": 4
   },
   {
     "league_name": "Montenegro - 1. CFL Qualification",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1411jebgwo2ja1erogsq81lg9.png",
     "match_date": "2026-06-03",
     "match_time": "22:30",
-    "status": "Jadwal",
+    "status": "Live 70'",
     "home_team": "Grbalj Radanovici",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d6ko_9ezsCKgi-a-LSw15.png",
     "home_score": 0,
     "away_team": "FK Bokelj",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ncxr_R3VR8G434D2-t-ly.png",
-    "away_score": 0
+    "away_score": 2
   },
   {
     "league_name": "Maroko - Botola Pro",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2xdcc39z1k79pnjbtn9x31wdh.png",
     "match_date": "2026-06-03",
     "match_time": "23:00",
-    "status": "Jadwal",
+    "status": "Live 45'",
     "home_team": "Renaissance Club Zemamra",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3qAL6xugOEJPgaLn7FQJv.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Union Yacoub El-Mansour",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "International - Toulon Tournament",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-06-03",
     "match_time": "23:30",
-    "status": "Jadwal",
+    "status": "Live 28'",
     "home_team": "Ivory Coast U20",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ajYTu3YVZH2lZ1Bn7nnnz.png",
     "home_score": 0,
@@ -69,7 +69,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1z6l2c33w2kyz9rdefs1d68nb.png",
     "match_date": "2026-06-03",
     "match_time": "23:30",
-    "status": "Jadwal",
+    "status": "Live 22'",
     "home_team": "IF Viken",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GzD5HGJSaqFwOq71KIjUb.png",
     "home_score": 0,
@@ -381,7 +381,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/3dgy24s32p56l29s66imputcy.png",
     "match_date": "2026-06-04",
     "match_time": "05:00",
-    "status": "Jadwal",
+    "status": "POSTPONED",
     "home_team": "GV San Jose",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "home_score": 0,
@@ -433,7 +433,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/3dgy24s32p56l29s66imputcy.png",
     "match_date": "2026-06-04",
     "match_time": "07:00",
-    "status": "Jadwal",
+    "status": "POSTPONED",
     "home_team": "Real Potosi",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OUU--d4NlRFUKHpXxmkiX.png",
     "home_score": 0,
@@ -497,7 +497,7 @@
     "league_name": "International - Friendlies",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-06-04",
-    "match_time": "17:00",
+    "match_time": "18:00",
     "status": "Jadwal",
     "home_team": "Maldives",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VZsWkHAfBxfFk58KERl8K.png",
@@ -590,11 +590,11 @@
     "match_date": "2026-06-04",
     "match_time": "22:00",
     "status": "Jadwal",
-    "home_team": "Finland U21",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KEz3-pf7Wj9mz0y8w-T_S.png",
+    "home_team": "Sweden U21",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bpmtE3LvOsHrVV1iGDW-M.png",
     "home_score": 0,
-    "away_team": "Sweden U21",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bpmtE3LvOsHrVV1iGDW-M.png",
+    "away_team": "Finland U21",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KEz3-pf7Wj9mz0y8w-T_S.png",
     "away_score": 0
   },
   {
@@ -855,19 +855,6 @@
     "home_score": 0,
     "away_team": "Vaenersborgs IF",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gsjArqgcL3uogN41zTSZz.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Libya - Premier League",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/u42u510tspw3jy1ihkb3mdx9.png",
-    "match_date": "2026-06-05",
-    "match_time": "00:30",
-    "status": "Jadwal",
-    "home_team": "Asswehly SC",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gsEvDbApwHSMHJzfFwSuT.png",
-    "home_score": 0,
-    "away_team": "Al-Nasr",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DiNxK-MZ9xDyMvPlhbcja.png",
     "away_score": 0
   },
   {
@@ -3177,50 +3164,11 @@
     "match_date": "2026-06-06",
     "match_time": "17:00",
     "status": "Jadwal",
-    "home_team": "Comoros",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BBLeOHaKZdVlW1JiWzPSZ.png",
-    "home_score": 0,
-    "away_team": "Rwanda",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FFxCNbB2TBU-9qgJiLw-O.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "International - Friendlies",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
-    "match_date": "2026-06-06",
-    "match_time": "17:00",
-    "status": "Jadwal",
-    "home_team": "Ethiopia",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/tw-SAqJxd6Kbg8wlm2cYA.png",
-    "home_score": 0,
-    "away_team": "Malawi",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ItQ3b_6qyLBqddfHZeHUN.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "International - Friendlies",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
-    "match_date": "2026-06-06",
-    "match_time": "17:00",
-    "status": "Jadwal",
     "home_team": "Vanuatu",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XND_CqCZhOQyw_wSB9-1B.png",
     "home_score": 0,
     "away_team": "Fiji",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SOML7UamZb9uaGMsjrJ1K.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "International - Friendlies",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
-    "match_date": "2026-06-06",
-    "match_time": "17:00",
-    "status": "Jadwal",
-    "home_team": "Kyrgyzstan",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XGoNu6LFkJgvoafUjSE_Q.png",
-    "home_score": 0,
-    "away_team": "Palestine",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/moXhL9i9FB49xaTC9G0-T.png",
     "away_score": 0
   },
   {
@@ -3601,6 +3549,19 @@
     "away_score": 0
   },
   {
+    "league_name": "International - Friendlies",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-06-06",
+    "match_time": "19:00",
+    "status": "Jadwal",
+    "home_team": "Ethiopia",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/tw-SAqJxd6Kbg8wlm2cYA.png",
+    "home_score": 0,
+    "away_team": "Malawi",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ItQ3b_6qyLBqddfHZeHUN.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Swedia - 2. Division",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1z6l2c33w2kyz9rdefs1d68nb.png",
     "match_date": "2026-06-06",
@@ -3874,19 +3835,6 @@
     "away_score": 0
   },
   {
-    "league_name": "International - Friendlies",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
-    "match_date": "2026-06-06",
-    "match_time": "21:00",
-    "status": "Jadwal",
-    "home_team": "Armenia",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SsLhvUewIxoUDEa4hqCNG.png",
-    "home_score": 0,
-    "away_team": "Kazakhstan",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6IG1rZNZLJUapU8tvUmqG.png",
-    "away_score": 0
-  },
-  {
     "league_name": "Islandia - 1. Deild",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/4jjsm5a20nnxgw5cus6b7yxc6.png",
     "match_date": "2026-06-06",
@@ -4001,6 +3949,19 @@
     "home_score": 0,
     "away_team": "Aastorps FF",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1PsdXhtNZGlJth5ygPDsQ.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "International - Friendlies",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-06-06",
+    "match_time": "21:30",
+    "status": "Jadwal",
+    "home_team": "Kyrgyzstan",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XGoNu6LFkJgvoafUjSE_Q.png",
+    "home_score": 0,
+    "away_team": "Palestine",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/moXhL9i9FB49xaTC9G0-T.png",
     "away_score": 0
   },
   {
@@ -4269,6 +4230,32 @@
     "match_date": "2026-06-06",
     "match_time": "23:00",
     "status": "Jadwal",
+    "home_team": "Armenia",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SsLhvUewIxoUDEa4hqCNG.png",
+    "home_score": 0,
+    "away_team": "Kazakhstan",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6IG1rZNZLJUapU8tvUmqG.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "International - Friendlies",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-06-06",
+    "match_time": "23:00",
+    "status": "Jadwal",
+    "home_team": "Comoros",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BBLeOHaKZdVlW1JiWzPSZ.png",
+    "home_score": 0,
+    "away_team": "Rwanda",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FFxCNbB2TBU-9qgJiLw-O.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "International - Friendlies",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-06-06",
+    "match_time": "23:00",
+    "status": "Jadwal",
     "home_team": "Sierra Leone",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iv6egYPPSrK2amKh_rZOo.png",
     "home_score": 0,
@@ -4352,6 +4339,19 @@
     "home_score": 0,
     "away_team": "Cayman Islands",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/moVT4NIO-jsV77HbVDfZP.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Libya - Premier League",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/u42u510tspw3jy1ihkb3mdx9.png",
+    "match_date": "2026-06-07",
+    "match_time": "00:00",
+    "status": "Jadwal",
+    "home_team": "Asswehly SC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gsEvDbApwHSMHJzfFwSuT.png",
+    "home_score": 0,
+    "away_team": "Al-Nasr",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DiNxK-MZ9xDyMvPlhbcja.png",
     "away_score": 0
   },
   {
@@ -5145,19 +5145,6 @@
     "home_score": 0,
     "away_team": "Juventud de las Piedras",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/otJOdMERwyWQXGSxRxd8E.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Amerika Serikat - MLS NEXT Pro",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7hr2f89v44y65dyu9k92vprwn.png",
-    "match_date": "2026-06-07",
-    "match_time": "05:00",
-    "status": "Jadwal",
-    "home_team": "Columbus Crew 2",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
-    "home_score": 0,
-    "away_team": "Connecticut United",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "away_score": 0
   },
   {
@@ -7363,19 +7350,6 @@
     "match_date": "2026-06-08",
     "match_time": "02:00",
     "status": "Jadwal",
-    "home_team": "Ecuador",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LgeoHi410vFr7CvtYvudE.png",
-    "home_score": 0,
-    "away_team": "Guatemala",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GnJxVy6niHd2f-La2sVSr.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "International - Friendlies",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
-    "match_date": "2026-06-08",
-    "match_time": "02:00",
-    "status": "Jadwal",
     "home_team": "Greece",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jwATZONfs5HIehss7CMBn.png",
     "home_score": 0,
@@ -7680,6 +7654,19 @@
     "home_score": 0,
     "away_team": "Ciudad de Bolivar",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QKXLX949bZmdu-NG526Tt.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "International - Friendlies",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-06-08",
+    "match_time": "03:00",
+    "status": "Jadwal",
+    "home_team": "Ecuador",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LgeoHi410vFr7CvtYvudE.png",
+    "home_score": 0,
+    "away_team": "Guatemala",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GnJxVy6niHd2f-La2sVSr.png",
     "away_score": 0
   },
   {
@@ -8099,6 +8086,19 @@
     "away_score": 0
   },
   {
+    "league_name": "Maroko - Botola Pro",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2xdcc39z1k79pnjbtn9x31wdh.png",
+    "match_date": "2026-06-08",
+    "match_time": "23:00",
+    "status": "Jadwal",
+    "home_team": "FUS Rabat",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bsm0uwfbi4g8vl53hf08r103t.png",
+    "home_score": 0,
+    "away_team": "Difaa El Jadida",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TYExOA4b5nW67a042YhSJ.png",
+    "away_score": 0
+  },
+  {
     "league_name": "International - Toulon Tournament",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-06-08",
@@ -8177,6 +8177,32 @@
     "away_score": 0
   },
   {
+    "league_name": "Maroko - Botola Pro",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2xdcc39z1k79pnjbtn9x31wdh.png",
+    "match_date": "2026-06-09",
+    "match_time": "01:00",
+    "status": "Jadwal",
+    "home_team": "RSB Berkane",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PrdmRW2HA6gtgtvMT8w_4.png",
+    "home_score": 0,
+    "away_team": "Ittihad Tanger",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/u2XKr-bluNPcfNzgSjQJH.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Maroko - Botola Pro",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2xdcc39z1k79pnjbtn9x31wdh.png",
+    "match_date": "2026-06-09",
+    "match_time": "01:00",
+    "status": "Jadwal",
+    "home_team": "Wydad Casablanca",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/k7TES9_2byLPJdIMn-d8H.png",
+    "home_score": 0,
+    "away_team": "Olympic Club de Safi",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_7lO-16k29ImpGoj5_kXb.png",
+    "away_score": 0
+  },
+  {
     "league_name": "International - Friendlies",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-06-09",
@@ -8187,6 +8213,19 @@
     "home_score": 0,
     "away_team": "Uzbekistan",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SntX7kho3TurVjUJygroP.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Amerika Serikat - MLS NEXT Pro",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-06-09",
+    "match_time": "02:00",
+    "status": "Jadwal",
+    "home_team": "Columbus Crew 2",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
+    "home_score": 0,
+    "away_team": "Connecticut United",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "away_score": 0
   },
   {
@@ -8226,6 +8265,19 @@
     "home_score": 0,
     "away_team": "Northern Ireland",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oDMTDOEdBsBsRfIiT3IL8.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Maroko - Botola Pro",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/2xdcc39z1k79pnjbtn9x31wdh.png",
+    "match_date": "2026-06-09",
+    "match_time": "03:00",
+    "status": "Jadwal",
+    "home_team": "Olympique Dcheira",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0heLIGzNhKzuP0bGfy9sg.png",
+    "home_score": 0,
+    "away_team": "Hassania Agadir",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aERGSXX6KF6WRVHZ1q6Bh.png",
     "away_score": 0
   },
   {
