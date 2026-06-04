@@ -52,19 +52,6 @@
     "away_score": 0
   },
   {
-    "league_name": "International - Friendlies",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
-    "match_date": "2026-06-04",
-    "match_time": "22:30",
-    "status": "Jadwal",
-    "home_team": "Iran",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Kb8I7y2BXPnmhgPC-cstX.png",
-    "home_score": 0,
-    "away_team": "Mali",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HzJWmESzxvpS7jTN16Ax7.png",
-    "away_score": 0
-  },
-  {
     "league_name": "Aljazair - 1. Division",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1ayprcriqhb8iv10ch70clppu.png",
     "match_date": "2026-06-04",
@@ -140,6 +127,19 @@
     "home_score": 0,
     "away_team": "Malta U21",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8HKdpq03vAufOtEACO8AB.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "International - Friendlies",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-06-04",
+    "match_time": "23:30",
+    "status": "Jadwal",
+    "home_team": "Iran",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Kb8I7y2BXPnmhgPC-cstX.png",
+    "home_score": 0,
+    "away_team": "Mali",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HzJWmESzxvpS7jTN16Ax7.png",
     "away_score": 0
   },
   {
@@ -829,32 +829,6 @@
     "home_score": 0,
     "away_team": "Romania",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9WLX6lA0ygE5CPI-Ifxnt.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Niger - Super Ligue",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1mhgvne4pkksmt32259xg7vec.png",
-    "match_date": "2026-06-05",
-    "match_time": "22:00",
-    "status": "Jadwal",
-    "home_team": "AS UAM",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
-    "home_score": 0,
-    "away_team": "US Gendarmerie",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-my4Unh2LUtWG1V5_gt-G.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Niger - Super Ligue",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1mhgvne4pkksmt32259xg7vec.png",
-    "match_date": "2026-06-05",
-    "match_time": "22:00",
-    "status": "Jadwal",
-    "home_team": "Liberte",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JDBU9YQlSerUgLClCJFZm.png",
-    "home_score": 0,
-    "away_team": "Renaissance de Boukoki",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rgcq_1kj493rXyAcOawKB.png",
     "away_score": 0
   },
   {
@@ -3364,58 +3338,6 @@
     "home_score": 0,
     "away_team": "Faroe Islands",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/t28Oxi_DhMbVKFBPnSQlX.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Niger - Super Ligue",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1mhgvne4pkksmt32259xg7vec.png",
-    "match_date": "2026-06-06",
-    "match_time": "22:00",
-    "status": "Jadwal",
-    "home_team": "As Police",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mWWL2yYLbm0_HN1aIQRoJ.png",
-    "home_score": 0,
-    "away_team": "Douanes Niamey",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vsA-sTYY3HAwEy4o8vl-3.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Niger - Super Ligue",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1mhgvne4pkksmt32259xg7vec.png",
-    "match_date": "2026-06-06",
-    "match_time": "22:00",
-    "status": "Jadwal",
-    "home_team": "AS ZAM",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
-    "home_score": 0,
-    "away_team": "AS FAN",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HzEwpvgYtLcdk8KW_hfWC.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Niger - Super Ligue",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1mhgvne4pkksmt32259xg7vec.png",
-    "match_date": "2026-06-06",
-    "match_time": "22:00",
-    "status": "Jadwal",
-    "home_team": "Espoir",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vKkhaktNoQjIySZjhAG19.png",
-    "home_score": 0,
-    "away_team": "AS GNN",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/z7GcL3LzBbrXVSEof5w_t.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Niger - Super Ligue",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1mhgvne4pkksmt32259xg7vec.png",
-    "match_date": "2026-06-06",
-    "match_time": "22:00",
-    "status": "Jadwal",
-    "home_team": "Tagour Provincial Club",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zKqJ4gydEbhmODfKfBIvy.png",
-    "home_score": 0,
-    "away_team": "Urana",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/67S8GOo4gowbyrTmuF3GD.png",
     "away_score": 0
   },
   {
@@ -5967,6 +5889,32 @@
     "away_score": 0
   },
   {
+    "league_name": "Jerman - Oberliga Qualification",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/36min0qztu8eydwvpv8t1is0m.png",
+    "match_date": "2026-06-07",
+    "match_time": "20:00",
+    "status": "Jadwal",
+    "home_team": "CSC 03 Kassel",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
+    "home_score": 0,
+    "away_team": "TuS Hornau",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Jerman - Oberliga Qualification",
+    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/36min0qztu8eydwvpv8t1is0m.png",
+    "match_date": "2026-06-07",
+    "match_time": "20:00",
+    "status": "Jadwal",
+    "home_team": "SG Bad Soden",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
+    "home_score": 0,
+    "away_team": "Bornheim GW",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OlBs_2Xfa5yiB44A-RpHj.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Swedia - 1. Division",
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1z6l2c33w2kyz9rdefs1d68nb.png",
     "match_date": "2026-06-07",
@@ -6211,32 +6159,6 @@
     "home_score": 0,
     "away_team": "Ayema FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ia93-taNSvZXvj87VNSIN.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Niger - Super Ligue",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1mhgvne4pkksmt32259xg7vec.png",
-    "match_date": "2026-06-07",
-    "match_time": "22:00",
-    "status": "Jadwal",
-    "home_team": "Nigelec",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qFuX4kw6hZQB1lLn-5f9m.png",
-    "home_score": 0,
-    "away_team": "Tahoua",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/n4xmooXzYRlL3-vL_qdKf.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Niger - Super Ligue",
-    "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/1mhgvne4pkksmt32259xg7vec.png",
-    "match_date": "2026-06-07",
-    "match_time": "22:00",
-    "status": "Jadwal",
-    "home_team": "Olympic Niamey",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NCMY1fZ0t0fz4i1V8HG0k.png",
-    "home_score": 0,
-    "away_team": "Sahel",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JHfF6loFDKfUTC1HL2DII.png",
     "away_score": 0
   },
   {
@@ -7752,7 +7674,7 @@
     "league_logo": "https://cdn.sportfeeds.io/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-06-09",
     "match_time": "17:00",
-    "status": "Jadwal",
+    "status": "CANCELLED",
     "home_team": "DR Congo",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QG5SfW__ZcTcZDEywWODu.png",
     "home_score": 0,
