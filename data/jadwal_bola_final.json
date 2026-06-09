@@ -117,19 +117,6 @@
     "away_score": 0
   },
   {
-    "league_name": "International - Friendlies U21",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
-    "match_date": "2026-06-09",
-    "match_time": "21:45",
-    "status": "Jadwal",
-    "home_team": "Ireland U21",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8DojiYwKF1RKu9LATh3Du.png",
-    "home_score": 0,
-    "away_team": "Qatar U21",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-ldG1thmJh6MKDIVDyNsr.png",
-    "away_score": 0
-  },
-  {
     "league_name": "International - Friendlies",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-06-09",
@@ -9344,6 +9331,19 @@
     "home_score": 0,
     "away_team": "San Antonio Bulo Bulo",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/UZKIO3sz5sMdqVGXm5zi9.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Bolivia - Primera Division",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/3dgy24s32p56l29s66imputcy.png",
+    "match_date": "2026-06-15",
+    "match_time": "02:00",
+    "status": "Jadwal",
+    "home_team": "Blooming",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0aaCHQBbL0wjcBxNcyAQc.png",
+    "home_score": 0,
+    "away_team": "Real Tomayapo",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DguUW8Q0ixEQkuy5lBZ8-.png",
     "away_score": 0
   },
   {
