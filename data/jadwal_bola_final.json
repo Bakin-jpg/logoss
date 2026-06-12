@@ -134,10 +134,10 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/31wzvAi8ZKpEMtfqHdvRl.png",
     "match_date": "2026-06-12",
     "match_time": "02:00",
-    "status": "Live 62'",
+    "status": "FT",
     "home_team": "Mexico",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/of6iolc-qqFscNASLQ3BQ.png",
-    "home_score": 1,
+    "home_score": 2,
     "away_team": "South Africa",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eHhSpwOcIwpzeLBxPQi5s.png",
     "away_score": 0
@@ -147,13 +147,13 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/31wzvAi8ZKpEMtfqHdvRl.png",
     "match_date": "2026-06-12",
     "match_time": "09:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "South Korea",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MVDYf1me3yjM9zii5xDsA.png",
-    "home_score": 0,
+    "home_score": 2,
     "away_team": "Czechia",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/UPYUbRk6V2zCSKp980w-u.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Australia - Brisbane Capital League",
