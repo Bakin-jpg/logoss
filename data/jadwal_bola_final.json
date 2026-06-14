@@ -4,10 +4,10 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/31wzvAi8ZKpEMtfqHdvRl.png",
     "match_date": "2026-06-14",
     "match_time": "11:00",
-    "status": "Live 45'",
+    "status": "FT",
     "home_team": "Australia",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hu0GrTjefeyarKcjkNgV8.png",
-    "home_score": 1,
+    "home_score": 2,
     "away_team": "Turkiye",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oP0nch_dPTlbXlMzIn1vb.png",
     "away_score": 0
@@ -192,6 +192,19 @@
     "home_score": 0,
     "away_team": "Yanbian Longding",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KoA3mk_0mfQWM2U4RGYuj.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Tiongkok - China League",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/6e8huv1g6g173rptk3y6jsg5z.png",
+    "match_date": "2026-06-14",
+    "match_time": "18:30",
+    "status": "CANCELLED",
+    "home_team": "Shijiazhuang Gongfu",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/H4msII8EB46m1kCIwqUQ7.png",
+    "home_score": 0,
+    "away_team": "Suzhou Dongwu",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EUCr8GV_JKA6_3GPpjxzR.png",
     "away_score": 0
   },
   {
