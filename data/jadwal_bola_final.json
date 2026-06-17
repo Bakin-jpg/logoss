@@ -1,23 +1,10 @@
 [
   {
-    "league_name": "International - World Cup",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/31wzvAi8ZKpEMtfqHdvRl.png",
-    "match_date": "2026-06-17",
-    "match_time": "11:00",
-    "status": "Live 42'",
-    "home_team": "Austria",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/T19ICnLoV3-NAua3l6-zj.png",
-    "home_score": 1,
-    "away_team": "Jordan",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PuLehJnJ0RGmvBPiZNW1Q.png",
-    "away_score": 0
-  },
-  {
     "league_name": "Tanzania - Premier League",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/3rramsla3ovuhxks28wq1kirb.png",
     "match_date": "2026-06-17",
     "match_time": "18:00",
-    "status": "Jadwal",
+    "status": "Live 7'",
     "home_team": "Mbeya City",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LZFyD77BQusGsMSr0xag3.png",
     "home_score": 0,
