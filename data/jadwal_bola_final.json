@@ -108,101 +108,101 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/32tb8d7824xg4i0ybxzssczu0.png",
     "match_date": "2026-07-02",
     "match_time": "02:00",
-    "status": "Live 45'",
+    "status": "FT",
     "home_team": "Universidad de Concepcion",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qW3AstTSdb9uuQ84cRbRa.png",
     "home_score": 0,
     "away_team": "CD Nublense",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1Bj16v_XCEjNIqRQiMnzM.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Inggris Raya - EURO U19",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/26ilvvgth36hmq6lgq8cy5cb5.png",
     "match_date": "2026-07-02",
     "match_time": "02:00",
-    "status": "Live 45'",
+    "status": "FT",
     "home_team": "Wales U19",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HGtuHdKRUygHJ18CLd_Ip.png",
     "home_score": 0,
     "away_team": "Germany U19",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/R6h9Vikli3-gmVkK_3rKH.png",
-    "away_score": 2
+    "away_score": 4
   },
   {
     "league_name": "International - World Cup",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/31wzvAi8ZKpEMtfqHdvRl.png",
     "match_date": "2026-07-02",
     "match_time": "03:00",
-    "status": "Live 2'",
+    "status": "FT",
     "home_team": "Belgium",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Lzc7Vfm3cmIBLzko8O-_k.png",
-    "home_score": 0,
+    "home_score": 3,
     "away_team": "Senegal",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QjivUSwaaHvQ1SuWfWR23.png",
-    "away_score": 0
+    "away_score": 2
   },
   {
     "league_name": "Kanada - Premier League",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/1iaoypzp6syf32cz9l15pzp7e.png",
     "match_date": "2026-07-02",
     "match_time": "03:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "HFX Wanderers FC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c9GjTRUJ3xSFPr54dUEEV.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Atletico Ottawa",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uiplEZNoebEdfd8E72V7m.png",
-    "away_score": 0
+    "away_score": 3
   },
   {
     "league_name": "Amerika Serikat - USL League One",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/7hr2f89v44y65dyu9k92vprwn.png",
     "match_date": "2026-07-02",
     "match_time": "04:30",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Charlotte Independence",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jx7JQnw5Q0Ue3JZNlKlmI.png",
-    "home_score": 0,
+    "home_score": 2,
     "away_team": "Corpus Christi",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Xajxj-Ne5PTBaLJ1K5zcQ.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Cile - Cup",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/32tb8d7824xg4i0ybxzssczu0.png",
     "match_date": "2026-07-02",
     "match_time": "05:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Deportes Limache",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gY2_j89va7Hro9YXAe7-6.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Coquimbo Unido",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NJ_dBoV6WhWD0Dfz0NEmn.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Cile - Cup",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/32tb8d7824xg4i0ybxzssczu0.png",
     "match_date": "2026-07-02",
     "match_time": "05:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Cobresal",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TKgbXL0Qc1dOqY8gSYVkq.png",
     "home_score": 0,
     "away_team": "La Serena",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Pe7h6aMvAXaMuTEl8cMIv.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Ekuador - Serie A",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/6pyj2bytt2osbjk69owzfehcg.png",
     "match_date": "2026-07-02",
     "match_time": "05:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "LDU de Quito",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xO22o8s_PiqDGYT9zfLSM.png",
-    "home_score": 0,
+    "home_score": 3,
     "away_team": "Orense",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/C5AoP3BktPQiBWcR9id_1.png",
     "away_score": 0
@@ -212,10 +212,10 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/7hr2f89v44y65dyu9k92vprwn.png",
     "match_date": "2026-07-02",
     "match_time": "06:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Chattanooga Red Wolves SC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/a754X7T5a84miTAY3B7GC.png",
-    "home_score": 0,
+    "home_score": 2,
     "away_team": "Westchester SC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "away_score": 0
@@ -225,7 +225,7 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/6pyj2bytt2osbjk69owzfehcg.png",
     "match_date": "2026-07-02",
     "match_time": "07:00",
-    "status": "Jadwal",
+    "status": "POSTPONED",
     "home_team": "Delfin",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qx5IcDoqcRe9oTvwlQ2wP.png",
     "home_score": 0,
@@ -238,10 +238,10 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/31wzvAi8ZKpEMtfqHdvRl.png",
     "match_date": "2026-07-02",
     "match_time": "07:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "USA",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dYwXUVRamsQwOiC_2edUU.png",
-    "home_score": 0,
+    "home_score": 2,
     "away_team": "Bosnia and Herzegovina",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EvIJPxcY71x-kQRgWlcfh.png",
     "away_score": 0
@@ -251,39 +251,39 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/32tb8d7824xg4i0ybxzssczu0.png",
     "match_date": "2026-07-02",
     "match_time": "07:30",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Universidad de Chile",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vgq1VOA5LwcweRfkcE3SZ.png",
     "home_score": 0,
     "away_team": "Union La Calera",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QeEg3XF-7d2b-NwSi8y30.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Amerika Serikat - USL League One",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/7hr2f89v44y65dyu9k92vprwn.png",
     "match_date": "2026-07-02",
-    "match_time": "08:00",
-    "status": "Jadwal",
+    "match_time": "09:05",
+    "status": "FT",
     "home_team": "Spokane Velocity FC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GpAqVDdYnEHKikjSAsJw5.png",
     "home_score": 0,
     "away_team": "Forward Madison FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RhUGTmxYMZBkIH6PIINCL.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Amerika Serikat - USL League One",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/7hr2f89v44y65dyu9k92vprwn.png",
     "match_date": "2026-07-02",
     "match_time": "09:30",
-    "status": "Jadwal",
+    "status": "Live 66'",
     "home_team": "Union Omaha",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/B5Pb_hCjCrCTZA9jF4aSG.png",
     "home_score": 0,
     "away_team": "AV Alta",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Australia - NPL",
@@ -5044,6 +5044,19 @@
     "away_score": 0
   },
   {
+    "league_name": "Norwegia - 1. Division",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/7f16iy4w8u8ogyn6pfooqwv5z.png",
+    "match_date": "2026-07-05",
+    "match_time": "21:00",
+    "status": "Jadwal",
+    "home_team": "Odds Ballklubb",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NbzrG7zzKNBqVcmkeZZbS.png",
+    "home_score": 0,
+    "away_team": "FK Haugesund",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gxyir_G1QIcX5vXK1NHYC.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Swedia - Allsvenskan",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/1z6l2c33w2kyz9rdefs1d68nb.png",
     "match_date": "2026-07-05",
@@ -5340,19 +5353,6 @@
     "home_score": 0,
     "away_team": "Huracan FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/S5IIOY5vYfqyni012Fzhk.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Norwegia - 1. Division",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/50/7f16iy4w8u8ogyn6pfooqwv5z.png",
-    "match_date": "2026-07-06",
-    "match_time": "00:15",
-    "status": "Jadwal",
-    "home_team": "Odds Ballklubb",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NbzrG7zzKNBqVcmkeZZbS.png",
-    "home_score": 0,
-    "away_team": "FK Haugesund",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gxyir_G1QIcX5vXK1NHYC.png",
     "away_score": 0
   },
   {
@@ -6770,6 +6770,19 @@
     "home_score": 0,
     "away_team": "Minneapolis City",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MWnKlrTb9fTiLE8GWEw4X.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "International - World Cup",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/small/31wzvAi8ZKpEMtfqHdvRl.png",
+    "match_date": "2026-07-07",
+    "match_time": "07:00",
+    "status": "Jadwal",
+    "home_team": "USA",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dYwXUVRamsQwOiC_2edUU.png",
+    "home_score": 0,
+    "away_team": "Belgium",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Lzc7Vfm3cmIBLzko8O-_k.png",
     "away_score": 0
   },
   {
