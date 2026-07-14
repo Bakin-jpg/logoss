@@ -4,39 +4,39 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/u5ieemi69z72c3bgczyy68lo.png",
     "match_date": "2026-07-14",
     "match_time": "16:30",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "APIA Leichhardt FC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5CueOpLiraPu8-b-vbxOg.png",
-    "home_score": 0,
+    "home_score": 2,
     "away_team": "Peninsula Power",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hmj0qbVBpmsN-rhe2myfP.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Australia - Australia Cup",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/u5ieemi69z72c3bgczyy68lo.png",
     "match_date": "2026-07-14",
     "match_time": "16:30",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Rochedale Rovers",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TmUfZC3XalCsyxneyCBMw.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "SD Raiders FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7gIFdFt-5RdmxYicDIhxu.png",
-    "away_score": 0
+    "away_score": 2
   },
   {
     "league_name": "Tiongkok - Super League",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/6e8huv1g6g173rptk3y6jsg5z.png",
     "match_date": "2026-07-14",
     "match_time": "18:35",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Zhejiang Professional",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ji5XqQU1VgutrmB_lOdI1.png",
-    "home_score": 0,
+    "home_score": 3,
     "away_team": "Qingdao Hainiu",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ABFXJ0uAAD0cWNt6dpKbq.png",
-    "away_score": 0
+    "away_score": 2
   },
   {
     "league_name": "International - Club Friendlies",
@@ -676,6 +676,32 @@
     "away_score": 0
   },
   {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-15",
+    "match_time": "06:00",
+    "status": "Jadwal",
+    "home_team": "Asheville City SC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Q-X2fQ7UDF29-fkdpA-Z6.png",
+    "home_score": 0,
+    "away_team": "Virginia Beach United",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BBx6kVjXClzlGr8crTtQw.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-15",
+    "match_time": "06:00",
+    "status": "Jadwal",
+    "home_team": "FC Lehigh Valley United Rush",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/exMWkAyjTPknRPaHwqCPY.png",
+    "home_score": 0,
+    "away_team": "Appalachian",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lM1_178bsEWxk2UsVc1yy.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Ekuador - Serie A",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/6pyj2bytt2osbjk69owzfehcg.png",
     "match_date": "2026-07-15",
@@ -686,6 +712,19 @@
     "home_score": 0,
     "away_team": "Delfin",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qx5IcDoqcRe9oTvwlQ2wP.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-15",
+    "match_time": "07:30",
+    "status": "Jadwal",
+    "home_team": "New England FC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
+    "home_score": 0,
+    "away_team": "Ironbound",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/U9BZv5JWbE8SwHaKBxNrg.png",
     "away_score": 0
   },
   {
@@ -2054,6 +2093,32 @@
     "away_score": 0
   },
   {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-17",
+    "match_time": "03:00",
+    "status": "Jadwal",
+    "home_team": "Fort Lauderdale United FC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
+    "home_score": 0,
+    "away_team": "Swarm FC",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-17",
+    "match_time": "03:00",
+    "status": "Jadwal",
+    "home_team": "Minneapolis City",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MWnKlrTb9fTiLE8GWEw4X.png",
+    "home_score": 0,
+    "away_team": "West Virginia United",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lcCyjQy_wAtarYJVj9jLF.png",
+    "away_score": 0
+  },
+  {
     "league_name": "International - Europa League Qualification",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-07-17",
@@ -2103,6 +2168,19 @@
     "home_score": 0,
     "away_team": "Defensa y Justicia",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rfBSRk1WkXJv756CwXjGi.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-17",
+    "match_time": "05:00",
+    "status": "Jadwal",
+    "home_team": "Little Rock Rangers",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Oi2antEiJWF2Vl07brkxx.png",
+    "home_score": 0,
+    "away_team": "Global Football Innovation Academy",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "away_score": 0
   },
   {
@@ -2223,6 +2301,32 @@
     "away_score": 0
   },
   {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-17",
+    "match_time": "07:30",
+    "status": "Jadwal",
+    "home_team": "Dothan United",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Brqi-0VZinmasXs6Wb680.png",
+    "home_score": 0,
+    "away_team": "Brave SC",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Nkah43zuYvyuhz3c8PoXP.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-17",
+    "match_time": "07:30",
+    "status": "Jadwal",
+    "home_team": "Peoria City",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/v-NYVntzQnr91cWglgzvi.png",
+    "home_score": 0,
+    "away_team": "Sueno FC",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QazlyOTeD-hH_xjvp9AJc.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Argentina - Copa Argentina",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/2vovxa97k7v7ofa85dah2xktb.png",
     "match_date": "2026-07-17",
@@ -2246,6 +2350,19 @@
     "home_score": 0,
     "away_team": "Atlante",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SynqQvICvfmgn6Pvcbbo1.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-17",
+    "match_time": "08:15",
+    "status": "Jadwal",
+    "home_team": "Laredo Heat",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DM5UmBchBaZEcwPZN3PDn.png",
+    "home_score": 0,
+    "away_team": "Texoma",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "away_score": 0
   },
   {
@@ -3237,6 +3354,19 @@
     "away_score": 0
   },
   {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-18",
+    "match_time": "03:00",
+    "status": "Jadwal",
+    "home_team": "Steel City",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TP66nbEeZlNpwK8KRRXnU.png",
+    "home_score": 0,
+    "away_team": "Northern Indiana",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Peru - Primera Division",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/2uib9hdovpcye4re2l3omr4dl.png",
     "match_date": "2026-07-18",
@@ -3247,6 +3377,19 @@
     "home_score": 0,
     "away_team": "Deportivo Garcilaso",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/V9qfpbOu617nSQEA5UTah.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-18",
+    "match_time": "04:00",
+    "status": "Jadwal",
+    "home_team": "Colorado Storm",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
+    "home_score": 0,
+    "away_team": "Snohomish United",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "away_score": 0
   },
   {
@@ -3458,6 +3601,32 @@
     "away_score": 0
   },
   {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-18",
+    "match_time": "06:30",
+    "status": "Jadwal",
+    "home_team": "Flint City Bucks",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MU1eJGcbULrFac7HOVVMa.png",
+    "home_score": 0,
+    "away_team": "Buffalo",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qoxoPP5WkCZG-p3VHykfE.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-18",
+    "match_time": "06:30",
+    "status": "Jadwal",
+    "home_team": "Ventura County Fusion",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Hu0Fthf0Z6SIUsbZzfZgU.png",
+    "home_score": 0,
+    "away_team": "Project 51O",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-VnZsrDZ5u3CLo3lF0tv3.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Argentina - Primera Nacional",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/2vovxa97k7v7ofa85dah2xktb.png",
     "match_date": "2026-07-18",
@@ -3627,6 +3796,19 @@
     "away_score": 0
   },
   {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-18",
+    "match_time": "09:00",
+    "status": "Jadwal",
+    "home_team": "Ballard FC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-RH27aFZJkFUjNpW8A_yz.png",
+    "home_score": 0,
+    "away_team": "Utah United",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OhKw6uN5O-EBgUPl6n_oS.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Amerika Serikat - Major League Soccer",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/competition/badge/medium/287tckirbfj9nb8ar2k9r60vn.png",
     "match_date": "2026-07-18",
@@ -3637,6 +3819,19 @@
     "home_score": 0,
     "away_team": "Los Angeles FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wv0w3tqrAN4Pm9g0Rymzf.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-18",
+    "match_time": "09:30",
+    "status": "Jadwal",
+    "home_team": "San Francisco City FC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NLMMf_ivFzGqjGGxV2Sdu.png",
+    "home_score": 0,
+    "away_team": "FC Tucson",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xbaS6qDaJofqpey6Vq06s.png",
     "away_score": 0
   },
   {
@@ -7817,13 +8012,13 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/63nepb66un7juhglo2g6rezcl.png",
     "match_date": "2026-07-19",
     "match_time": "20:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Ringmahon Rangers",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4sxJYQ-OVzB9s1849GEyU.png",
     "home_score": 0,
     "away_team": "Bohemian FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SR4e9Szns2VshaDO4IVZx.png",
-    "away_score": 0
+    "away_score": 3
   },
   {
     "league_name": "Paraguay - Division Intermedia",
