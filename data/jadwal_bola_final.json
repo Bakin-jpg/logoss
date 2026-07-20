@@ -421,24 +421,11 @@
     "match_date": "2026-07-21",
     "match_time": "14:00",
     "status": "Jadwal",
-    "home_team": "Henan FC",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0QmETtssUWvhJ9s6Jy5_X.png",
+    "home_team": "Shanghai Shenhua",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VPPjqwp97kVEQWwZY2Fro.png",
     "home_score": 0,
-    "away_team": "Dalian Yingbo",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/X08L7fJ_M5og-ExRIP41V.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Tiongkok - China Cup",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/6e8huv1g6g173rptk3y6jsg5z.png",
-    "match_date": "2026-07-21",
-    "match_time": "14:00",
-    "status": "Jadwal",
-    "home_team": "Lanzhou Longyuan Athletic",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
-    "home_score": 0,
-    "away_team": "Shaanxi Union",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Q6t_WbfYHXH6zjpifQGxe.png",
+    "away_team": "Qingdao Hainiu",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ABFXJ0uAAD0cWNt6dpKbq.png",
     "away_score": 0
   },
   {
@@ -460,19 +447,6 @@
     "match_date": "2026-07-21",
     "match_time": "14:00",
     "status": "Jadwal",
-    "home_team": "Shanghai Shenhua",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VPPjqwp97kVEQWwZY2Fro.png",
-    "home_score": 0,
-    "away_team": "Qingdao Hainiu",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ABFXJ0uAAD0cWNt6dpKbq.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Tiongkok - China Cup",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/6e8huv1g6g173rptk3y6jsg5z.png",
-    "match_date": "2026-07-21",
-    "match_time": "14:00",
-    "status": "Jadwal",
     "home_team": "Wuhan Three Towns",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gNvq5U3QwbelwZ-YKKy9c.png",
     "home_score": 0,
@@ -486,11 +460,37 @@
     "match_date": "2026-07-21",
     "match_time": "14:00",
     "status": "Jadwal",
+    "home_team": "Henan FC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0QmETtssUWvhJ9s6Jy5_X.png",
+    "home_score": 0,
+    "away_team": "Dalian Yingbo",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/X08L7fJ_M5og-ExRIP41V.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Tiongkok - China Cup",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/6e8huv1g6g173rptk3y6jsg5z.png",
+    "match_date": "2026-07-21",
+    "match_time": "14:00",
+    "status": "Jadwal",
     "home_team": "Yunnan Yukun",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/laoiO2FrEHdyV1yeC1Ked.png",
     "home_score": 0,
     "away_team": "Chengdu Rongcheng FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NNlFz4b-Ciw8glrGfqMLd.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Tiongkok - China Cup",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/6e8huv1g6g173rptk3y6jsg5z.png",
+    "match_date": "2026-07-21",
+    "match_time": "14:00",
+    "status": "Jadwal",
+    "home_team": "Lanzhou Longyuan Athletic",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
+    "home_score": 0,
+    "away_team": "Shaanxi Union",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Q6t_WbfYHXH6zjpifQGxe.png",
     "away_score": 0
   },
   {
@@ -5018,6 +5018,19 @@
     "away_score": 0
   },
   {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-25",
+    "match_time": "02:00",
+    "status": "Jadwal",
+    "home_team": "Ballard FC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-RH27aFZJkFUjNpW8A_yz.png",
+    "home_score": 0,
+    "away_team": "Ventura County Fusion",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Hu0Fthf0Z6SIUsbZzfZgU.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Ekuador - Serie B",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/6pyj2bytt2osbjk69owzfehcg.png",
     "match_date": "2026-07-25",
@@ -5187,6 +5200,19 @@
     "away_score": 0
   },
   {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-25",
+    "match_time": "05:30",
+    "status": "Jadwal",
+    "home_team": "Vermont Green FC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GdrUYQoUTyTh6_8yzh16Z.png",
+    "home_score": 0,
+    "away_team": "Asheville City SC",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Q-X2fQ7UDF29-fkdpA-Z6.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Uruguay - Primera Division",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/286fwlvd6dzntv6ewv3cyvb0p.png",
     "match_date": "2026-07-25",
@@ -5236,6 +5262,19 @@
     "home_score": 0,
     "away_team": "Deportivo Pereira",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3mJInx0isGyKhb8hJayjt.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-25",
+    "match_time": "06:30",
+    "status": "Jadwal",
+    "home_team": "Flint City Bucks",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MU1eJGcbULrFac7HOVVMa.png",
+    "home_score": 0,
+    "away_team": "Peoria City",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/v-NYVntzQnr91cWglgzvi.png",
     "away_score": 0
   },
   {
@@ -5392,6 +5431,19 @@
     "home_score": 0,
     "away_team": "CD Jaguares",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7SiNt4rLzdgc-EjF3wTqV.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Amerika Serikat - USL League Two",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7hr2f89v44y65dyu9k92vprwn.png",
+    "match_date": "2026-07-25",
+    "match_time": "08:30",
+    "status": "Jadwal",
+    "home_team": "Laredo Heat",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DM5UmBchBaZEcwPZN3PDn.png",
+    "home_score": 0,
+    "away_team": "Fort Lauderdale United FC",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "away_score": 0
   },
   {
