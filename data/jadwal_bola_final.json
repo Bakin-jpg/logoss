@@ -199,10 +199,10 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/17oj2qrzqlkhdjvazum10sx2i.png",
     "match_date": "2026-07-21",
     "match_time": "01:30",
-    "status": "Live 53'",
+    "status": "FT",
     "home_team": "Rapid Bucuresti",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d_uBgqPkzVIv57bXWc0Te.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "Sepsi OSK",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/S4AjVbYqh3VDTyh4-1eMo.png",
     "away_score": 0
@@ -212,10 +212,10 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/3dgy24s32p56l29s66imputcy.png",
     "match_date": "2026-07-21",
     "match_time": "02:00",
-    "status": "Live 45'",
+    "status": "FT",
     "home_team": "San Antonio Bulo Bulo",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/UZKIO3sz5sMdqVGXm5zi9.png",
-    "home_score": 1,
+    "home_score": 2,
     "away_team": "ABB",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "away_score": 1
@@ -225,23 +225,23 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/6pyj2bytt2osbjk69owzfehcg.png",
     "match_date": "2026-07-21",
     "match_time": "02:00",
-    "status": "Live 45'",
+    "status": "FT",
     "home_team": "Mushuc Runa",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/guKT7HMxwKGT2nWYDf7_q.png",
-    "home_score": 1,
+    "home_score": 2,
     "away_team": "Orense",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/C5AoP3BktPQiBWcR9id_1.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "International - Club Friendlies",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-07-21",
     "match_time": "02:15",
-    "status": "Live 32'",
+    "status": "FT",
     "home_team": "Sporting CP",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d-wYwIuJ2WUNcTmmMHWCH.png",
-    "home_score": 1,
+    "home_score": 7,
     "away_team": "Strasbourg",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/V0aQCOKoxLK73s4qjBKmi.png",
     "away_score": 0
@@ -251,20 +251,20 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/4jjsm5a20nnxgw5cus6b7yxc6.png",
     "match_date": "2026-07-21",
     "match_time": "02:15",
-    "status": "Live 33'",
+    "status": "FT",
     "home_team": "HK Kopavogs",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3u4HVZ9OfpbW4kNpvYgIh.png",
-    "home_score": 2,
+    "home_score": 6,
     "away_team": "Vestri",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MPjg9sgy_lNujWd4XABb4.png",
-    "away_score": 0
+    "away_score": 2
   },
   {
     "league_name": "Islandia - Besta deildin",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/4jjsm5a20nnxgw5cus6b7yxc6.png",
     "match_date": "2026-07-21",
     "match_time": "02:15",
-    "status": "Live 34'",
+    "status": "FT",
     "home_team": "FH Hafnarfjordur",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4M-23Uwl7ykDMLbOgY3tg.png",
     "home_score": 0,
@@ -277,13 +277,13 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/4jjsm5a20nnxgw5cus6b7yxc6.png",
     "match_date": "2026-07-21",
     "match_time": "02:15",
-    "status": "Live 34'",
+    "status": "FT",
     "home_team": "Keflavik",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QR1Wxkdu-VmhhZjiZNSTf.png",
-    "home_score": 0,
+    "home_score": 5,
     "away_team": "IA Akranes",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gc83znSlW6tKbXTw_VelF.png",
-    "away_score": 0
+    "away_score": 2
   },
   {
     "league_name": "Uruguay - Primera Division",
@@ -342,13 +342,13 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/3dgy24s32p56l29s66imputcy.png",
     "match_date": "2026-07-21",
     "match_time": "06:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Nacional Potosi",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgYLpdPhfeRHCmCwlz4Vh.png",
-    "home_score": 0,
+    "home_score": 1,
     "away_team": "CDT Real Oruro",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
-    "away_score": 0
+    "away_score": 4
   },
   {
     "league_name": "Uruguay - Primera Division",
@@ -387,19 +387,6 @@
     "home_score": 0,
     "away_team": "Deportivo Moron",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2Van_bslJF32ur0ttzvMz.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Bulgaria - First Professional League",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/5a1vsxg8tbnsk65iefq1q8tlt.png",
-    "match_date": "2026-07-22",
-    "match_time": "01:30",
-    "status": "CANCELLED",
-    "home_team": "Botev Plovdiv",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Vf8mEpBkRfHox3Js3qji9.png",
-    "home_score": 0,
-    "away_team": "PFC Lokomotiv Sofia 1929",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LFvLhqFVNmw2R4dnzCUy5.png",
     "away_score": 0
   },
   {
