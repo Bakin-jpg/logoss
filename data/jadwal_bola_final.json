@@ -4,10 +4,10 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-07-27",
     "match_time": "18:00",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "Singapore",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xSezxRgTtPJeoWWcyrPQf.png",
-    "home_score": 0,
+    "home_score": 2,
     "away_team": "Timor-Leste",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sxtqEkBICnFrsmV6DNcGQ.png",
     "away_score": 0
@@ -17,13 +17,13 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-07-27",
     "match_time": "20:30",
-    "status": "Jadwal",
+    "status": "Live 57'",
     "home_team": "Indonesia",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0UfaW7b19pjwQKkcCpzGP.png",
-    "home_score": 0,
+    "home_score": 4,
     "away_team": "Cambodia",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WeLPZfmFhjCvMO1rMVeOK.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Latvia - Virsliga",
@@ -707,11 +707,11 @@
     "match_date": "2026-07-28",
     "match_time": "16:45",
     "status": "Jadwal",
-    "home_team": "Western Sydney Wanderers FC",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aXWR0MHYRvz7unqMLkly_.png",
+    "home_team": "Chelsea",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png",
     "home_score": 0,
-    "away_team": "Chelsea",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png",
+    "away_team": "Western Sydney Wanderers FC",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aXWR0MHYRvz7unqMLkly_.png",
     "away_score": 0
   },
   {
@@ -1183,6 +1183,19 @@
     "away_score": 0
   },
   {
+    "league_name": "International - Club Friendlies",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-07-29",
+    "match_time": "01:30",
+    "status": "Jadwal",
+    "home_team": "Crystal Palace",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fkqJeAhCc1RGGGO8bTZwl.png",
+    "home_score": 0,
+    "away_team": "Famalicao",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/b5tWz_cJi30LvOqmehy1Z.png",
+    "away_score": 0
+  },
+  {
     "league_name": "International - Champions League Qualification",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-07-29",
@@ -1638,19 +1651,6 @@
     "away_score": 0
   },
   {
-    "league_name": "International - Club Friendlies",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
-    "match_date": "2026-07-29",
-    "match_time": "17:00",
-    "status": "Jadwal",
-    "home_team": "Westerlo",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pZW-dkEAZk539-eqyGOi2.png",
-    "home_score": 0,
-    "away_team": "Kifisia FC",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/izEdjTF8OGoyWRRuwKzcj.png",
-    "away_score": 0
-  },
-  {
     "league_name": "Korea Selatan - Cup",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/4vzpxtqkiwx0puygnmayr74di.png",
     "match_date": "2026-07-29",
@@ -1823,6 +1823,19 @@
     "league_name": "International - Club Friendlies",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-07-29",
+    "match_time": "19:00",
+    "status": "Jadwal",
+    "home_team": "Westerlo",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pZW-dkEAZk539-eqyGOi2.png",
+    "home_score": 0,
+    "away_team": "Kifisia FC",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/izEdjTF8OGoyWRRuwKzcj.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "International - Club Friendlies",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-07-29",
     "match_time": "20:00",
     "status": "Jadwal",
     "home_team": "Bayer Leverkusen",
@@ -1986,6 +1999,19 @@
     "home_score": 0,
     "away_team": "Klaksvik",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xCEoTHHypblATtFTZk2fn.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "International - Club Friendlies",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-07-29",
+    "match_time": "23:00",
+    "status": "Jadwal",
+    "home_team": "AEK Athens",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3sEEZes8KdSncvPiQsKQC.png",
+    "home_score": 0,
+    "away_team": "Samsunspor",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YHGMtRQEKOKPtSvmVXnHu.png",
     "away_score": 0
   },
   {
@@ -2220,6 +2246,19 @@
     "home_score": 0,
     "away_team": "Newcastle United",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "International - Club Friendlies",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-07-30",
+    "match_time": "01:30",
+    "status": "Jadwal",
+    "home_team": "Doncaster Rovers",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KvbZiOWUOuGKbDtAzJ20H.png",
+    "home_score": 0,
+    "away_team": "Wolverhampton Wanderers",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q8LuXPdOIsqKGDbg8rjSp.png",
     "away_score": 0
   },
   {
@@ -3276,6 +3315,19 @@
     "away_score": 0
   },
   {
+    "league_name": "International - Club Friendlies",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-07-31",
+    "match_time": "01:00",
+    "status": "Jadwal",
+    "home_team": "Malaga",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N9ip4ws6bBGlRkUQc-Vvr.png",
+    "home_score": 0,
+    "away_team": "Al Ittihad",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/h4um8LbVcB4zN_E2ern6K.png",
+    "away_score": 0
+  },
+  {
     "league_name": "International - Conference League Qualification",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
     "match_date": "2026-07-31",
@@ -3983,6 +4035,19 @@
     "match_date": "2026-07-31",
     "match_time": "17:00",
     "status": "Jadwal",
+    "home_team": "FC Koeln",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ElZxB_J96MBe8X1MIVM9K.png",
+    "home_score": 0,
+    "away_team": "Hertha Berlin",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1WUK28z1JYdgyq4zBWYBv.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "International - Club Friendlies",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-07-31",
+    "match_time": "17:00",
+    "status": "Jadwal",
     "home_team": "Sassuolo",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4btO5zas2N3AH8Y_DRG6b.png",
     "home_score": 0,
@@ -4134,6 +4199,19 @@
     "away_score": 0
   },
   {
+    "league_name": "International - Club Friendlies",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-07-31",
+    "match_time": "21:00",
+    "status": "Jadwal",
+    "home_team": "Mainz 05",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/f2-8qfj2bk5S0vTBEEa9G.png",
+    "home_score": 0,
+    "away_team": "Shabab Al-Ahli Dubai FC",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/a7b1m3nfjxq0nq5wzcebnyioe.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Belarus - Premier League",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/2vn7xzv9g752y1h5ufjzr27i8.png",
     "match_date": "2026-07-31",
@@ -4157,6 +4235,19 @@
     "home_score": 0,
     "away_team": "SK Prostejov",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/tR4gd5pnOKJFV_C7BrHC6.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "International - Club Friendlies",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-07-31",
+    "match_time": "22:00",
+    "status": "Jadwal",
+    "home_team": "Monaco",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/F_zla_b5a_HE5hGvveHfz.png",
+    "home_score": 0,
+    "away_team": "Cercle Brugge",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/R4o-83B9ERKzmBpN7enUB.png",
     "away_score": 0
   },
   {
@@ -6731,6 +6822,19 @@
     "home_score": 0,
     "away_team": "Dandenong City",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/tP1JZPdxYa0yHh6ynLggE.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "International - Club Friendlies",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
+    "match_date": "2026-08-01",
+    "match_time": "16:00",
+    "status": "Jadwal",
+    "home_team": "RW Essen",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DpBlsGPWA1aHM8a4_1JG2.png",
+    "home_score": 0,
+    "away_team": "Bayer Leverkusen",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jEUaq-mmqK2hKxbzCjsUh.png",
     "away_score": 0
   },
   {
@@ -10093,19 +10197,6 @@
     "match_date": "2026-08-01",
     "match_time": "23:00",
     "status": "Jadwal",
-    "home_team": "Carl Zeiss Jena",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4fwWZjPjm9ZOhvlwI6WHq.png",
-    "home_score": 0,
-    "away_team": "Bayer Leverkusen",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jEUaq-mmqK2hKxbzCjsUh.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "International - Club Friendlies",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/7yasa43laq1nb2e6f8bfuvxed.png",
-    "match_date": "2026-08-01",
-    "match_time": "23:00",
-    "status": "Jadwal",
     "home_team": "Angers",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Nh7HldKX3w-GmQDDadcOs.png",
     "home_score": 0,
@@ -10202,6 +10293,19 @@
     "home_score": 0,
     "away_team": "Sligo Rovers",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/stxsh2O21S8r9E_aFXEPX.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Luksemburg - National Division",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/f2r46apchse9eg3n9c9pupfs.png",
+    "match_date": "2026-08-01",
+    "match_time": "23:00",
+    "status": "Jadwal",
+    "home_team": "FC Wiltz 71",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uX59BbUBazUngo_XYr4IK.png",
+    "home_score": 0,
+    "away_team": "FC Etzella Ettelbruck",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "away_score": 0
   },
   {
@@ -10591,6 +10695,19 @@
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MVeXpzJe1seuRLdtaXcTr.png",
     "home_score": 0,
     "away_team": "KVZ",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Luksemburg - National Division",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/f2r46apchse9eg3n9c9pupfs.png",
+    "match_date": "2026-08-02",
+    "match_time": "00:00",
+    "status": "Jadwal",
+    "home_team": "FC Progres Niederkorn",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/06GSgWOaXGoCxJcaHNUYi.png",
+    "home_score": 0,
+    "away_team": "AS Jeunesse Esch",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "away_score": 0
   },
@@ -12594,58 +12711,6 @@
     "home_score": 0,
     "away_team": "Atlante",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SynqQvICvfmgn6Pvcbbo1.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Australia - NPL",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/u5ieemi69z72c3bgczyy68lo.png",
-    "match_date": "2026-08-02",
-    "match_time": "11:30",
-    "status": "Jadwal",
-    "home_team": "Sydney United 58",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
-    "home_score": 0,
-    "away_team": "Spirit FC",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fdKuKXX-ZHzaB4Do0dv6M.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Australia - NPL",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/u5ieemi69z72c3bgczyy68lo.png",
-    "match_date": "2026-08-02",
-    "match_time": "11:30",
-    "status": "Jadwal",
-    "home_team": "Brisbane Roar FC Youth",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NsiMAc04EtJxkFdichrcf.png",
-    "home_score": 0,
-    "away_team": "Moreton City Excelsior",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RWJyza5Ks2Tl221TQ633D.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Australia - NPL",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/u5ieemi69z72c3bgczyy68lo.png",
-    "match_date": "2026-08-02",
-    "match_time": "11:30",
-    "status": "Jadwal",
-    "home_team": "Magic United TFA",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NusymAyyKtrpLxw5-eDR6.png",
-    "home_score": 0,
-    "away_team": "Olympic FC",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OWmv2zYqWpGcbZgLDDQuz.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Australia - NPL",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/u5ieemi69z72c3bgczyy68lo.png",
-    "match_date": "2026-08-02",
-    "match_time": "11:30",
-    "status": "Jadwal",
-    "home_team": "Clarence Zebras",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dBwgFR1S8IYSGYxeWAYwk.png",
-    "home_score": 0,
-    "away_team": "Ulverstone",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png",
     "away_score": 0
   }
 ]
