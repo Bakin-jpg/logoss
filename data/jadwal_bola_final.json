@@ -4,26 +4,26 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/u5ieemi69z72c3bgczyy68lo.png",
     "match_date": "2026-08-18",
     "match_time": "16:30",
-    "status": "Jadwal",
+    "status": "FT",
     "home_team": "SD Raiders FC",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7gIFdFt-5RdmxYicDIhxu.png",
     "home_score": 0,
     "away_team": "Sydney FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2k_QAa8ZIjldmLtaupI62.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "Tiongkok - Super League",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/6e8huv1g6g173rptk3y6jsg5z.png",
     "match_date": "2026-08-18",
     "match_time": "18:35",
-    "status": "Jadwal",
+    "status": "Live 62'",
     "home_team": "Shanghai Shenhua",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VPPjqwp97kVEQWwZY2Fro.png",
     "home_score": 0,
     "away_team": "Beijing Guoan",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/g1A-6U_JeFw7qZEvPKTwf.png",
-    "away_score": 0
+    "away_score": 1
   },
   {
     "league_name": "International - ASEAN Championship",
@@ -1526,19 +1526,6 @@
     "match_date": "2026-08-19",
     "match_time": "17:00",
     "status": "Jadwal",
-    "home_team": "Dangjin Citizen",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/063GeTT_avl3PxKuEYfXd.png",
-    "home_score": 0,
-    "away_team": "Jeonbuk Hyundai Motors FC",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/17F1e0n7ejNdph3T4GhNx.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Korea Selatan - Cup",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/4vzpxtqkiwx0puygnmayr74di.png",
-    "match_date": "2026-08-19",
-    "match_time": "17:00",
-    "status": "Jadwal",
     "home_team": "FC Anyang",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rFt6dH7eY4Q1okBwurQQw.png",
     "home_score": 0,
@@ -1578,6 +1565,19 @@
     "match_date": "2026-08-19",
     "match_time": "17:00",
     "status": "Jadwal",
+    "home_team": "Jeonbuk Hyundai Motors FC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/17F1e0n7ejNdph3T4GhNx.png",
+    "home_score": 0,
+    "away_team": "Dangjin Citizen",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/063GeTT_avl3PxKuEYfXd.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Korea Selatan - Cup",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/4vzpxtqkiwx0puygnmayr74di.png",
+    "match_date": "2026-08-19",
+    "match_time": "17:00",
+    "status": "Jadwal",
     "home_team": "Pohang Steelers",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9EMrY_IHgfhLUt58w9lNc.png",
     "home_score": 0,
@@ -1596,6 +1596,19 @@
     "home_score": 0,
     "away_team": "Gwangju FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YZftg-p71sPjei6EuboeB.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Australia - NPL",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/u5ieemi69z72c3bgczyy68lo.png",
+    "match_date": "2026-08-19",
+    "match_time": "17:30",
+    "status": "Jadwal",
+    "home_team": "Preston Lions",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/agi0eKMArKRgwJzCnervE.png",
+    "home_score": 0,
+    "away_team": "Melbourne City FC Youth",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Q6ujGFWgkdq5ntY1KYVGc.png",
     "away_score": 0
   },
   {
@@ -2435,7 +2448,7 @@
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/6kby8rq1p01fg5ds38ckkrcs5.png",
     "match_date": "2026-08-20",
     "match_time": "05:00",
-    "status": "Jadwal",
+    "status": "POSTPONED",
     "home_team": "Orsomarso",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sN1TsmK3pFPKCNYiTR5yi.png",
     "home_score": 0,
@@ -4404,19 +4417,6 @@
     "home_score": 0,
     "away_team": "St Albans Saints",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/070fxRxYbrLe8SAREdH7a.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Australia - NPL",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/u5ieemi69z72c3bgczyy68lo.png",
-    "match_date": "2026-08-21",
-    "match_time": "16:45",
-    "status": "Jadwal",
-    "home_team": "Dandenong City",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/tP1JZPdxYa0yHh6ynLggE.png",
-    "home_score": 0,
-    "away_team": "Preston Lions",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/agi0eKMArKRgwJzCnervE.png",
     "away_score": 0
   },
   {
@@ -7569,19 +7569,6 @@
     "league_name": "Australia - NPL",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/u5ieemi69z72c3bgczyy68lo.png",
     "match_date": "2026-08-22",
-    "match_time": "11:00",
-    "status": "Jadwal",
-    "home_team": "Hume City FC",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/wd8lTmAwS0ZGGccF2cGB_.png",
-    "home_score": 0,
-    "away_team": "Caroline Springs George Cross",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PR8OEq4Ygs8R5Cpd7h62r.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Australia - NPL",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/u5ieemi69z72c3bgczyy68lo.png",
-    "match_date": "2026-08-22",
     "match_time": "11:30",
     "status": "Jadwal",
     "home_team": "Canberra Olympic",
@@ -7696,6 +7683,19 @@
     "away_score": 0
   },
   {
+    "league_name": "Australia - NPL",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/u5ieemi69z72c3bgczyy68lo.png",
+    "match_date": "2026-08-22",
+    "match_time": "13:00",
+    "status": "Jadwal",
+    "home_team": "Hume City FC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/wd8lTmAwS0ZGGccF2cGB_.png",
+    "home_score": 0,
+    "away_team": "Caroline Springs George Cross",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PR8OEq4Ygs8R5Cpd7h62r.png",
+    "away_score": 0
+  },
+  {
     "league_name": "Jepang - J. League 2",
     "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/lxyibh89lpdc0bfian1nx0xq.png",
     "match_date": "2026-08-22",
@@ -7792,11 +7792,37 @@
     "match_date": "2026-08-22",
     "match_time": "14:00",
     "status": "Jadwal",
+    "home_team": "Northbridge FC Bulls",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WjpsmOj_oHsJd-Hc5kVyl.png",
+    "home_score": 0,
+    "away_team": "Canterbury Bankstown FC",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9LQXW9BRmzEcl75b9m_Mn.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Australia - Brisbane Capital League",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/u5ieemi69z72c3bgczyy68lo.png",
+    "match_date": "2026-08-22",
+    "match_time": "14:00",
+    "status": "Jadwal",
     "home_team": "North Geelong Warriors",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YEaO3Bfpw6gMbqvr4aUg7.png",
     "home_score": 0,
     "away_team": "Western United FC Youth",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SO-7_HthDPjwYW36BlSa_.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Australia - NPL",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/u5ieemi69z72c3bgczyy68lo.png",
+    "match_date": "2026-08-22",
+    "match_time": "14:00",
+    "status": "Jadwal",
+    "home_team": "Dandenong City",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/tP1JZPdxYa0yHh6ynLggE.png",
+    "home_score": 0,
+    "away_team": "Preston Lions",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/agi0eKMArKRgwJzCnervE.png",
     "away_score": 0
   },
   {
@@ -8070,19 +8096,6 @@
     "home_score": 0,
     "away_team": "Palmerston Rovers FC",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8bPdSITXl1kiK9Ehsg_5K.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Australia - Brisbane Capital League",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/u5ieemi69z72c3bgczyy68lo.png",
-    "match_date": "2026-08-22",
-    "match_time": "16:00",
-    "status": "Jadwal",
-    "home_team": "Northbridge FC Bulls",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WjpsmOj_oHsJd-Hc5kVyl.png",
-    "home_score": 0,
-    "away_team": "Canterbury Bankstown FC",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9LQXW9BRmzEcl75b9m_Mn.png",
     "away_score": 0
   },
   {
@@ -10501,6 +10514,19 @@
     "home_score": 0,
     "away_team": "Motor Lublin",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/56EC08qHaxzlp25e2zyYV.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Afrika Selatan - MTN 8 Cup",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/1kiwby3xmt97m3ejw76qs4i6k.png",
+    "match_date": "2026-08-22",
+    "match_time": "20:00",
+    "status": "Jadwal",
+    "home_team": "Sekhukhune United",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YakSrfcgQUxg-CijWXbXi.png",
+    "home_score": 0,
+    "away_team": "Orlando Pirates",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2mt4sm2H6GE45dtr2emV8.png",
     "away_score": 0
   },
   {
@@ -18192,6 +18218,19 @@
     "match_date": "2026-08-23",
     "match_time": "12:00",
     "status": "Jadwal",
+    "home_team": "Melbourne City FC Youth",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Q6ujGFWgkdq5ntY1KYVGc.png",
+    "home_score": 0,
+    "away_team": "Bentleigh Greens",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rKjayR0p4jOPGntqmFFhk.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Australia - NPL",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/u5ieemi69z72c3bgczyy68lo.png",
+    "match_date": "2026-08-23",
+    "match_time": "12:00",
+    "status": "Jadwal",
     "home_team": "Sydney Olympic",
     "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BpSGXryLHW_mVdiPotbjZ.png",
     "home_score": 0,
@@ -18210,19 +18249,6 @@
     "home_score": 0,
     "away_team": "Western Sydney Wanderers FC Youth",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NAn6eW_nlTPdqpFVtM-7D.png",
-    "away_score": 0
-  },
-  {
-    "league_name": "Australia - NPL",
-    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/u5ieemi69z72c3bgczyy68lo.png",
-    "match_date": "2026-08-23",
-    "match_time": "12:00",
-    "status": "Jadwal",
-    "home_team": "Melbourne City FC Youth",
-    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Q6ujGFWgkdq5ntY1KYVGc.png",
-    "home_score": 0,
-    "away_team": "Bentleigh Greens",
-    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rKjayR0p4jOPGntqmFFhk.png",
     "away_score": 0
   },
   {
@@ -19445,6 +19471,19 @@
     "home_score": 0,
     "away_team": "Zaglebie Lubin",
     "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pNj91yiHXpdZIivRuWoS9.png",
+    "away_score": 0
+  },
+  {
+    "league_name": "Afrika Selatan - MTN 8 Cup",
+    "league_logo": "https://cdn.sportfeeds.io/sdl/images/flags/areas/75/1kiwby3xmt97m3ejw76qs4i6k.png",
+    "match_date": "2026-08-23",
+    "match_time": "20:00",
+    "status": "Jadwal",
+    "home_team": "Mamelodi Sundowns FC",
+    "home_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kfdXAFPbKdkR9O_DFH5EK.png",
+    "home_score": 0,
+    "away_team": "Lamontville Golden Arrows",
+    "away_logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/s7xf6mvsygysn88hs5bx1vzj.png",
     "away_score": 0
   },
   {
